@@ -6,7 +6,7 @@
 
 Here is a snapshot of the web interface:
 
-<img width="1887" height="910" alt="f027b2d1dee46134bfbc139f3f15c87a" src="https://github.com/user-attachments/assets/33130ef9-a344-4463-89bb-c02f2c5d757a" />
+<img width="1887" height="910" alt="f027b2d1dee46134bfbc139f3f15c87a" src="Fig/1.png" />
 
 
 **Boost your code efficiency with GBLLM now!**
@@ -26,7 +26,7 @@ We have developed an online demo based on the method proposed in our paper **"Du
 
 ## Introduction
 
-<img width="5297" height="1597" alt="over-view" src="https://github.com/user-attachments/assets/54f1dd24-a86a-47b1-a147-d0861016dc21" />
+<img width="5297" height="1597" alt="over-view" src="Fig/2.png" />
 
 
 
