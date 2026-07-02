@@ -1,0 +1,813 @@
+[
+  {
+    "skill_id": "S1",
+    "type": "meta",
+    "name": "S1 Diagnose from Traces",
+    "description": "Systematically diagnose why a competitive-programming solution is slow using structured audit traces (constraints, dominant operations, complexity, and bottlenecks)."
+  },
+  {
+    "skill_id": "S2",
+    "type": "meta",
+    "name": "S2 Retrieve",
+    "description": "A meta-skill for selectively invoking optimization operators based on uncertainty signals and a dynamic skill-budget, using confidence-aware routing instead of blindly scanning the full catalog."
+  },
+  {
+    "skill_id": "S3",
+    "type": "meta",
+    "name": "S3 – Strategize (Compose Diverse Plans)",
+    "description": "Design 2–4 meaningfully different solution plans by recombining known skills, deliberately varying the core levers (algorithm choice, math reformulation, precomputation, constant-factor tuning, etc.), and anticipating trade-offs."
+  },
+  {
+    "skill_id": "S4",
+    "type": "meta",
+    "name": "S4 Judge Static Ranking",
+    "description": "Rank candidate solutions by quality using static performance audits, weighing algorithmic complexity, constant factors, correctness risk, and problem context."
+  },
+  {
+    "skill_id": "O001",
+    "type": "operator",
+    "name": "Python Constant Factor Optimization and Lightweight Data Structure Refactor",
+    "description": "A reusable optimization skill for taking an already-correct Python solution and making it fast enough for large inputs by aggressively reducing constant factors and replacing heavy abstractions with lightweight, specialized implementations. This includes (1) stripping template bloat (unused imports, helpers, and wrappers), (2) tightening hot loops and I/O, and (3) swapping overengineered data structures",
+    "tags": [
+      "performance-optimization",
+      "constant-factor-reduction",
+      "code-cleanup",
+      "data-structure-design",
+      "python-specific",
+      "segment-tree",
+      "disjoint-set-union",
+      "prefix-sums",
+      "heap-optimization",
+      "bfs-queue"
+    ],
+    "triggers": [
+      "Solution is already using an ostensibly optimal big-O algorithm but still times out or runs near limits for n up to ~1e5–3e5.",
+      "Presence of a large competitive-programming template: many imports, helpers, and global constants that are unused or used only once.",
+      "Use of slow or heavy I/O patterns, such as eval(input()), many thin input wrappers, or per-line reads inside large loops.",
+      "Data structure implemented via classes and methods (segment trees, Fenwick trees, heaps, DSU, BFS queues) with heavy attribute lookups and wrapper methods in the hot path.",
+      "Range operations implemented with per-element loops over intervals (e.g., repeated point updates) despite constraints that demand O(log n) range updates/queries.",
+      "Static query patterns (e.g., offline range sums or counts) solved with dynamic, general-purpose trees instead of prefix sums or DP tables.",
+      "Use of thread-safe queues (queue.Queue) or other multi-purpose containers in purely single-threaded BFS or sequence generation.",
+      "Inner loops showing repeated list allocations (slicing, reversed(list(range( ))), building temporary arrays) or redundant full-array passes."
+    ]
+  },
+  {
+    "skill_id": "O002",
+    "type": "operator",
+    "name": "Bfs Constructive Kth Digit Sequence",
+    "description": "Reusable optimization pattern distilled from weighted traces.",
+    "tags": [
+      "bfs",
+      "implicit_graph",
+      "sequence_generation",
+      "kth_element",
+      "constructive_enumeration",
+      "digit_constraints",
+      "recursion_to_iteration",
+      "sorting_avoidance",
+      "dp_elimination",
+      "constant_factor_optimization"
+    ],
+    "triggers": [
+      "You need the k-th smallest value in a monotone sequence defined by local digit constraints (e.g., constraint only depends on neighboring digits).",
+      "Existing code precomputes all valid numbers up to a fixed digit length or numeric bound, stores them, and then sorts to pick the k-th element.",
+      "A digit-DP counting function count(x) is used inside a binary search on x, but there is only one (or few) k-th queries and k is moderate.",
+      "Recursive DFS explores all digit strings up to some max length, often with sys.setrecursionlimit raised, regardless of the requested k.",
+      "A heap-based approach maintains a global priority queue of candidates with a visited set and possibly a final sort or post-processing.",
+      "Brute-force next-number search increments integers and repeatedly checks the digit property via string conversion and digit scanning.",
+      "You see magic numeric cutoffs (e.g., fixed max value or max digit length) and significant over-generation unrelated to k."
+    ]
+  },
+  {
+    "skill_id": "O003",
+    "type": "operator",
+    "name": "Small k Binomial via Prime Exponents (No Global Factorials)",
+    "description": "Reusable optimization pattern distilled from weighted traces.",
+    "tags": [
+      "number_theory",
+      "combinatorics",
+      "prime_factorization",
+      "binomial_coefficient",
+      "modular_arithmetic",
+      "precomputation_removal",
+      "small_k_combinations",
+      "time_optimization",
+      "memory_optimization"
+    ],
+    "triggers": [
+      "Factorial and inverse-factorial arrays are precomputed up to N, N+offset, or a fixed MAX (e.g., 2e5) before using them for nCr, even though only O(log m) binomial coefficients are evaluated.",
+      "Array sizes for factorial helpers are tied directly to a large input parameter (like N up to 1e5–1e9) or to a worst-case MAXN rather than to actual small k values.",
+      "The only required combinations are of forms like C(n + e - 1, e) or C(n, e) where e comes from prime exponents and the sum of all e is provably O(log m).",
+      "There is only one test case or very few test cases, so large factorial precomputation cannot be amortized across many queries.",
+      "Runtime or profiling shows most time spent in factorial/inverse-factorial build loops or modular inverse-table construction, not in prime factorization or the core combinatorial logic.",
+      "Memory usage is dominated by factorial/inverse arrays of size O(N) or O(MAXN), sometimes leading to memory limits, even though the logical math only depends on a few small exponents.",
+      "Constraints allow parameters like N or M up to around 1e9, making any O(N) factorial precomputation or allocation clearly infeasible.",
+      "Repeated use of pow(x, MOD-2, MOD) inside generic nCr for tiny k, when a direct integer multiplicative formula would suffice."
+    ]
+  },
+  {
+    "skill_id": "O004",
+    "type": "operator",
+    "name": "Exploit Graph Structure and Data Structures for Faster Python Graph Algorithms",
+    "description": "Reusable optimization pattern distilled from weighted traces.",
+    "tags": [
+      "graphs",
+      "bfs",
+      "dfs",
+      "shortest_paths",
+      "all_pairs",
+      "distance_distribution",
+      "connected_components",
+      "union_find",
+      "max_flow",
+      "adjacency_list"
+    ],
+    "triggers": [
+      "Running BFS or Dijkstra once per vertex on a highly structured graph (e.g., path-like, tree, or with a single special edge) to get all-pairs distances or a distance histogram.",
+      "Building and scanning an n×n adjacency matrix for BFS/shortest paths when the graph is sparse or n is up to 10^4–10^5.",
+      "Using queue.Queue in BFS or graph traversals in a single-threaded setting, leading to many put/get/empty calls.",
+      "Counting connected components via BFS/DFS over stored adjacency lists when only static connectivity is needed and edges are processed offline.",
+      "Implementing Union-Find without path compression and/or with many redundant find calls, plus a final O(N) pass with a set to recompute the component count.",
+      "Using a generic, object-heavy max-flow implementation (e.g., Dinic with per-edge dicts or classes) on a small, dense, or highly structured flow network where a simpler capacity-matrix Ford–Fulkerson is viable.",
+      "Reallocating O(N)-sized distance/visited arrays inside an outer loop (e.g., N BFS runs) and repeatedly scanning entire lists or matrices in inner loops.",
+      "All-pairs shortest paths on a line-like graph with a tiny number of special edges where distances can be expressed with closed-form formulas."
+    ]
+  },
+  {
+    "skill_id": "O005",
+    "type": "operator",
+    "name": "Mean Based Minimization of Sum of Squared Deviations",
+    "description": "Optimize brute-force searches over an integer parameter that minimize a sum of squared deviations by exploiting the quadratic structure: the cost is minimized at the mean of the data. Replace loops over all candidate integers in a numeric range with evaluating the objective at only floor(mean) and ceil(mean), using precomputed aggregates (sum and optionally sum of squares) to achieve linear time independent of the",
+    "tags": [
+      "optimization",
+      "mathematical_optimization",
+      "quadratic_minimization",
+      "sum_of_squares",
+      "least_squares",
+      "mean",
+      "variance_minimization",
+      "array_processing",
+      "search_space_reduction",
+      "algorithmic_optimization"
+    ],
+    "triggers": [
+      "A loop over all integers between min(array) and max(array) (or 0..max(array)) where each iteration computes sum((a[i] - x)**2) or an equivalent quadratic cost for that x.",
+      "Nested loops where the outer loop scans a value range derived from max(array) - min(array) and the inner loop scans all elements to recompute a sum of squared differences.",
+      "Objective function has the form sum_i (a_i - p)^2 or can be algebraically expanded into n*p*p - 2*p*sum(a_i) + sum(a_i^2) for some scalar parameter p.",
+      "Time complexity depends on the numeric spread of values (max - min or max value) rather than on the number of elements n.",
+      "Use of NumPy or other vectorized operations inside a Python loop over candidate parameter values to repeatedly compute full-array squared differences.",
+      "An unused or redundant outer loop that repeats an identical search over candidate centers without using its loop variable.",
+      "Code initializes a best_cost to +inf and then updates it by brute-force over many integer candidates of a scalar parameter.",
+      "Sorting solely to obtain min and max before scanning all integers in that range and recomputing squared deviation sums for each."
+    ]
+  },
+  {
+    "skill_id": "O006",
+    "type": "operator",
+    "name": "Right Size Structures and Stream the Work",
+    "description": "Refactor linear-time counting and pair-counting code to remove large fixed buffers, redundant passes, and heavyweight structures. Use streaming prefix-style scans, boolean or frequency arrays sized to real input bounds, or hash maps over sparse keys. Keep the big-O the same but drop hidden O(K) terms, magic constants, and extra scans so runtime and memory scale with actual data instead of arbitrary limits.",
+    "tags": [
+      "optimization",
+      "counting",
+      "prefix-sum",
+      "frequency-map",
+      "hash-map",
+      "boolean-array",
+      "sweep-line",
+      "one-pass",
+      "space-optimization",
+      "constant-factor-optimization"
+    ],
+    "triggers": [
+      "Allocation of a large fixed-size list (e.g., 10**7, 400005, 86400, 100000) whose size is unrelated or only loosely related to the input size.",
+      "A dedicated loop whose only job is to append zeros or initialize a large buffer before actual processing.",
+      "Use of set(large_list) or Counter(large_list) over arrays that are mostly default values or padding.",
+      "Loops that always iterate over a full fixed range (e.g., all seconds in a day, all 1..K buckets) even when only a small subset of indices carry information.",
+      "Dense frequency arrays used with sparse or unbounded index expressions like i ± a[i].",
+      "Construction of full prefix/suffix arrays when only a running aggregate (sum, min, max) is required.",
+      "Using list.count inside a loop over possible values, or repeated `value in list` / list.remove inside nested loops.",
+      "Post-processing passes that build sets or scan entire arrays just to count distinct roots, distinct IDs, or zero entries."
+    ]
+  },
+  {
+    "skill_id": "O007",
+    "type": "operator",
+    "name": "Input Scaled Binomial Mod Optimization",
+    "description": "Reusable optimization pattern distilled from weighted traces.",
+    "tags": [
+      "combinatorics",
+      "binomial_coefficient",
+      "modular_arithmetic",
+      "precomputation",
+      "space_optimization",
+      "time_optimization",
+      "single_query",
+      "number_theory"
+    ],
+    "triggers": [
+      "Factorial, inverse, or inverse-factorial arrays are precomputed up to a large fixed constant (e.g., 1e6 or 2e5) that is not derived from the current input.",
+      "Only a single or very small number of nCk evaluations are performed, yet O(N) factorial/inverse tables are built where N is close to a worst-case bound.",
+      "An inverse table (or multiple inverse tables) is built linearly (sieve-style) when the code ultimately uses only a handful of modular inverses.",
+      "A large DP or Pascal-triangle table is constructed to compute a single binomial coefficient.",
+      "Tight memory or time limits with constraints where N (from coordinates, counts, or factorization exponents) can be large enough that three O(N) arrays are costly.",
+      "Combinations needed only along a single row (e.g., C(n-1, k) for k in a small range) or as a simple product over a small set (e.g., per prime factor), suggesting incremental or multiplicative formulas."
+    ]
+  },
+  {
+    "skill_id": "O008",
+    "type": "operator",
+    "name": "Input sensitive coprimality and prime structure classification",
+    "description": "A reusable optimization pattern for classifying integer collections by their shared prime factors (e.g., detecting shared divisors, coprimality structure) under tight performance constraints. It replaces naive divisor scans and heavy per-element factorization with input-sensitive precomputation (sieving only up to the actual maximum value), lightweight prime-factor tracking, and early exits. Depending on",
+    "tags": [
+      "number_theory",
+      "prime_factorization",
+      "sieve",
+      "smallest_prime_factor",
+      "gcd",
+      "coprimality",
+      "frequency_counting",
+      "multiple_counting",
+      "constant_factor_optimization",
+      "input_sensitive_precomputation"
+    ],
+    "triggers": [
+      "You need to determine whether a list of integers shares nontrivial common factors or to classify it by how primes are shared between elements.",
+      "Constraints allow values up to around 10^6–10^7 and counts up to around 10^5–10^6, so pairwise gcd checks or O(N^2) strategies are impossible.",
+      "There is a full sieve or prime-factor table built up to a hard-coded constant (e.g., 10**6) regardless of the actual maximum value in the input.",
+      "A sieve or divisor loop always scans the entire fixed range for every test case, even when the maximum encountered value is much smaller.",
+      "Per-number factorization uses trial division starting from 2 with increments of 1, or builds fresh sets/dicts of prime factors for every element.",
+      "Prime-usage tracking uses Python sets or dictionaries in the inner loop, even though prime values are bounded and can be indexed in an array.",
+      "Divisibility aggregation is done via patterns like arr[d::d] or sum(arr[d::d]) inside an outer loop over d, creating large temporary slices.",
+      "Sieve implementations use naive nested Python loops for marking multiples without slice-based marking or parity optimizations."
+    ]
+  },
+  {
+    "skill_id": "O009",
+    "type": "operator",
+    "name": "Arithmetic Loop to Closed Form Optimization",
+    "description": "Turn heavy numeric loops into O(1) or O(√N) formulas by recognizing arithmetic progressions, floor-division patterns, and algebraic structure. This operator replaces brute-force iteration (including nested loops) with direct arithmetic, divisor/quotient grouping, and early-pruned enumeration, reducing both asymptotic complexity and constant factors while keeping space O(1) or near-input-size.",
+    "tags": [
+      "math",
+      "number_theory",
+      "loop_optimization",
+      "sqrt_decomposition",
+      "arithmetic_progression",
+      "divisor_sums",
+      "closed_form",
+      "constant_factor_optimization",
+      "floor_division",
+      "bruteforce_reduction"
+    ],
+    "triggers": [
+      "A while- or for-loop that repeatedly adds a constant step to a variable until crossing a numeric bound, and the result is the number of iterations or a simple function of that count.",
+      "A loop `for i in range(1, n+1)` (or up to n//2) whose body uses integer division like `n // i` or slowly changing quotients/factors.",
+      "A nested loop examining all pairs or triples of integers (or indices) with purely arithmetic conditions, especially when constraints allow values up to 1e7–1e12.",
+      "A DP table or grid being filled with range sums by explicit loops over subranges, where each entry recomputes overlapping sums (suggesting prefix sums or 2D prefix sums).",
+      "Triple nested loops over small fixed bounds (e.g., 100) evaluating a symmetric quadratic or combinatorial expression, often with conditions monotone in the innermost index.",
+      "Loops whose inner body is only integer arithmetic and comparisons, with no dependence on complex state across iterations.",
+      "A built-in aggregation (sum, max, min) or expensive operation inside a loop where the argument or part of the expression is invariant across iterations.",
+      "A search over integer parameters to minimize or maximize a simple scalar objective (like count, distance, or affected cells) where the loop only uses the indices and constants, with no stateful updates."
+    ]
+  },
+  {
+    "skill_id": "O010",
+    "type": "operator",
+    "name": "DP State Reformulation and Dimension/Data Structure Optimization",
+    "description": "Refactor dynamic programs by shrinking or reshaping the state space and replacing naive nested scans with more suitable data structures. Typical applications include collapsing unnecessary DP dimensions (e.g., 2D→1D for knapsack-like DP, 2-row→1-row for subset DP), pruning unreachable or unneeded states, and turning expensive ‘scan-all-previous’ transitions into range queries via segment trees or similar",
+    "tags": [
+      "dynamic_programming",
+      "state_reformulation",
+      "dimension_reduction",
+      "space_optimization",
+      "constant_factor_optimization",
+      "unbounded_knapsack",
+      "subset_dp",
+      "bitmask_dp",
+      "set_cover",
+      "digit_dp"
+    ],
+    "triggers": [
+      "A DP table dimension is multiplied by an item index or step index even though transitions only depend on the current and/or previous row (e.g., (items+1) x (capacity+1) for unbounded knapsack).",
+      "A 1D knapsack-like recurrence `dp[x] = min(dp[x], dp[x - w_i] + c_i)` or `dp[x] = min_i dp[x - len_i] + cost_i` is implemented with an extra DP dimension for items or with a 2D table.",
+      "The outer DP loop iterates over a large extended range (e.g., up to target + max_length) and treats overshoot states both as sources and destinations, while the answer only depends on states `>= target`.",
+      "DP transitions involve value constraints like `|a[i] - a[j]| <= D` combined with index constraints (`j` in a sliding window), but are implemented by brute-force scanning over candidate indices for each `i`.",
+      "Use of `max( )` or `min( )` over a Python generator/list comprehension in the inner DP loop, especially when the comprehension’s range scales with N or a window parameter.",
+      "A huge fixed-sized buffer (e.g., size ~10^6 or more) is allocated for DP regardless of the actual N, sometimes combined with tricks like negative indexing or padding inputs.",
+      "Frequent calls to `bin(mask).count('1')` or explicit grouping of masks by popcount inside DP loops, indicating subset-partition or convolution-style enumeration rather than straightforward item-by-item transitions.",
+      "Bitmask DP for coverage/set-cover-like problems maintains multiple DP layers (e.g., `dp[2][1<<n]`) and performs both 'keep' and 'take' transitions explicitly for every (item, mask) pair."
+    ]
+  },
+  {
+    "skill_id": "O011",
+    "type": "operator",
+    "name": "Optimize Per Digit Loops in Brute Force Number Ranges",
+    "description": "When iterating over large numeric ranges and doing per-digit work (digit count, digit sum, digit-based predicates), naive implementations often use inner while-loops with modulo/division, float arithmetic, helper-function calls per element, or unnecessary precomputation structures. This operator rewrites such hot paths to use safe integer-only arithmetic or C-implemented string operations, flattens helper calls",
+    "tags": [
+      "optimization",
+      "loops",
+      "digit-processing",
+      "integer-arithmetic",
+      "string-builtins",
+      "constant-factor",
+      "bugfix",
+      "bruteforce",
+      "counting",
+      "implementation"
+    ],
+    "triggers": [
+      "A tight outer loop over a numeric range (e.g., for x in range(1, N+1)) with an inner while-loop that strips digits via `% 10` and `/ 10` or `//= 10`.",
+      "Use of `/` or `/=` on a variable that conceptually represents an integer being reduced digit-by-digit, combined with a termination condition like `while x != 0` or `while x > 0`.",
+      "Digit operations implemented via float arithmetic plus `math.floor` (e.g., `math.floor(x % 10)` or `x /= 10` inside the inner loop).",
+      "A small helper function that performs per-digit arithmetic and is called once for each element of a large range, dominating runtime.",
+      "Repeated use of `len(str(x))`, `list(str(x))`, or similar conversions inside a large loop, or separate precomputation over a fixed bound (e.g., 1..100000) to cache simple digit properties.",
+      "Code that appears to hang or take excessively long for small inputs due to a non-terminating or extremely long inner digit loop driven by float underflow.",
+      "Large temporary lists or dictionaries built only to encode simple digit properties (like odd digit count) that could be computed on-the-fly."
+    ]
+  },
+  {
+    "skill_id": "O012",
+    "type": "operator",
+    "name": "Mean Based Fixed-Range Sum of Squared Deviations Minimization",
+    "description": "Optimize code that brute-forces a scalar parameter P to minimize a cost of the form Σ (a[i] − P)² by replacing the search over many candidate P values with a closed-form solution derived from the mean of the data, optionally vectorizing the remaining computation. This removes fixed-range outer loops, avoids repeated full-array scans, and can eliminate unnecessary numerical-library overhead.",
+    "tags": [
+      "one_dimensional_optimization",
+      "sum_of_squares",
+      "mean_property",
+      "bruteforce_to_closed_form",
+      "constant_factor_optimization",
+      "loop_optimization",
+      "vectorization",
+      "numerical_stability"
+    ],
+    "triggers": [
+      "Outer loop iterates over a fixed small integer range (e.g., for p in range(K)) and inner loop scans all elements to compute a sum of (a[i] - p)**2.",
+      "Objective function matches sum((array[i] - scalar_param)**2) or np.sum((array - scalar_param)**2) for many scalar_param values.",
+      "Code recomputes the same pattern sum((x - p)**2) for many p with no dependence between iterations beyond choosing the minimum.",
+      "Use of heavy numerical libraries (e.g., NumPy) inside a Python loop over candidate scalar parameters, allocating new full-size arrays each iteration.",
+      "Presence of an unconstrained or simply-bounded scalar decision variable whose effect on the objective is purely quadratic (no combinatorial or structural dependencies)."
+    ]
+  },
+  {
+    "skill_id": "O013",
+    "type": "operator",
+    "name": "Incremental State Exponential Search Refactor",
+    "description": "Systematically refactor brute-force and backtracking solutions that explore an exponential search space (e.g. k^N, 2^N, or N!) so that each state is represented compactly and updated incrementally. Replace heavy combinatorial constructs (nested products, combinations, factorial inner searches, repeated merges) with a single well-structured DFS/bitmask/iterator over the inherent state space, maintaining running",
+    "tags": [
+      "bruteforce",
+      "exhaustive_search",
+      "exponential_search",
+      "backtracking",
+      "DFS",
+      "bitmask_enumeration",
+      "combinatorial_optimization",
+      "constant_factor_optimization",
+      "algorithmic_refactor",
+      "state_representation"
+    ],
+    "triggers": [
+      "Explicit use of itertools.product or nested loops over a small fixed alphabet with repeat=N, implying k^N states, combined with an inner O(N) loop or repeated sum/len/Counter calls.",
+      "Nested itertools.combinations or multi-level subset/permutation enumeration on the same base set, especially when followed by additional recursion per subset.",
+      "Backtracking over N items where each item is assigned to one of a small number of categories (e.g., A/B/C/unused), but implemented via multi-layer combinatorial constructions instead of a direct per-item DFS.",
+      "Per-state reconstruction of full assignment structures (lists, vectors) and recomputation of aggregates (sums, counts, validity checks) inside the innermost exponential loop.",
+      "Use of complex per-node state representations (full length-N arrays, {-1,0,1} vectors, repeated merges) where a simple bitmask or a few scalar accumulators would suffice.",
+      "Deep Python recursion over 2^N subsets for simple combinatorics tasks (like counting k-element subsets with given sum) where itertools.combinations(range(n), k) directly matches the state space.",
+      "Materialization of the full Cartesian product or all partitions (list(itertools.product( )), precomputing all assignments) instead of streaming them or generating via DFS.",
+      "Observed or anticipated TLE when N is small but at the upper limit (e.g., 8–15), indicating that constant factors and extra polynomial work on top of an exponential search are the bottleneck."
+    ]
+  },
+  {
+    "skill_id": "O014",
+    "type": "operator",
+    "name": "Right size or Remove Heavy Combinatorial Precomputation",
+    "description": "Optimize combinatorics-heavy number-theory code by eliminating or tightening large factorial/inverse-factorial precomputations and avoiding unnecessary heavy numeric libraries. Replace fixed-size global tables (often built with NumPy) with either (a) small, input-aware factorial tables in pure Python or (b) direct multiplicative binomial formulas when only a handful of small-k combinations are needed. Ensure that",
+    "tags": [
+      "python",
+      "optimization",
+      "combinatorics",
+      "binomial_coefficient",
+      "factorial_precomputation",
+      "number_theory",
+      "prime_factorization",
+      "modular_arithmetic",
+      "numpy_removal",
+      "constant_factor_reduction"
+    ],
+    "triggers": [
+      "Code precomputes factorial and/or inverse-factorial arrays up to a large fixed MAX_N (e.g., 1e5–1e6) regardless of the actual input size or needed combination arguments.",
+      "Global precomputation of factorial tables is executed at import time or before reading input, incurring a large one-time cost even for tiny inputs.",
+      "A heavy numeric library (commonly NumPy) is imported solely to build factorial tables or do 1D prefix products for modular combinatorics.",
+      "The number of binomial coefficient evaluations is very small (e.g., one per distinct prime factor of an integer), and each uses small k (such as prime exponents), but the code still builds large factorial tables.",
+      "Runtime or memory is dominated by factorial/inverse-factorial precomputation, while the actual combinatorial logic and factorization are relatively light.",
+      "Precomputation bounds are hard-coded and not obviously derived from N, M, or other input parameters (e.g., always using 2*10^5 or 10^6).",
+      "Theoretical constraints allow N to be very large (up to 1e9 or more), but the code attempts factorial-table-based nCr limited to a much smaller fixed bound.",
+      "Performance profiling or intuition shows that loops over factorial table indices (or NumPy array reshaping and prefix products) dominate total runtime."
+    ]
+  },
+  {
+    "skill_id": "O015",
+    "type": "operator",
+    "name": "Optimize Modular Combinatorics And Binomials",
+    "description": "Reusable optimization pattern distilled from weighted traces.",
+    "tags": [
+      "combinatorics",
+      "binomial_coefficient",
+      "modular_arithmetic",
+      "number_theory",
+      "prime_factorization",
+      "optimization",
+      "precomputation",
+      "performance",
+      "Python"
+    ],
+    "triggers": [
+      "A helper computing C(n, k) or a similar combinatorial term by looping i from 1..k and calling pow(i, MOD-2, MOD) in every iteration.",
+      "A binomial-like recurrence in a loop, such as curr *= (n - i) * inv(i) % MOD, where inv(i) is recomputed each time via pow.",
+      "A loop that linearly searches over an integer parameter (e.g., counts of move types) to satisfy a simple linear system, where the variables appear only linearly and can be solved algebraically.",
+      "A combination computed as C(n, k) with k taken directly from a large input (like N-1 or up to 1e5–1e9) even though the complementary parameter n-k is much smaller (e.g., a prime exponent or difference of coordinates).",
+      "Factorial and inverse-factorial arrays sized up to a large N even though only C(n, i) for i ≤ K or a handful of binomials are ever used.",
+      "Prime factorization of an integer M followed by loops that, for each prime factor, iterate up to N (or N-1) to compute C(N+e-1, N-1) using modular inverses, where e is the exponent of the prime.",
+      "Repeated recomputation of powers like base^(n-1-i) via pow(base, exponent, MOD) inside a loop over i, rather than maintaining a running power.",
+      "Presence of custom modular exponentiation implementations in Python used for modular inverses or powers inside hot loops, instead of built-in pow(base, exp, mod)."
+    ]
+  },
+  {
+    "skill_id": "O016",
+    "type": "operator",
+    "name": "Eliminate Bruteforce Triples via Algebraic Counting",
+    "description": "Replace cubic-time triple nested loops used for integer/combinatorial counting with lower-dimensional iteration or closed-form arithmetic by exploiting linear constraints (such as fixed sums) and ordering. Express one variable algebraically in terms of others, tighten loop bounds from inequalities, and, when possible, count solutions directly instead of enumerating them.",
+    "tags": [
+      "algorithmic_optimization",
+      "time_complexity_reduction",
+      "combinatorics",
+      "counting",
+      "loop_optimization",
+      "triple_loops",
+      "sum_constraint",
+      "math_reformulation",
+      "two_pointer_style",
+      "closed_form_counting"
+    ],
+    "triggers": [
+      "Three nested loops over small or moderate integer ranges (e.g., 1..n) performing only simple arithmetic and comparisons in the innermost body.",
+      "A linear equality constraint tying loop indices together, such as i + j + k = S or a1*x + a2*y + a3*z = S.",
+      "Strict ordering or distinctness constraints between indices (e.g., i < j < k) where only counts, not actual tuples, are needed.",
+      "The innermost loop index appears only in the sum/equality condition and simple range checks, indicating it can be solved for algebraically.",
+      "Use of sum([ ]) or repeated allocation (lists, temporary arrays) inside the innermost loop in a pure counting task.",
+      "Observed or anticipated performance issues consistent with O(n^3) growth (e.g., n up to 10^2–10^3, many test cases, timeouts).",
+      "Cubic search over a fixed small value range to satisfy linear or affine relationships on a tiny grid or matrix.",
+      "Brute-force enumeration of all solutions followed by using only their count (e.g., appending to a list and later taking its length)."
+    ]
+  },
+  {
+    "skill_id": "O017",
+    "type": "operator",
+    "name": "Factorial Divisor Prime Exponent Aggregation Optimization",
+    "description": "Optimize computations that depend on the prime exponents of a product of consecutive integers (often n!) by (1) avoiding per-integer re-factorization and per-prefix primality recomputation, and (2) choosing an aggregation strategy that balances asymptotic complexity with language-level overhead. Typical efficient patterns: a single sieve plus Legendre-style exponent summation; or a single global factorization of",
+    "tags": [
+      "number_theory",
+      "prime_factorization",
+      "factorial_like_product",
+      "divisor_counting",
+      "prime_sieve",
+      "modular_arithmetic",
+      "constant_factor_optimization",
+      "python_overhead"
+    ],
+    "triggers": [
+      "Goal is to count divisors or otherwise use the prime factorization of a product 1·2· ·n or a similar consecutive product.",
+      "Code factors each integer k in [1..n] separately and aggregates prime exponents (e.g., loops over k and runs a factorization helper for each).",
+      "A primality or sieve routine is called inside a loop over k, recomputing primes up to k for every k.",
+      "Exponent bookkeeping uses length-n arrays or per-k vectors that are merged elementwise in an outer loop (O(n^2) array work).",
+      "Factorization uses trial division up to sqrt(k) for every k without any global sieve or shared prime information.",
+      "Large lists of factors are collected and then passed to collections.Counter only to get multiplicities.",
+      "A big factorial is recomputed multiple times (e.g., math.factorial(n) inside a loop) or n! is factored repeatedly.",
+      "Prime sieve arrays are fixed-size (e.g., length 10000) but indexed up to a variable n, hinting at scaling or correctness issues."
+    ]
+  },
+  {
+    "skill_id": "O018",
+    "type": "operator",
+    "name": "Replace Heavy Math & Library Calls with Cheap Arithmetic or Log Based Forms",
+    "description": "Reusable optimization pattern distilled from weighted traces.",
+    "tags": [
+      "performance",
+      "constant-factor-optimization",
+      "loop-optimization",
+      "math-optimization",
+      "probability",
+      "expected-value",
+      "numeric-stability",
+      "bit-manipulation",
+      "fast-io"
+    ],
+    "triggers": [
+      "Tight loops (O(N) or O(N log K)) that call math.log/log2, math.ceil, pow or '**' on floats for each iteration.",
+      "Loops that conceptually count how many times a value must be doubled to exceed a threshold (while x < K: x *= 2) or that repeatedly halve a probability weight.",
+      "Use of NumPy (np.power) or other heavy libraries on scalar values inside Python loops without vectorization benefits.",
+      "Patterns of computing an exponent by counting steps, then immediately calling pow(base, exponent) instead of updating the base multiplicatively during the loop.",
+      "Per-iteration creation of small temporary containers (e.g., max([val, 0])) or repeated divisions by a constant (like 1/N) inside hot loops.",
+      "Code that hardcodes small tables or if/elif chains for powers of two, or builds/sorts a list of powers of two, where 2**floor(log2(n)) would suffice.",
+      "Expressions of the form 2 ** (sum_of_logs) or combinations like log2(a-c) + log2(b-1) - k*log2(a) that are really products/ratios and can be simplified to basic arithmetic."
+    ]
+  },
+  {
+    "skill_id": "O019",
+    "type": "operator",
+    "name": "Divisor Enumeration and GCD Folding Optimization",
+    "description": "Recognize when a brute-force numeric loop is really a divisor or common-divisor problem, then replace linear or nested scans with: (1) sqrt-based divisor enumeration plus simple filtering, or (2) Euclidean GCD folding over an array. This converts O(V) or O(N·sqrt V) patterns into O(√V) or O(N log V), often by algebraically simplifying congruence conditions into direct divisibility and exploiting divisor pairing.",
+    "tags": [
+      "number_theory",
+      "divisors",
+      "gcd",
+      "euclidean_algorithm",
+      "optimization",
+      "search_space_reduction",
+      "array_aggregation",
+      "sqrt_optimization"
+    ],
+    "triggers": [
+      "A for- or while-loop whose bound is proportional to a raw numeric input or a ratio of inputs (e.g., range(1, B // A + 1)) performing only modulo or simple arithmetic inside.",
+      "Conditions of the form (X - k * Y) % k == 0, or similar algebra, where the loop variable is also the modulus base, suggesting the condition can simplify to X % k == 0 (k divides X).",
+      "Searching for 'largest k' or 'any k' satisfying divisibility plus an inequality (e.g., k divides M and k <= M // K), implemented as a brute-force scan over k instead of over divisors.",
+      "Loops that enumerate all integers up to sqrt(N) and perform divisibility checks, especially if repeated scans or nested loops over array elements are present.",
+      "Algorithms on arrays that repeatedly apply modulo, deduplicate via set, and sort in a loop until values converge to a single number, indicating an implicit GCD computation.",
+      "Use of len(set( )) purely to deduplicate divisor-like candidates that were aggressively over-generated in previous loops.",
+      "Performance symptoms: O(V) or O(N·sqrt V) designs timing out for large numeric inputs, where constraints suggest divisor enumeration or GCD is the intended solution."
+    ]
+  },
+  {
+    "skill_id": "O020",
+    "type": "operator",
+    "name": "Set Intersection or Frequency Array Refactor for Common Elements Queries",
+    "description": "Reframe membership-heavy, nested-loop logic that checks which values satisfy all group-wise conditions into either (a) a running intersection of hash sets, or (b) a single global frequency/count array over a small value range. This removes repeated list scans and list-based membership/removal, collapsing O(N*M^2) or O(N^2*K^2) patterns into O(total_input) time while often reducing memory. Use it whenever the task",
+    "tags": [
+      "set_intersection",
+      "frequency_count",
+      "hash_set",
+      "nested_loops_elimination",
+      "data_structure_upgrade",
+      "algorithmic_refactor",
+      "membership_testing",
+      "input_streaming",
+      "python_optimization"
+    ],
+    "triggers": [
+      "Triple or double nested loops over groups and item IDs where the innermost body does `x in list` or `list.remove(x)`.",
+      "Code conceptually answering \"which values appear in every group\" implemented as: for v in range(1..M): for each group: check membership of v by scanning a list.",
+      "A shrinking list of candidates frequently tested with `x in candidates` and mutated inside loops instead of using a set.",
+      "Counting how many lists contain a value by rescanning all lists for each value rather than aggregating counts once.",
+      "Use of NumPy or Counter.most_common() solely to count common items, with patterns like `np.append` in a loop or `np.sum(arr == v)` for every v.",
+      "Full 2D tables (N×M) or list-of-lists of preferences stored when only final per-value consensus (intersection) is needed.",
+      "Special-case branches such as `if N == 1` for the trivial single-group case, indicating the general logic is not expressed as a direct intersection.",
+      "Post-processing lists with `len(set(result_list))` to deduplicate items that could have been unique if a set/intersection had been used earlier."
+    ]
+  },
+  {
+    "skill_id": "O021",
+    "type": "operator",
+    "name": "Refactor Redundant Range Loops and Pairwise Aggregations",
+    "description": "Reusable optimization pattern distilled from weighted traces.",
+    "tags": [
+      "optimization",
+      "algorithmic",
+      "time-complexity",
+      "range-search",
+      "pairwise-aggregation",
+      "prefix-sums",
+      "math-identity",
+      "convex-optimization-1d",
+      "sign-enumeration",
+      "sorting"
+    ],
+    "triggers": [
+      "Loop over indices where the body calls sum() or max()/min() on (almost) the entire list in each iteration.",
+      "Presence of an outer loop whose induction variable is never used inside the body, yet wraps a full candidate search or aggregation.",
+      "Triple or double nested loops where two loops iterate over similar value ranges (e.g., min..max of data), yielding O(R^2 * N) work for a scalar parameter search.",
+      "Searching over a scalar parameter p in a data-dependent range [min(a), max(a)] even though the problem guarantees a small fixed domain (e.g., values in [1, 100]).",
+      "Greedy selection loops of the form `for k in range(M):` with an inner scan over all N items to recompute a 'best' candidate each step (O(N*M) ≈ O(N^2)).",
+      "Recomputing the same global aggregate (sum(a), sum(a^2), sum of squared differences, etc.) from scratch inside a loop where the underlying data does not change.",
+      "Using slicing or list.index()/max(list_slice) repeatedly inside a loop over the same list, effectively causing quadratic scans.",
+      "Objectives that are sums of squared deviations in a scalar parameter (convex/unimodal in p), but evaluated at every candidate in a fixed range without early stopping."
+    ]
+  },
+  {
+    "skill_id": "O022",
+    "type": "operator",
+    "name": "Algebraic Loop Elimination for Integer Combinatorics",
+    "description": "Transform brute-force integer enumeration with nested loops into faster code by exploiting linear relations between loop variables. When counting or checking integer tuples (pairs, triples, etc.) under constraints like a + b + c = S or linear inequalities, treat some variables as dependent: compute them algebraically from the others instead of looping over them. Combine this with tighter loop bounds, early",
+    "tags": [
+      "loop-optimization",
+      "algorithmic-optimization",
+      "combinatorics",
+      "integer-arithmetic",
+      "nested-loops",
+      "sum-constraints",
+      "search-space-reduction",
+      "closed-form",
+      "two-pointer-technique",
+      "vectorization"
+    ],
+    "triggers": [
+      "Triple or double nested loops over integer ranges with bounds tied to the same size parameter, where the innermost body only does simple arithmetic and comparisons.",
+      "A linear equality or inequality linking loop variables (e.g., a + b + c = S, or X >= k*(p + q) + q) checked inside the innermost loop.",
+      "Tasks that only need counts or existence (how many tuples satisfy the constraints) rather than listing all tuples.",
+      "Explicit enumeration of all ordered or strictly ordered integer tuples (such as i < j < k) under a fixed-sum constraint.",
+      "Innermost loops that linearly search for a value that is mathematically determined by the outer-loop variables and a constant.",
+      "Use of sum([ ]) or similar function calls over tiny fixed-size lists inside hot loops, especially with three nested loops.",
+      "Use of data structures like list(range(1, n+1)) solely to iterate sequential integers that can be produced directly by loop indices.",
+      "Loops over a fixed numeric bound (e.g., up to 1e5) that check a monotone linear inequality and break on the first satisfying value."
+    ]
+  },
+  {
+    "skill_id": "O023",
+    "type": "operator",
+    "name": "Modular Binomial Combinatorics Without Big Int Factorials",
+    "description": "Optimize combinatorial computations under a modulus by eliminating arbitrary-precision factorials and integer-division-based binomial formulas. Instead, precompute factorials and inverse factorials modulo a prime (or use multiplicative binomial formulas over the small parameter), and apply modular reduction at every step. This shifts cost from superlinear big-integer arithmetic to linear-time precomputation plus",
+    "tags": [
+      "combinatorics",
+      "binomial_coefficient",
+      "modular_arithmetic",
+      "number_theory",
+      "prime_factorization",
+      "precomputation",
+      "performance",
+      "big_integer_avoidance"
+    ],
+    "triggers": [
+      "Binomial coefficients or combinatorial expressions implemented as factorial(n) // (factorial(k) * factorial(n-k)) with only a final % MOD.",
+      "Use of math.factorial (or equivalent big-int factorial) on arguments as large as O(1e5) or larger when only results modulo a fixed prime are required.",
+      "Patterns like products of consecutive integers divided by factorial(e) (e.g. (N+e-1)*(N+e-2)* / e!), which are equivalent to C(N+e-1, e).",
+      "Stars-and-bars or repeated combination formulas C(N+e-1, e) after prime factorization of some M, especially with N up to ~1e5 and M up to ~1e9.",
+      "TLE/MLE or visible performance issues despite loop counts looking linear, with profiling showing factorial or big-int division dominating.",
+      "Intermediate combinatorial values growing to huge integers (many thousands of digits) before any modular reduction.",
+      "Presence of pow(x, MOD-2, MOD) where x is built from big factorials or large integer products instead of already-modular values.",
+      "Repeated factorial calls on related arguments (n, n-1, n+e, k, n-k) instead of a shared factorial table."
+    ]
+  },
+  {
+    "skill_id": "O024",
+    "type": "operator",
+    "name": "Digit Range Closed Form Counting",
+    "description": "Replace per-integer digit-processing loops with arithmetic over digit-length ranges. When a count or aggregate depends only on properties that are constant within ranges of equal digit length (or similar magnitude buckets), derive a piecewise closed-form formula in terms of range boundaries instead of iterating from 1 to N.",
+    "tags": [
+      "optimization",
+      "closed-form",
+      "digit-processing",
+      "range-counting",
+      "math-derivation",
+      "loop-elimination",
+      "constant-time",
+      "counting",
+      "branching",
+      "python-performance"
+    ],
+    "triggers": [
+      "A loop iterates from 1 to N and, for each integer, computes the number of digits via string conversion, logarithms, or repeated division.",
+      "The property being tested depends only on digit length or simple magnitude ranges (e.g., odd/even digit count) rather than on the specific digits.",
+      "Constraints allow N to be large (e.g., up to 1e5 or more), making O(N log N) or O(N) with heavy per-iteration work risky in Python.",
+      "Digit-based thresholds such as 9, 99, 999, 9999, naturally partition the domain and the result is just a count over these partitions.",
+      "There is unnecessary precomputation over a fixed large bound (e.g., up to 10^5) building lists or dicts of numbers classified by digit properties.",
+      "A helper function is called inside the main loop to count digits via repeated division by 10.",
+      "The final answer is a single scalar (count or simple aggregate) and does not require constructing or returning the full list of qualifying numbers."
+    ]
+  },
+  {
+    "skill_id": "O025",
+    "type": "operator",
+    "name": "Replace Enumeration and Simulation with Parity/Bitwise Closed Forms",
+    "description": "Identify algorithms that explicitly enumerate combinatorial objects or simulate simple numeric processes, and replace them with closed-form or near-closed-form solutions based on parity reasoning, bitwise properties, and small-state aggregation. Typical applications include subset parity counting, repeated halving/averaging of a few integers, base -2 conversion, and pair-cancellation on tiny alphabets. The",
+    "tags": [
+      "optimization",
+      "parity",
+      "bit_manipulation",
+      "number_theory",
+      "combinatorics",
+      "subset_counting",
+      "simulation_to_formula",
+      "closed_form",
+      "state_compression",
+      "string_counting"
+    ],
+    "triggers": [
+      "Loops that sum over many binomial coefficients (e.g., sum_k C(n, k) or parity-restricted sums) using factorials or heavy big-integer arithmetic.",
+      "Nested loops or recursion enumerating all subsets or all strings of length N over a small alphabet (patterns like for mask in range(1 << n) or branching factor equal to alphabet size).",
+      "Simulation loops or recursion that repeatedly divide or average a fixed small set of integers while checking parity (even/odd) at each step.",
+      "Stack-based pair-cancellation on strings over a tiny alphabet (often binary), where the final answer depends only on counts, not on exact remaining configuration.",
+      "Use of NumPy or other heavy libraries on a constant-size integer tuple with loops over powers of two or repeated modulo-by-2 checks.",
+      "Brute-force or combinatorial search used to derive number representations (e.g., base -2) instead of a direct digit-construction loop.",
+      "Manually built frequency dictionaries and long chains of parity-based branches on counts where a small number of modular/arithmetic relations would suffice.",
+      "Binary search or multi-step logic over a large numeric domain where the condition is actually expressible via index counts, simple prefix sums, or parity invariants."
+    ]
+  },
+  {
+    "skill_id": "O026",
+    "type": "operator",
+    "name": "Control Big Integer Growth in Factorization Based Combinatorics",
+    "description": "Optimize number-theoretic and combinatorial code that mixes prime factorization with binomial or factorial expressions by eliminating unnecessary big-integer factorials, computing combinations in multiplicative or modular form, and applying the modulus early to keep intermediates small. The operator replaces naive n! and factorial-based nCr with exponent-based reasoning (e.g., Legendre-style exponent accumulation)",
+    "tags": [
+      "number_theory",
+      "combinatorics",
+      "prime_factorization",
+      "binomial_coefficient",
+      "factorial",
+      "modular_arithmetic",
+      "stars_and_bars",
+      "divisor_count",
+      "big_integer_optimization",
+      "precomputation"
+    ],
+    "triggers": [
+      "Code calls factorial on large arguments derived from input (e.g., n, n-1, n+e, up to around 1e5 or larger).",
+      "Binomial coefficients are computed as n! // ((n-k)! * k!) using full-precision integers, with modulus applied only once at the end.",
+      "Intermediate products for combinatorial expressions are built as exact big integers and only reduced modulo at the final print.",
+      "A caching dictionary of factorial values grows with n, storing many huge integers to speed up repeated factorial calls.",
+      "Prime factorization is followed by loops that construct large falling factorial products proportional to n, even though only small exponents e from the factorization are needed.",
+      "Profiling shows most time inside big-integer routines (factorial, multiplication, division, pow for inverses) rather than in O(√M) factorization or simple loops.",
+      "Runtime and memory blow up as the first parameter (often denoted n) increases, despite small second parameter (the number being factorized).",
+      "Factorization-based formulas for divisor counts or distribution of prime exponents are implemented by first forming a huge integer (like n! or a product of many numbers) and then factoring it."
+    ]
+  },
+  {
+    "skill_id": "O027",
+    "type": "operator",
+    "name": "Coprimality Classification Optimization",
+    "description": "Optimize code that classifies integer arrays by coprimality (e.g., pairwise vs setwise) by replacing naïve pairwise gcd checks or per-number trial division with range-based sieves, smallest-prime-factor (SPF) tables, or frequency+divisor sweeps. The operator focuses on choosing the right global strategy (sieve vs on-demand factorization vs divisor-aggregation), adapting precomputation to the true maximum value",
+    "tags": [
+      "number-theory",
+      "gcd",
+      "prime-factorization",
+      "sieve",
+      "frequency-counting",
+      "divisor-iteration",
+      "coprimality",
+      "algorithmic-optimization",
+      "constant-factor-optimization",
+      "python-performance"
+    ],
+    "triggers": [
+      "Code checks pairwise coprimality using nested gcd or divisibility loops over all pairs of numbers.",
+      "Each number is factorized independently via trial division up to sqrt(max_value) with many modulo operations.",
+      "A full sieve or SPF table is built up to a fixed large constant bound (e.g., 10**6) regardless of the actual maximum input value.",
+      "Large global arrays (size ~max_possible_value) are allocated even when the actual maximum input value is much smaller.",
+      "Coprimality logic only needs to know whether some prime divides multiple numbers, but the implementation fully factorizes all numbers and counts all multiplicities.",
+      "Presence of a loop over all potential divisors d in [2..U] combined with an inner multiples loop (or list slicing like arr[d::d]) regardless of how many input values are actually multiples of d.",
+      "Detection of a condition such as 'shared divisor found' that sets a flag but does not break out of heavy loops early.",
+      "Per-number factorization creates fresh sets or dictionaries for prime factors and updates global defaultdicts or sets in inner loops."
+    ]
+  },
+  {
+    "skill_id": "O028",
+    "type": "operator",
+    "name": "Streaming Single Pass Product With Overflow Guard",
+    "description": "Implement a single-pass, streaming product over a numeric sequence with an overflow guard and zero handling, while minimizing constant-factor overhead. The operator folds the sequence into a running product, integrates zero detection and overflow checks into the same loop, and avoids unnecessary allocations, scans, and imports. It favors early termination (on zero or overflow) and uses only constant extra state so",
+    "tags": [
+      "linear-scan",
+      "single-pass",
+      "streaming",
+      "product",
+      "overflow-guard",
+      "early-termination",
+      "constant-factor-optimization",
+      "space-optimization",
+      "template-removal",
+      "array-processing"
+    ],
+    "triggers": [
+      "Code computes a product of many numbers with a fixed overflow/threshold guard.",
+      "Sequence is fully read into a list or other container even though each element is only needed once for an aggregate.",
+      "Zero detection is done via a separate membership test (e.g., `0 in arr`, `arr.count(0)`) in addition to the main loop.",
+      "There is more than one full pass over the same data for independent checks (e.g., zero check plus product loop).",
+      "A sort is applied even though the final result depends only on a commutative operation like multiplication.",
+      "Heavy competitive-programming templates with many unused imports/helpers are wrapped around a simple linear fold.",
+      "Overflow is tracked with extra flags and complex post-processing instead of in-loop checks and early exits."
+    ]
+  },
+  {
+    "skill_id": "O029",
+    "type": "operator",
+    "name": "Rolling State Linear DP & Recurrence Compression",
+    "description": "Transform linear, time-stepped dynamic programs or simple recurrences that only depend on a fixed number of previous states into memory-light, constant-factor-optimized implementations. The operator replaces full history tables and bulky input storage with rolling O(1) state, streaming input, and simplified transition structure. For DP with small fixed state dimension, it unrolls tiny inner loops, removes redundant",
+    "tags": [
+      "dynamic_programming",
+      "1d_dp",
+      "rolling_dp",
+      "state_compression",
+      "sequence_dp",
+      "linear_recurrence",
+      "space_optimization",
+      "constant_factor_optimization",
+      "streaming_io",
+      "forward_dp"
+    ],
+    "triggers": [
+      "DP state indexed by a time/position i where transitions at step i depend only on states from step i-1 (or a fixed-size window of previous steps).",
+      "DP table shaped as N x K where K is a very small fixed constant (e.g., 2–5), and only the last row is needed for the final answer.",
+      "Array-based recurrence dp[i] = f(dp[i-1], dp[i-2], , dp[i-c]) with c being a small constant, while only dp[n] is ever used.",
+      "Code stores both a full input matrix and a full DP table, but accesses input and DP strictly in increasing time order without random access.",
+      "Inner loop iterates over a tiny fixed state set with if/elif branches per state (e.g., if s == 0 / 1 / 2), updating the same target cells multiple times.",
+      "DP or recurrence implemented with large preallocated arrays (possibly with fixed caps like 1_000_000) when only O(1) recent values are required.",
+      "1D DP over indices 0..L where the goal concerns reaching at least some threshold H, yet transitions also treat indices ≥ H as full base states.",
+      "Hot inner loops performing redundant guard computations (e.g., max(0, i - a[j])) or transitions from unreachable states with INF-like sentinels."
+    ]
+  }
+]

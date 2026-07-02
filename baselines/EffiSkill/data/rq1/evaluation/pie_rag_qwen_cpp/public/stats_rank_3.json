@@ -1,0 +1,6399 @@
+{
+    "aizu_1444_yokohama-phenomena": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.154089,
+            "runtime_sum": 26.346385000000005,
+            "memory": 3.496,
+            "integral_max": 1.37201,
+            "integral_sum": 17.083137999999998
+        }
+    },
+    "aizu_1447_nested-repetition-compression": {
+        "cpp": null
+    },
+    "aizu_1448_chayas": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.553668,
+            "runtime_sum": 26.713256,
+            "memory": 5.176,
+            "integral_max": 6.99446,
+            "integral_sum": 31.247055999999997
+        }
+    },
+    "aizu_1449_color-inversion-on-a-huge-chessboard": {
+        "cpp": null
+    },
+    "aizu_1455_ribbon-on-the-christmas-present": {
+        "cpp": null
+    },
+    "aizu_1456_the-sparsest-number-in-between": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.5,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "aizu_1459_e-circuit-is-now-on-sale!": {
+        "cpp": null
+    },
+    "aizu_1460_the-farthest-point": {
+        "cpp": null
+    },
+    "aizu_1464_mixing-solutions": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.355221,
+            "runtime_sum": 26.883066000000003,
+            "memory": 3.448,
+            "integral_max": 2.1068100000000003,
+            "integral_sum": 19.12528
+        }
+    },
+    "aizu_1664_which-team-should-receive-the-sponsor-prize?": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.353707,
+            "runtime_sum": 23.975972999999996,
+            "memory": 1.912,
+            "integral_max": 1.1013,
+            "integral_sum": 16.972645000000004
+        }
+    },
+    "aizu_1665_amidakuji": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.748977,
+            "runtime_sum": 23.609885999999996,
+            "memory": 1.904,
+            "integral_max": 1.02604,
+            "integral_sum": 15.863626999999997
+        }
+    },
+    "aizu_1666_changing-the-sitting-arrangement": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 5.379853,
+            "runtime_sum": 46.771933,
+            "memory": 1.916,
+            "integral_max": 4.60542,
+            "integral_sum": 38.368061
+        }
+    },
+    "aizu_1668_tampered-records": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.935809,
+            "runtime_sum": 22.277061,
+            "memory": 1.916,
+            "integral_max": 1.2101499999999998,
+            "integral_sum": 15.175079999999998
+        }
+    },
+    "aizu_1672_snacks-within-300-yen": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.453794,
+            "runtime_sum": 25.262272999999997,
+            "memory": 3.748,
+            "integral_max": 1.7602200000000001,
+            "integral_sum": 19.640286
+        }
+    },
+    "aizu_1673_overtaking": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.753942,
+            "runtime_sum": 25.063724999999998,
+            "memory": 3.532,
+            "integral_max": 1.8688500000000001,
+            "integral_sum": 19.214792999999997
+        }
+    },
+    "aizu_1674_honeycomb-distance": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.548037,
+            "runtime_sum": 28.981661000000003,
+            "memory": 1.916,
+            "integral_max": 1.85127,
+            "integral_sum": 18.522222
+        }
+    },
+    "aizu_1678_two-sets-of-cards": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.800952,
+            "runtime_sum": 22.905544,
+            "memory": 1.908,
+            "integral_max": 1.32338,
+            "integral_sum": 15.495798
+        }
+    },
+    "aizu_3600_sum-of-product-of-binomial-coefficients": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 175.852799,
+            "runtime_sum": 446.28064700000004,
+            "memory": 3.388,
+            "integral_max": 324.262,
+            "integral_sum": 807.3037630000001
+        }
+    },
+    "aizu_3612_roller-coaster": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "aizu_3613_break-a-prison": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.071067,
+            "runtime_sum": 34.873489,
+            "memory": 4.184,
+            "integral_max": 3.52669,
+            "integral_sum": 54.99671
+        }
+    },
+    "aizu_3614_camp-room-assignment": {
+        "cpp": null
+    },
+    "aizu_3616_gacha-101": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "aizu_3619_lcp-queries": {
+        "cpp": null
+    },
+    "aizu_3627_expression-sum": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 154.960513,
+            "runtime_sum": 182.82383700000003,
+            "memory": 1.912,
+            "integral_max": 288.087,
+            "integral_sum": 311.3241809999999
+        }
+    },
+    "aizu_3629_give-me-a-lot-of-triangles": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.153672,
+            "runtime_sum": 25.502448000000005,
+            "memory": 1.908,
+            "integral_max": 2.06458,
+            "integral_sum": 16.854525000000002
+        }
+    },
+    "aizu_3630_half-plane-painting": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.724577,
+            "runtime_sum": 32.535551999999996,
+            "memory": 3.728,
+            "integral_max": 4.591279999999999,
+            "integral_sum": 27.167054999999994
+        }
+    },
+    "aizu_3631_i-love-square-number": {
+        "cpp": null
+    },
+    "aizu_3636_noncoprime-subsequences": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 32.353395,
+            "runtime_sum": 275.23332700000003,
+            "memory": 13.416,
+            "integral_max": 115.968,
+            "integral_sum": 1568.8965
+        }
+    },
+    "aizu_3637_tower-defense": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.115167,
+            "runtime_sum": 25.533764,
+            "memory": 3.568,
+            "integral_max": 1.84056,
+            "integral_sum": 22.26736
+        }
+    },
+    "aizu_3638_renovation": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 7.253733,
+            "runtime_sum": 37.869457999999995,
+            "memory": 3.928,
+            "integral_max": 24.7468,
+            "integral_sum": 59.59456899999999
+        }
+    },
+    "aizu_3639_commutativity": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 72.858962,
+            "runtime_sum": 94.096349,
+            "memory": 3.548,
+            "integral_max": 137.05100000000002,
+            "integral_sum": 152.377939
+        }
+    },
+    "aizu_3640_paper-cut-game": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 449.153129,
+            "runtime_sum": 475.37920599999995,
+            "memory": 3.596,
+            "integral_max": 855.511,
+            "integral_sum": 880.5179350000001
+        }
+    },
+    "aizu_3647_equal-or-not-equal": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc380a_123233": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.604471,
+            "runtime_sum": 26.313225000000003,
+            "memory": 3.664,
+            "integral_max": 1.1680499999999998,
+            "integral_sum": 16.883378999999998
+        }
+    },
+    "atcoder_abc380b_hurdle-parsing": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.254593,
+            "runtime_sum": 21.802323,
+            "memory": 1.912,
+            "integral_max": 0.90354,
+            "integral_sum": 14.303899000000001
+        }
+    },
+    "atcoder_abc380c_move-segment": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc380d_strange-mirroring": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.15,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc380e_1d-bucket-tool": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 4.534198,
+            "runtime_sum": 39.002359000000006,
+            "memory": 1.912,
+            "integral_max": 2.99805,
+            "integral_sum": 28.446289999999998
+        }
+    },
+    "atcoder_abc380f_exchange-game": {
+        "cpp": null
+    },
+    "atcoder_abc381a_11-22-string": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.7,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc381b_1122-string": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.454548,
+            "runtime_sum": 22.876673999999998,
+            "memory": 1.912,
+            "integral_max": 0.981907,
+            "integral_sum": 15.131978999999998
+        }
+    },
+    "atcoder_abc381c_11-22-substring": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 7.154283,
+            "runtime_sum": 47.45232299999999,
+            "memory": 3.524,
+            "integral_max": 8.950700000000001,
+            "integral_sum": 46.251629
+        }
+    },
+    "atcoder_abc381d_1122-substring": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 10.453447,
+            "runtime_sum": 48.20355800000001,
+            "memory": 3.928,
+            "integral_max": 27.274900000000002,
+            "integral_sum": 80.52457000000001
+        }
+    },
+    "atcoder_abc382b_daily-cookie-2": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.279985,
+            "runtime_sum": 25.301149999999996,
+            "memory": 1.912,
+            "integral_max": 1.6010600000000001,
+            "integral_sum": 15.241974999999996
+        }
+    },
+    "atcoder_abc383a_humidifier-1": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.402614,
+            "runtime_sum": 26.668751,
+            "memory": 3.604,
+            "integral_max": 1.7465499999999998,
+            "integral_sum": 18.250669
+        }
+    },
+    "atcoder_abc383b_humidifier-2": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.2,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc383d_9-divisors": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.155696,
+            "runtime_sum": 23.912677000000002,
+            "memory": 3.38,
+            "integral_max": 1.4720600000000001,
+            "integral_sum": 14.760039999999998
+        }
+    },
+    "atcoder_abc383e_sum-of-max-matching": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 67.152747,
+            "runtime_sum": 89.96737699999998,
+            "memory": 5.976,
+            "integral_max": 339.33200000000005,
+            "integral_sum": 357.98316900000003
+        }
+    },
+    "atcoder_abc383f_diversity": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.2,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc384a_aaaadaa": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.559834,
+            "runtime_sum": 25.728023,
+            "memory": 1.94,
+            "integral_max": 2.18095,
+            "integral_sum": 17.049101999999998
+        }
+    },
+    "atcoder_abc384c_perfect-standings": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.652921,
+            "runtime_sum": 26.375677000000007,
+            "memory": 1.916,
+            "integral_max": 1.9928599999999999,
+            "integral_sum": 18.715182
+        }
+    },
+    "atcoder_abc384d_repeated-sequence": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.553687,
+            "runtime_sum": 28.332235999999998,
+            "memory": 3.652,
+            "integral_max": 2.72551,
+            "integral_sum": 22.057049
+        }
+    },
+    "atcoder_abc384e_takahashi-is-slime-2": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 20.153478,
+            "runtime_sum": 50.149271999999996,
+            "memory": 4.28,
+            "integral_max": 81.0116,
+            "integral_sum": 119.24393
+        }
+    },
+    "atcoder_abc384f_double-sum-2": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 160.15333,
+            "runtime_sum": 793.7752969999999,
+            "memory": 120.652,
+            "integral_max": 8265.97,
+            "integral_sum": 34461.387164
+        }
+    },
+    "atcoder_abc385a_equally": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.75154,
+            "runtime_sum": 25.776745,
+            "memory": 1.912,
+            "integral_max": 1.8745999999999998,
+            "integral_sum": 17.660493999999996
+        }
+    },
+    "atcoder_abc385b_santa-claus-1": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.855732,
+            "runtime_sum": 25.616798,
+            "memory": 1.908,
+            "integral_max": 1.85468,
+            "integral_sum": 20.000238999999997
+        }
+    },
+    "atcoder_abc385e_snowflake-tree": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 99.752711,
+            "runtime_sum": 436.097871,
+            "memory": 9.916,
+            "integral_max": 844.8489999999999,
+            "integral_sum": 3135.78722
+        }
+    },
+    "atcoder_abc385f_visible-buildings": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 6.854235,
+            "runtime_sum": 35.245567,
+            "memory": 3.376,
+            "integral_max": 17.0071,
+            "integral_sum": 40.91108900000001
+        }
+    },
+    "atcoder_abc386a_full-house-2": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.95,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc386b_calculator": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.5,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc386e_-maximize-xor": {
+        "cpp": null
+    },
+    "atcoder_abc386f_operate-k": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc387a_happy-new-year-2025": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.542522,
+            "runtime_sum": 26.274005000000002,
+            "memory": 1.916,
+            "integral_max": 2.3995599999999997,
+            "integral_sum": 16.705365
+        }
+    },
+    "atcoder_abc387b_9x9-sum": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.556792,
+            "runtime_sum": 24.102435000000007,
+            "memory": 1.9,
+            "integral_max": 1.10117,
+            "integral_sum": 16.517356
+        }
+    },
+    "atcoder_abc387c_snake-numbers": {
+        "cpp": null
+    },
+    "atcoder_abc387d_snaky-walk": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 30.052273,
+            "runtime_sum": 107.01576800000001,
+            "memory": 5.572,
+            "integral_max": 142.364,
+            "integral_sum": 397.96852399999995
+        }
+    },
+    "atcoder_abc387e_digit-sum-divisible-2": {
+        "cpp": null
+    },
+    "atcoder_abc388a_?upc": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.552961,
+            "runtime_sum": 24.970997000000004,
+            "memory": 3.684,
+            "integral_max": 2.32733,
+            "integral_sum": 17.088471000000002
+        }
+    },
+    "atcoder_abc388b_heavy-snake": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.153787,
+            "runtime_sum": 21.674808000000006,
+            "memory": 1.912,
+            "integral_max": 0.940862,
+            "integral_sum": 15.397561
+        }
+    },
+    "atcoder_abc388c_various-kagamimochi": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 75.052204,
+            "runtime_sum": 679.862239,
+            "memory": 7.028,
+            "integral_max": 283.148,
+            "integral_sum": 2600.0260890000004
+        }
+    },
+    "atcoder_abc388d_coming-of-age-celebration": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.05,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc388f_dangerous-sugoroku": {
+        "cpp": null
+    },
+    "atcoder_abc388g_simultaneous-kagamimochi-2": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.353261,
+            "runtime_sum": 28.367756999999997,
+            "memory": 4.144,
+            "integral_max": 3.79075,
+            "integral_sum": 30.377074
+        }
+    },
+    "atcoder_abc389a_9x9": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.321184,
+            "runtime_sum": 25.498206999999997,
+            "memory": 1.912,
+            "integral_max": 2.28977,
+            "integral_sum": 18.722116999999994
+        }
+    },
+    "atcoder_abc389b_tcaf": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.55314,
+            "runtime_sum": 24.148448,
+            "memory": 1.912,
+            "integral_max": 0.973851,
+            "integral_sum": 16.56272
+        }
+    },
+    "atcoder_abc389c_snake-queue": {
+        "cpp": null
+    },
+    "atcoder_abc389d_squares-in-circle": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 14.997956,
+            "runtime_sum": 61.59389,
+            "memory": 3.464,
+            "integral_max": 7.19073,
+            "integral_sum": 41.08698
+        }
+    },
+    "atcoder_abc389e_square-price": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 15.554199,
+            "runtime_sum": 38.391984,
+            "memory": 4.56,
+            "integral_max": 66.1587,
+            "integral_sum": 81.599778
+        }
+    },
+    "atcoder_abc389f_rated-range": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.05,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc390b_geometric-sequence": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.051923,
+            "runtime_sum": 24.455844,
+            "memory": 3.448,
+            "integral_max": 1.87021,
+            "integral_sum": 18.010030999999998
+        }
+    },
+    "atcoder_abc390c_paint-to-make-a-rectangle": {
+        "cpp": null
+    },
+    "atcoder_abc390d_stone-xor": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.65,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc390f_double-sum-3": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.15,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc391a_lucky-direction": {
+        "cpp": null
+    },
+    "atcoder_abc391b_seek-grid": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.069026,
+            "runtime_sum": 24.944884,
+            "memory": 1.912,
+            "integral_max": 1.39137,
+            "integral_sum": 17.302125999999998
+        }
+    },
+    "atcoder_abc391c_pigeonhole-query": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.712016,
+            "runtime_sum": 24.829477,
+            "memory": 3.428,
+            "integral_max": 1.57515,
+            "integral_sum": 20.255657
+        }
+    },
+    "atcoder_abc391e_hierarchical-majority-vote": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 21.352949,
+            "runtime_sum": 53.791745000000006,
+            "memory": 5.16,
+            "integral_max": 97.0709,
+            "integral_sum": 148.16779400000001
+        }
+    },
+    "atcoder_abc391f_k-th-largest-triplet": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.15,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc391g_many-lcs": {
+        "cpp": null
+    },
+    "atcoder_abc392a_shuffled-equation": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.252964,
+            "runtime_sum": 21.038897000000002,
+            "memory": 1.904,
+            "integral_max": 0.7592869999999999,
+            "integral_sum": 14.42789
+        }
+    },
+    "atcoder_abc392b_who-is-missing?": {
+        "cpp": null
+    },
+    "atcoder_abc392c_bib": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.753465,
+            "runtime_sum": 23.153067999999998,
+            "memory": 1.916,
+            "integral_max": 1.07298,
+            "integral_sum": 15.732158499999999
+        }
+    },
+    "atcoder_abc392e_cables-and-servers": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc392f_insert": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc393a_poisonous-oyster": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.353339,
+            "runtime_sum": 23.971353999999998,
+            "memory": 3.664,
+            "integral_max": 1.26261,
+            "integral_sum": 16.128777000000003
+        }
+    },
+    "atcoder_abc393c_make-it-simple": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 388.152085,
+            "runtime_sum": 3470.7204570000004,
+            "memory": 23.224,
+            "integral_max": 6045.200000000001,
+            "integral_sum": 42934.72291999999
+        }
+    },
+    "atcoder_abc393e_gcd-of-subset": {
+        "cpp": null
+    },
+    "atcoder_abc393f_prefix-lis-query": {
+        "cpp": null
+    },
+    "atcoder_abc394a_22222": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.560879,
+            "runtime_sum": 27.277928999999997,
+            "memory": 1.912,
+            "integral_max": 2.38761,
+            "integral_sum": 18.020726999999997
+        }
+    },
+    "atcoder_abc394b_cat": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.95,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc394c_debug": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.9,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc394g_dense-buildings": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.2,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc395a_strictly-increasing?": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.8,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc395c_shortest-duplicate-subarray": {
+        "cpp": null
+    },
+    "atcoder_abc395d_pigeon-swap": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 23.656447,
+            "runtime_sum": 62.762184,
+            "memory": 3.72,
+            "integral_max": 21.7568,
+            "integral_sum": 59.437365999999976
+        }
+    },
+    "atcoder_abc396a_triple-four": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.45342,
+            "runtime_sum": 27.547977,
+            "memory": 1.912,
+            "integral_max": 1.52586,
+            "integral_sum": 18.475593999999997
+        }
+    },
+    "atcoder_abc396b_card-pile": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc396d_minimum-xor-path": {
+        "cpp": null
+    },
+    "atcoder_abc396g_flip-row-or-col": {
+        "cpp": null
+    },
+    "atcoder_abc397a_thermometer": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.954422,
+            "runtime_sum": 23.248421,
+            "memory": 3.764,
+            "integral_max": 1.84936,
+            "integral_sum": 16.348206
+        }
+    },
+    "atcoder_abc397b_ticket-gate-log": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.75,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc397c_variety-split-easy": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc397e_path-decomposition-of-a-tree": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 96.101964,
+            "runtime_sum": 1196.8239570000003,
+            "memory": 14.928,
+            "integral_max": 1115.55,
+            "integral_sum": 11879.39533
+        }
+    },
+    "atcoder_abc398a_doors-in-the-center": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.924008,
+            "runtime_sum": 23.109663000000005,
+            "memory": 3.728,
+            "integral_max": 1.2140499999999999,
+            "integral_sum": 15.755738000000001
+        }
+    },
+    "atcoder_abc398b_full-house-3": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.752913,
+            "runtime_sum": 35.914708,
+            "memory": 3.592,
+            "integral_max": 3.40695,
+            "integral_sum": 41.386452999999996
+        }
+    },
+    "atcoder_abc398c_uniqueness": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 26.35315,
+            "runtime_sum": 73.98385799999998,
+            "memory": 4.468,
+            "integral_max": 101.87100000000001,
+            "integral_sum": 187.08623900000003
+        }
+    },
+    "atcoder_abc399a_hamming-distance": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.353829,
+            "runtime_sum": 22.054188,
+            "memory": 3.788,
+            "integral_max": 0.9997969999999999,
+            "integral_sum": 15.518730000000001
+        }
+    },
+    "atcoder_abc399b_ranking-with-ties": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.860582,
+            "runtime_sum": 23.179199,
+            "memory": 1.916,
+            "integral_max": 1.5539,
+            "integral_sum": 17.277696000000002
+        }
+    },
+    "atcoder_abc400a_abc400-party": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.354347,
+            "runtime_sum": 24.074042,
+            "memory": 3.604,
+            "integral_max": 1.6657899999999999,
+            "integral_sum": 15.833206999999998
+        }
+    },
+    "atcoder_abc400b_sum-of-geometric-series": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.252768,
+            "runtime_sum": 21.072106,
+            "memory": 1.904,
+            "integral_max": 0.917326,
+            "integral_sum": 14.458179000000001
+        }
+    },
+    "atcoder_abc400e_ringo's-favorite-numbers-3": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 36.352685,
+            "runtime_sum": 460.933896,
+            "memory": 15.316,
+            "integral_max": 464.729,
+            "integral_sum": 5107.186999999999
+        }
+    },
+    "atcoder_abc400g_patisserie-abc-3": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 51.652488,
+            "runtime_sum": 337.22683400000005,
+            "memory": 13.636,
+            "integral_max": 265.159,
+            "integral_sum": 1778.2491000000002
+        }
+    },
+    "atcoder_abc401a_status-code": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.65332,
+            "runtime_sum": 24.687448999999997,
+            "memory": 1.904,
+            "integral_max": 0.9890739999999999,
+            "integral_sum": 15.647447000000001
+        }
+    },
+    "atcoder_abc401b_unauthorized": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.154943,
+            "runtime_sum": 23.823193999999997,
+            "memory": 1.916,
+            "integral_max": 1.36215,
+            "integral_sum": 16.279412999999998
+        }
+    },
+    "atcoder_abc402a_cbc": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.454256,
+            "runtime_sum": 21.637662000000002,
+            "memory": 3.368,
+            "integral_max": 0.965451,
+            "integral_sum": 14.280062000000001
+        }
+    },
+    "atcoder_abc402b_restaurant-queue": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.352006,
+            "runtime_sum": 25.770911,
+            "memory": 3.656,
+            "integral_max": 3.17912,
+            "integral_sum": 18.210053000000002
+        }
+    },
+    "atcoder_abc402c_dislike-foods": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 5.052792,
+            "runtime_sum": 68.14935,
+            "memory": 3.548,
+            "integral_max": 11.515600000000001,
+            "integral_sum": 143.70711000000003
+        }
+    },
+    "atcoder_abc402d_line-crossing": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 74.663878,
+            "runtime_sum": 711.116627,
+            "memory": 14.412,
+            "integral_max": 621.038,
+            "integral_sum": 4417.7296
+        }
+    },
+    "atcoder_abc402e_payment-required": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 11.690819,
+            "runtime_sum": 70.424003,
+            "memory": 7.82,
+            "integral_max": 71.4495,
+            "integral_sum": 273.135281
+        }
+    },
+    "atcoder_abc402f_path-to-integer": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 112.452322,
+            "runtime_sum": 352.58286400000003,
+            "memory": 13.724,
+            "integral_max": 1367.8799999999999,
+            "integral_sum": 3510.9171529999994
+        }
+    },
+    "atcoder_abc403a_odd-position-sum": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.955722,
+            "runtime_sum": 26.855999,
+            "memory": 3.736,
+            "integral_max": 1.93785,
+            "integral_sum": 19.774873
+        }
+    },
+    "atcoder_abc403b_four-hidden": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.153483,
+            "runtime_sum": 24.132966,
+            "memory": 3.604,
+            "integral_max": 1.67744,
+            "integral_sum": 16.602135
+        }
+    },
+    "atcoder_abc403d_forbidden-difference": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 11.052642,
+            "runtime_sum": 98.26895300000001,
+            "memory": 7.024,
+            "integral_max": 41.4063,
+            "integral_sum": 293.15206000000006
+        }
+    },
+    "atcoder_abc403e_forbidden-prefix": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_arc168a_<inversion>": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.253763,
+            "runtime_sum": 32.784433,
+            "memory": 3.504,
+            "integral_max": 6.82158,
+            "integral_sum": 43.463987
+        }
+    },
+    "atcoder_arc168c_swap-characters": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 31.852669,
+            "runtime_sum": 67.78634100000001,
+            "memory": 8.368,
+            "integral_max": 238.317,
+            "integral_sum": 318.77025299999997
+        }
+    },
+    "atcoder_arc169a_please-sign": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.95,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_arc170a_yet-another-ab-problem": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.353716,
+            "runtime_sum": 26.068779000000003,
+            "memory": 3.704,
+            "integral_max": 8.855500000000001,
+            "integral_sum": 27.835123000000006
+        }
+    },
+    "atcoder_arc170b_arithmetic-progression-subsequence": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.9,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_arc170d_triangle-card-game": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 160.553947,
+            "runtime_sum": 1424.8351089999999,
+            "memory": 5.928,
+            "integral_max": 524.91,
+            "integral_sum": 5024.4199
+        }
+    },
+    "atcoder_arc170e_bdfs": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.55,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_arc171a_no-attacking": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.62633,
+            "runtime_sum": 20.200072000000006,
+            "memory": 1.912,
+            "integral_max": 1.65764,
+            "integral_sum": 14.395611999999998
+        }
+    },
+    "atcoder_arc171b_chmax": {
+        "cpp": null
+    },
+    "atcoder_arc172b_atcoder-language": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.154057,
+            "runtime_sum": 26.872595000000004,
+            "memory": 1.916,
+            "integral_max": 4.619940000000001,
+            "integral_sum": 26.186536999999994
+        }
+    },
+    "atcoder_arc172c_election": {
+        "cpp": null
+    },
+    "atcoder_arc173a_neq-number": {
+        "cpp": null
+    },
+    "atcoder_arc173b_make-many-triangles": {
+        "cpp": null
+    },
+    "atcoder_arc174a_a-multiply": {
+        "cpp": null
+    },
+    "atcoder_arc174d_digit-vs-square-root": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 4.101985,
+            "runtime_sum": 38.410215,
+            "memory": 3.692,
+            "integral_max": 2.8098,
+            "integral_sum": 25.780452
+        }
+    },
+    "atcoder_arc175b_parenthesis-arrangement": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.05,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_arc177a_exchange": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.467501,
+            "runtime_sum": 26.529418999999997,
+            "memory": 3.436,
+            "integral_max": 1.56871,
+            "integral_sum": 17.013625
+        }
+    },
+    "atcoder_arc177e_wrong-scoreboard": {
+        "cpp": null
+    },
+    "atcoder_arc178a_good-permutation-2": {
+        "cpp": null
+    },
+    "atcoder_arc178b_1-+-6-=-7": {
+        "cpp": null
+    },
+    "atcoder_arc178c_sum-of-abs-2": {
+        "cpp": null
+    },
+    "atcoder_arc179a_partition": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.1,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_arc180c_subsequence-and-prefix-sum": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.718268,
+            "runtime_sum": 30.628751999999995,
+            "memory": 3.568,
+            "integral_max": 2.58853,
+            "integral_sum": 29.360912999999996
+        }
+    },
+    "atcoder_arc181a_sort-left-and-right": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 80.768255,
+            "runtime_sum": 103.001504,
+            "memory": 1.912,
+            "integral_max": 150.47,
+            "integral_sum": 166.08126900000002
+        }
+    },
+    "atcoder_arc181b_annoying-string-problem": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.85,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_arc181d_prefix-bubble-sort": {
+        "cpp": null
+    },
+    "atcoder_arc182a_chmax-rush!": {
+        "cpp": null
+    },
+    "atcoder_arc183b_near-assignment": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.453903,
+            "runtime_sum": 23.473110000000002,
+            "memory": 1.904,
+            "integral_max": 1.09779,
+            "integral_sum": 16.753254
+        }
+    },
+    "atcoder_arc183c_not-argmax": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_arc184c_mountain-and-valley-folds": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.753483,
+            "runtime_sum": 36.871414,
+            "memory": 5.16,
+            "integral_max": 6.97273,
+            "integral_sum": 68.75615499999999
+        }
+    },
+    "atcoder_arc185a_mod-m-game-2": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.80767,
+            "runtime_sum": 27.598919,
+            "memory": 1.904,
+            "integral_max": 1.7005,
+            "integral_sum": 18.067358
+        }
+    },
+    "atcoder_arc185b_+1-and--1": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.8,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_arc188b_symmetric-painting": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 77.162335,
+            "runtime_sum": 107.13636600000001,
+            "memory": 1.904,
+            "integral_max": 144.15,
+            "integral_sum": 161.99865400000002
+        }
+    },
+    "atcoder_arc189b_minimize-sum": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 29.067547,
+            "runtime_sum": 288.41546300000005,
+            "memory": 6.12,
+            "integral_max": 108.565,
+            "integral_sum": 994.8336850000001
+        }
+    },
+    "atcoder_arc189c_balls-and-boxes": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 7.067968,
+            "runtime_sum": 36.147672,
+            "memory": 4.128,
+            "integral_max": 21.9635,
+            "integral_sum": 42.602614
+        }
+    },
+    "atcoder_arc190a_inside-or-outside": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.455908,
+            "runtime_sum": 28.776716999999994,
+            "memory": 1.916,
+            "integral_max": 1.48589,
+            "integral_sum": 17.752374
+        }
+    },
+    "atcoder_arc192a_arc-arc": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 16.801263,
+            "runtime_sum": 166.13256099999998,
+            "memory": 3.656,
+            "integral_max": 29.679000000000002,
+            "integral_sum": 282.471096
+        }
+    },
+    "atcoder_arc192b_fennec-vs.-snuke-2": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 52.642125,
+            "runtime_sum": 271.36791500000004,
+            "memory": 3.64,
+            "integral_max": 84.5945,
+            "integral_sum": 431.53360599999996
+        }
+    },
+    "atcoder_arc193a_complement-interval-graph": {
+        "cpp": null
+    },
+    "atcoder_arc194a_operations-on-a-stack": {
+        "cpp": null
+    },
+    "atcoder_arc194b_minimum-cost-sort": {
+        "cpp": null
+    },
+    "atcoder_arc195a_twice-subsequence": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 10.808204,
+            "runtime_sum": 30.91271500000001,
+            "memory": 3.648,
+            "integral_max": 30.9496,
+            "integral_sum": 45.54032999999999
+        }
+    },
+    "atcoder_arc195b_uniform-sum": {
+        "cpp": null
+    },
+    "atcoder_arc195c_hamiltonian-pieces": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 86.252815,
+            "runtime_sum": 296.14615999999995,
+            "memory": 4.168,
+            "integral_max": 346.555,
+            "integral_sum": 1112.0854739999997
+        }
+    },
+    "atcoder_arc195d_swap-and-erase": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_arc197a_union-of-grid-paths": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 5.086626,
+            "runtime_sum": 45.52112600000001,
+            "memory": 3.604,
+            "integral_max": 13.7369,
+            "integral_sum": 82.16867000000002
+        }
+    },
+    "atcoder_arc197b_greater-than-average": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 61.95403,
+            "runtime_sum": 628.12667,
+            "memory": 3.892,
+            "integral_max": 131.07399999999998,
+            "integral_sum": 1846.7411
+        }
+    },
+    "atcoder_arc197e_four-square-tiles": {
+        "cpp": null
+    },
+    "codechef_ADJSUMLOST_adjacent-sum-array": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codechef_ADVITIYA_advitiya": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.453924,
+            "runtime_sum": 30.492075,
+            "memory": 3.664,
+            "integral_max": 2.1329000000000002,
+            "integral_sum": 20.133670000000002
+        }
+    },
+    "codechef_ALTUNI_alternate-universe": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 7.174881,
+            "runtime_sum": 47.70275499999998,
+            "memory": 3.456,
+            "integral_max": 4.31699,
+            "integral_sum": 28.917274
+        }
+    },
+    "codechef_ASSIGNSCORE_assignment-score": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.898167,
+            "runtime_sum": 34.295727,
+            "memory": 3.632,
+            "integral_max": 2.4033599999999997,
+            "integral_sum": 22.0547409
+        }
+    },
+    "codechef_BDISC_bulk-discount": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 33.650408,
+            "runtime_sum": 143.33996599999998,
+            "memory": 3.852,
+            "integral_max": 125.287,
+            "integral_sum": 443.85979900000007
+        }
+    },
+    "codechef_BINARYSUM_binary-sum": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 5.454249,
+            "runtime_sum": 40.026674,
+            "memory": 1.912,
+            "integral_max": 8.82712,
+            "integral_sum": 28.775771999999996
+        }
+    },
+    "codechef_BINREM_binary-removals": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.852799,
+            "runtime_sum": 23.06151,
+            "memory": 1.904,
+            "integral_max": 1.04635,
+            "integral_sum": 15.560859000000004
+        }
+    },
+    "codechef_BOX2_2-boxes": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.254119,
+            "runtime_sum": 26.343760999999997,
+            "memory": 3.6,
+            "integral_max": 1.81395,
+            "integral_sum": 17.734612
+        }
+    },
+    "codechef_BRKSTICK_breaking-sticks": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.554483,
+            "runtime_sum": 23.581592999999994,
+            "memory": 1.912,
+            "integral_max": 1.0741500000000002,
+            "integral_sum": 15.063297000000002
+        }
+    },
+    "codechef_CALINTAKE_calorie-intake": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.152779,
+            "runtime_sum": 25.440927,
+            "memory": 1.912,
+            "integral_max": 1.8407600000000002,
+            "integral_sum": 15.912298999999999
+        }
+    },
+    "codechef_CARDGAME1_card-game": {
+        "cpp": null
+    },
+    "codechef_CDMT_codemat": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.150283,
+            "runtime_sum": 24.680443,
+            "memory": 1.904,
+            "integral_max": 1.29656,
+            "integral_sum": 15.602421999999999
+        }
+    },
+    "codechef_CHEFSOCKS_chef-and-socks": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.75109,
+            "runtime_sum": 23.199574000000005,
+            "memory": 3.728,
+            "integral_max": 1.88778,
+            "integral_sum": 17.397508
+        }
+    },
+    "codechef_CHESSCOLOUR_chess-colouring": {
+        "cpp": null
+    },
+    "codechef_CLSI_conquer-the-fest!!": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.348793,
+            "runtime_sum": 25.657302000000005,
+            "memory": 1.904,
+            "integral_max": 1.41375,
+            "integral_sum": 16.244844999999998
+        }
+    },
+    "codechef_CNTDISJOINT_count-disjoint-arrays": {
+        "cpp": null
+    },
+    "codechef_COUNT0110_counting-01-and-10": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 16.252882,
+            "runtime_sum": 42.035666,
+            "memory": 3.56,
+            "integral_max": 29.8531,
+            "integral_sum": 54.118867000000016
+        }
+    },
+    "codechef_CPYD_no-two-alike": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 133.752942,
+            "runtime_sum": 420.397835,
+            "memory": 9.748,
+            "integral_max": 286.781,
+            "integral_sum": 1214.8451530000002
+        }
+    },
+    "codechef_CRCK_christmas-cake": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.113452,
+            "runtime_sum": 26.275854999999996,
+            "memory": 1.916,
+            "integral_max": 1.2438799999999999,
+            "integral_sum": 15.731789000000003
+        }
+    },
+    "codechef_DELDIF_deletion-and-difference": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 19.053261,
+            "runtime_sum": 140.170765,
+            "memory": 4.648,
+            "integral_max": 79.6042,
+            "integral_sum": 513.987487
+        }
+    },
+    "codechef_DONUTSELL_selling-donuts": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.214451,
+            "runtime_sum": 28.149169999999998,
+            "memory": 4.136,
+            "integral_max": 2.02272,
+            "integral_sum": 28.650506
+        }
+    },
+    "codechef_DPOWER_distinct-power": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codechef_FLIPPRE_flip-prefix": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.072852,
+            "runtime_sum": 22.717154,
+            "memory": 1.904,
+            "integral_max": 2.1265799999999997,
+            "integral_sum": 16.148399
+        }
+    },
+    "codechef_FOODBAL_food-balance": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.2538,
+            "runtime_sum": 20.978977999999998,
+            "memory": 1.912,
+            "integral_max": 0.777055,
+            "integral_sum": 13.975615000000001
+        }
+    },
+    "codechef_GGMM_short-piles": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.317402,
+            "runtime_sum": 22.138097,
+            "memory": 1.904,
+            "integral_max": 0.932458,
+            "integral_sum": 14.782573000000001
+        }
+    },
+    "codechef_GOODMATRIX_the-best-matrix": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.953682,
+            "runtime_sum": 22.74042,
+            "memory": 3.64,
+            "integral_max": 1.98444,
+            "integral_sum": 16.356478000000003
+        }
+    },
+    "codechef_HJJ_can-you-bench": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.553019,
+            "runtime_sum": 21.469867,
+            "memory": 3.608,
+            "integral_max": 1.1153300000000002,
+            "integral_sum": 15.171675
+        }
+    },
+    "codechef_HWFIN_too-much-homework!": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.654841,
+            "runtime_sum": 22.378359,
+            "memory": 1.912,
+            "integral_max": 1.92153,
+            "integral_sum": 15.266096000000001
+        }
+    },
+    "codechef_ICECONE_icecream-and-cone": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.419165,
+            "runtime_sum": 24.983216999999996,
+            "memory": 1.912,
+            "integral_max": 2.63229,
+            "integral_sum": 18.539927999999996
+        }
+    },
+    "codechef_INPL_ipl": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.352353,
+            "runtime_sum": 21.765981999999997,
+            "memory": 3.604,
+            "integral_max": 1.10731,
+            "integral_sum": 14.645751000000002
+        }
+    },
+    "codechef_KOMON_monster-monster": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 36.64871,
+            "runtime_sum": 430.5574419999999,
+            "memory": 4.508,
+            "integral_max": 159.54299999999998,
+            "integral_sum": 1651.9330199999997
+        }
+    },
+    "codechef_LARGSMALL_larger-smaller": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.311787,
+            "runtime_sum": 24.809078000000003,
+            "memory": 1.904,
+            "integral_max": 1.7612299999999999,
+            "integral_sum": 17.692687000000003
+        }
+    },
+    "codechef_LOTTERYTICK_lottery-tickets": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 33.252572,
+            "runtime_sum": 316.92475699999994,
+            "memory": 4.492,
+            "integral_max": 142.607,
+            "integral_sum": 1192.8826900000001
+        }
+    },
+    "codechef_LSU_costly-summit": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.75,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codechef_MAX6_max-sixers": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.354329,
+            "runtime_sum": 25.676038000000002,
+            "memory": 1.912,
+            "integral_max": 1.92919,
+            "integral_sum": 17.777205999999996
+        }
+    },
+    "codechef_MDGT_lost-in-the-fest!!": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.054664,
+            "runtime_sum": 24.823380999999994,
+            "memory": 3.536,
+            "integral_max": 1.8811399999999998,
+            "integral_sum": 16.201248000000003
+        }
+    },
+    "codechef_MINA2B_a-to-b": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.730513,
+            "runtime_sum": 24.351067,
+            "memory": 1.916,
+            "integral_max": 1.3004900000000001,
+            "integral_sum": 15.769955999999999
+        }
+    },
+    "codechef_MINBOTTLES_minimum-bottles": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.55264,
+            "runtime_sum": 23.269329,
+            "memory": 1.916,
+            "integral_max": 0.969391,
+            "integral_sum": 16.073324000000003
+        }
+    },
+    "codechef_MINCOL_minimum-colours-(easy)": {
+        "cpp": null
+    },
+    "codechef_MINMAXSUB_min-max-game": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codechef_MODINDROME_modindrome": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codechef_MOVEMENT_move-grid": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.069607,
+            "runtime_sum": 24.792828999999998,
+            "memory": 1.904,
+            "integral_max": 1.14531,
+            "integral_sum": 14.890575
+        }
+    },
+    "codechef_MOVPR_movie-snacks": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 4.05301,
+            "runtime_sum": 27.140384,
+            "memory": 3.772,
+            "integral_max": 1.86032,
+            "integral_sum": 17.801473
+        }
+    },
+    "codechef_MSATP_friendly-binary-strings": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.503327,
+            "runtime_sum": 26.979826999999997,
+            "memory": 1.912,
+            "integral_max": 2.15875,
+            "integral_sum": 20.911786999999997
+        }
+    },
+    "codechef_MXFREQ_multiplexer": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.653144,
+            "runtime_sum": 26.773525,
+            "memory": 3.56,
+            "integral_max": 2.81405,
+            "integral_sum": 19.510963999999998
+        }
+    },
+    "codechef_MXON_maximum-ones": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.353864,
+            "runtime_sum": 25.024013,
+            "memory": 3.556,
+            "integral_max": 2.00277,
+            "integral_sum": 16.912627999999998
+        }
+    },
+    "codechef_NEWYEAR_happy-new-year!": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.832669,
+            "runtime_sum": 25.24454,
+            "memory": 1.916,
+            "integral_max": 1.97396,
+            "integral_sum": 17.599503
+        }
+    },
+    "codechef_NUGGET_moneymaking": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.856748,
+            "runtime_sum": 24.105211000000004,
+            "memory": 1.904,
+            "integral_max": 1.2564,
+            "integral_sum": 15.772321999999997
+        }
+    },
+    "codechef_ORANGES_too-many-oranges": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.450594,
+            "runtime_sum": 24.366699999999998,
+            "memory": 1.9,
+            "integral_max": 3.11099,
+            "integral_sum": 16.923025
+        }
+    },
+    "codechef_P1169_entry-check": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.353241,
+            "runtime_sum": 22.571982000000002,
+            "memory": 3.668,
+            "integral_max": 0.97999,
+            "integral_sum": 15.708579
+        }
+    },
+    "codechef_P1175_assignment-due": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.980588,
+            "runtime_sum": 24.117729999999998,
+            "memory": 1.904,
+            "integral_max": 2.1049200000000003,
+            "integral_sum": 16.898596
+        }
+    },
+    "codechef_P2169_opposite-attract": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.455439,
+            "runtime_sum": 22.788058999999997,
+            "memory": 1.916,
+            "integral_max": 1.5621,
+            "integral_sum": 15.962106999999998
+        }
+    },
+    "codechef_P2175_technex-tickets": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.253251,
+            "runtime_sum": 20.625187999999998,
+            "memory": 1.916,
+            "integral_max": 0.93537,
+            "integral_sum": 14.085124999999998
+        }
+    },
+    "codechef_P2P_make-odd": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.452555,
+            "runtime_sum": 22.774521000000004,
+            "memory": 3.348,
+            "integral_max": 0.968978,
+            "integral_sum": 15.845029
+        }
+    },
+    "codechef_P3169_make-k-most-frequent": {
+        "cpp": null
+    },
+    "codechef_P3175_make-same": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.75,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codechef_P4169_hamming-equivalent": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.4354,
+            "runtime_sum": 22.995703000000002,
+            "memory": 1.912,
+            "integral_max": 1.87503,
+            "integral_sum": 16.725091
+        }
+    },
+    "codechef_P4172_transform-string": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.853687,
+            "runtime_sum": 24.360354000000005,
+            "memory": 3.636,
+            "integral_max": 1.6880899999999999,
+            "integral_sum": 16.819266
+        }
+    },
+    "codechef_P4175_alternate-it!": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.5,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codechef_P5169_constant-subsequence": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.304343,
+            "runtime_sum": 23.238879,
+            "memory": 1.912,
+            "integral_max": 1.84183,
+            "integral_sum": 16.007919
+        }
+    },
+    "codechef_PERMCON_permutation-construct": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.55,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codechef_PERMMODK_permutation-mod-k": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.661517,
+            "runtime_sum": 24.772095999999998,
+            "memory": 1.916,
+            "integral_max": 1.01622,
+            "integral_sum": 15.8915
+        }
+    },
+    "codechef_PERMUTATION2_permutation-pair": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 4.805176,
+            "runtime_sum": 76.10341999999999,
+            "memory": 5.384,
+            "integral_max": 12.3074,
+            "integral_sum": 216.31509999999997
+        }
+    },
+    "codechef_PIVOTALREV_pivotal-reversal": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 38.152665,
+            "runtime_sum": 266.923228,
+            "memory": 8.296,
+            "integral_max": 267.83099999999996,
+            "integral_sum": 1590.5428
+        }
+    },
+    "codechef_PLACE0110_placing-01-and-10": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 7.052905,
+            "runtime_sum": 42.42837900000001,
+            "memory": 3.564,
+            "integral_max": 11.7678,
+            "integral_sum": 53.09225900000001
+        }
+    },
+    "codechef_POSTPERI_poster-perimeter": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.253418,
+            "runtime_sum": 21.280574,
+            "memory": 1.904,
+            "integral_max": 0.773821,
+            "integral_sum": 14.502231
+        }
+    },
+    "codechef_QUICKEXIT0_quick-exit": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.083196,
+            "runtime_sum": 35.299682000000004,
+            "memory": 3.704,
+            "integral_max": 3.71794,
+            "integral_sum": 49.886842
+        }
+    },
+    "codechef_RBGM_red-blue-sort": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.034735,
+            "runtime_sum": 25.592324000000005,
+            "memory": 3.436,
+            "integral_max": 1.4904,
+            "integral_sum": 19.690403999999997
+        }
+    },
+    "codechef_RURT_run-for-fun": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.25264,
+            "runtime_sum": 20.775658000000004,
+            "memory": 1.916,
+            "integral_max": 0.958569,
+            "integral_sum": 13.764897000000001
+        }
+    },
+    "codechef_SAMEAND_same-and": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.056443,
+            "runtime_sum": 22.806191,
+            "memory": 3.568,
+            "integral_max": 2.0348800000000002,
+            "integral_sum": 16.108106000000003
+        }
+    },
+    "codechef_SMOOTHINC_smoothly-increasing": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.353517,
+            "runtime_sum": 21.774368,
+            "memory": 1.912,
+            "integral_max": 0.770049,
+            "integral_sum": 14.388637999999998
+        }
+    },
+    "codechef_SORTTHEM_sort-them": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.253921,
+            "runtime_sum": 21.359446,
+            "memory": 3.572,
+            "integral_max": 0.9072699999999999,
+            "integral_sum": 14.84064
+        }
+    },
+    "codechef_SPC2025_new-pro-coder": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.35255,
+            "runtime_sum": 21.868252,
+            "memory": 1.904,
+            "integral_max": 0.914325,
+            "integral_sum": 14.520457
+        }
+    },
+    "codechef_SPC2025Q2_itz-simple": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.452588,
+            "runtime_sum": 21.466402,
+            "memory": 1.908,
+            "integral_max": 0.9643670000000001,
+            "integral_sum": 15.039099000000002
+        }
+    },
+    "codechef_SPC2025Q5_halloween-array": {
+        "cpp": null
+    },
+    "codechef_SPC2025Q6_connecting-wells": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 13.453663,
+            "runtime_sum": 34.291541,
+            "memory": 1.912,
+            "integral_max": 24.1071,
+            "integral_sum": 38.574973
+        }
+    },
+    "codechef_SQUIDBANK_squid-game---piggy-bank": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.456219,
+            "runtime_sum": 22.174318999999997,
+            "memory": 1.912,
+            "integral_max": 1.5968,
+            "integral_sum": 15.620696000000002
+        }
+    },
+    "codechef_STKSTR_streak-star": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.253324,
+            "runtime_sum": 25.948086999999997,
+            "memory": 1.904,
+            "integral_max": 2.9817400000000003,
+            "integral_sum": 18.549653999999997
+        }
+    },
+    "codechef_STOT_s-to-t": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.863711,
+            "runtime_sum": 23.712911000000002,
+            "memory": 1.912,
+            "integral_max": 1.92735,
+            "integral_sum": 17.473346
+        }
+    },
+    "codechef_STRANGENIM_strange-nim-game": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 44.153441,
+            "runtime_sum": 808.242233,
+            "memory": 5.364,
+            "integral_max": 164.874,
+            "integral_sum": 2935.7499999999995
+        }
+    },
+    "codechef_SUMBYOR_sum-by-or": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.653187,
+            "runtime_sum": 23.673491999999996,
+            "memory": 1.916,
+            "integral_max": 1.16814,
+            "integral_sum": 16.610335000000003
+        }
+    },
+    "codechef_SWPG_shall-we-play-a-game": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.506667,
+            "runtime_sum": 23.895582000000005,
+            "memory": 1.904,
+            "integral_max": 2.50128,
+            "integral_sum": 17.384983
+        }
+    },
+    "codechef_TEMPBAL_temperature-balance": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codechef_TIMA_time-machine": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.170981,
+            "runtime_sum": 21.097396,
+            "memory": 3.728,
+            "integral_max": 1.1648800000000001,
+            "integral_sum": 14.700966000000001
+        }
+    },
+    "codechef_TMPTMP_temporary-temperature": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.096262,
+            "runtime_sum": 24.014131999999996,
+            "memory": 3.4,
+            "integral_max": 1.90825,
+            "integral_sum": 16.596465000000002
+        }
+    },
+    "codechef_TRICHECK_triangle-checking": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.501081,
+            "runtime_sum": 22.303115,
+            "memory": 1.9,
+            "integral_max": 1.0246199999999999,
+            "integral_sum": 14.115295000000001
+        }
+    },
+    "codechef_USELEC_elections": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.086066,
+            "runtime_sum": 24.55410700000001,
+            "memory": 1.904,
+            "integral_max": 1.58493,
+            "integral_sum": 16.933298
+        }
+    },
+    "codechef_VOLCANO_volcanic-eruption": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.912061,
+            "runtime_sum": 26.613315000000004,
+            "memory": 1.916,
+            "integral_max": 1.4392800000000001,
+            "integral_sum": 17.664463
+        }
+    },
+    "codechef_WAPEN_time-penalty": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.565159,
+            "runtime_sum": 23.084811,
+            "memory": 1.904,
+            "integral_max": 1.0127300000000001,
+            "integral_sum": 15.141944
+        }
+    },
+    "codechef_WECNITK_access-code-equality": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.453405,
+            "runtime_sum": 26.825676,
+            "memory": 1.916,
+            "integral_max": 1.67978,
+            "integral_sum": 15.967561000000002
+        }
+    },
+    "codechef_WHITEWALL_white-wall": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 4.05384,
+            "runtime_sum": 55.598092,
+            "memory": 3.664,
+            "integral_max": 11.2862,
+            "integral_sum": 79.37653
+        }
+    },
+    "codechef_WRAPGIFTS_christmas-gifts": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.554568,
+            "runtime_sum": 24.733354999999996,
+            "memory": 3.748,
+            "integral_max": 1.15468,
+            "integral_sum": 15.192772999999999
+        }
+    },
+    "codechef_XLSL_clothing-store": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.65,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codeforces_2093A_ideal-generator": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.954423,
+            "runtime_sum": 28.445992,
+            "memory": 1.916,
+            "integral_max": 4.97344,
+            "integral_sum": 24.499753
+        }
+    },
+    "codeforces_2095C_would-it-be-unrated?": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.055082,
+            "runtime_sum": 22.660282000000002,
+            "memory": 1.912,
+            "integral_max": 1.37598,
+            "integral_sum": 14.323326
+        }
+    },
+    "codeforces_2095D_where-am-i?": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.254099,
+            "runtime_sum": 22.346986999999995,
+            "memory": 1.916,
+            "integral_max": 0.8670950000000001,
+            "integral_sum": 14.732633000000002
+        }
+    },
+    "codeforces_2095F_\u2153-\u043ef-\u0430-\u0440r\u043ebl\u0435m": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.649958,
+            "runtime_sum": 22.870137,
+            "memory": 1.912,
+            "integral_max": 1.64499,
+            "integral_sum": 15.888241
+        }
+    },
+    "codeforces_2095I_mysterious-script": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.154367,
+            "runtime_sum": 25.065601000000004,
+            "memory": 1.904,
+            "integral_max": 1.2419600000000002,
+            "integral_sum": 16.082608999999998
+        }
+    },
+    "codeforces_2098A_vadim's-collection": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.1,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codeforces_2103A_common-multiple": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 4.353562,
+            "runtime_sum": 38.50344499999999,
+            "memory": 1.912,
+            "integral_max": 6.79423,
+            "integral_sum": 45.247859999999996
+        }
+    },
+    "codeforces_2104A_three-decks": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 83.459124,
+            "runtime_sum": 112.572274,
+            "memory": 3.712,
+            "integral_max": 155.713,
+            "integral_sum": 177.955588
+        }
+    },
+    "codeforces_2106A_dr.-tc": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 4.752962,
+            "runtime_sum": 30.234167,
+            "memory": 1.916,
+            "integral_max": 7.58898,
+            "integral_sum": 24.338039000000002
+        }
+    },
+    "codeforces_2108A_permutation-warm-up": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.74637,
+            "runtime_sum": 25.368726999999996,
+            "memory": 1.916,
+            "integral_max": 1.89328,
+            "integral_sum": 18.667448000000004
+        }
+    },
+    "leetcode_3188_find-champion-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.754434,
+            "runtime_sum": 22.564443,
+            "memory": 1.912,
+            "integral_max": 1.78499,
+            "integral_sum": 15.561911000000002
+        }
+    },
+    "leetcode_3190_minimum-operations-to-maximize-last-elements-in-arrays": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.653972,
+            "runtime_sum": 24.910579000000002,
+            "memory": 3.556,
+            "integral_max": 2.62758,
+            "integral_sum": 17.959952
+        }
+    },
+    "leetcode_3191_maximum-score-after-applying-operations-on-a-tree": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3192_maximum-xor-product": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.311104,
+            "runtime_sum": 25.146986999999996,
+            "memory": 1.908,
+            "integral_max": 2.27457,
+            "integral_sum": 18.520922
+        }
+    },
+    "leetcode_3193_maximum-strong-pair-xor-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.054144,
+            "runtime_sum": 25.442451000000002,
+            "memory": 1.912,
+            "integral_max": 1.62985,
+            "integral_sum": 17.289122000000003
+        }
+    },
+    "leetcode_3194_find-words-containing-character": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.700833,
+            "runtime_sum": 22.927305999999998,
+            "memory": 1.92,
+            "integral_max": 1.20241,
+            "integral_sum": 15.003173000000002
+        }
+    },
+    "leetcode_3195_separate-black-and-white-balls": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3197_maximum-strong-pair-xor-ii": {
+        "cpp": null
+    },
+    "leetcode_3199_distribute-candies-among-children-i": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3200_number-of-strings-which-can-be-rearranged-to-contain-substring": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.95,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3201_distribute-candies-among-children-ii": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3202_high-access-employees": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.053773,
+            "runtime_sum": 22.432999000000002,
+            "memory": 3.512,
+            "integral_max": 2.1261900000000002,
+            "integral_sum": 16.085426000000002
+        }
+    },
+    "leetcode_3203_palindrome-rearrangement-queries": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.477726,
+            "runtime_sum": 21.498590999999998,
+            "memory": 1.92,
+            "integral_max": 0.93945,
+            "integral_sum": 14.7332629
+        }
+    },
+    "leetcode_3207_make-three-strings-equal": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.060114,
+            "runtime_sum": 24.340845999999996,
+            "memory": 1.916,
+            "integral_max": 1.2859399999999999,
+            "integral_sum": 15.781345999999997
+        }
+    },
+    "leetcode_3208_count-beautiful-substrings-ii": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.95,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3209_minimum-number-of-coins-for-fruits": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.1,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3210_count-beautiful-substrings-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.184852,
+            "runtime_sum": 22.509684,
+            "memory": 1.912,
+            "integral_max": 1.6422999999999999,
+            "integral_sum": 16.006013
+        }
+    },
+    "leetcode_3211_find-maximum-non-decreasing-array-length": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3212_count-the-number-of-good-partitions": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3213_count-subarrays-where-max-element-appears-at-least-k-times": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.352743,
+            "runtime_sum": 23.248251999999997,
+            "memory": 3.572,
+            "integral_max": 1.2725099999999998,
+            "integral_sum": 17.129506
+        }
+    },
+    "leetcode_3214_maximize-area-of-square-hole-in-grid": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.353693,
+            "runtime_sum": 23.456008999999995,
+            "memory": 3.504,
+            "integral_max": 1.00862,
+            "integral_sum": 16.294439
+        }
+    },
+    "leetcode_3215_matrix-similarity-after-cyclic-shifts": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3218_find-number-of-coins-to-place-in-tree-nodes": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.453498,
+            "runtime_sum": 23.772692000000003,
+            "memory": 3.352,
+            "integral_max": 1.33666,
+            "integral_sum": 21.697742
+        }
+    },
+    "leetcode_3219_make-lexicographically-smallest-array-by-swapping-elements": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.453867,
+            "runtime_sum": 21.573041999999997,
+            "memory": 1.92,
+            "integral_max": 0.926189,
+            "integral_sum": 14.874559000000001
+        }
+    },
+    "leetcode_3220_count-tested-devices-after-test-operations": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 131.359474,
+            "runtime_sum": 151.45363400000005,
+            "memory": 1.916,
+            "integral_max": 247.914,
+            "integral_sum": 262.168765
+        }
+    },
+    "leetcode_3221_find-the-peaks": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.953585,
+            "runtime_sum": 27.498003000000004,
+            "memory": 1.916,
+            "integral_max": 1.70649,
+            "integral_sum": 17.560887
+        }
+    },
+    "leetcode_3223_count-complete-substrings": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.154905,
+            "runtime_sum": 20.479227,
+            "memory": 3.524,
+            "integral_max": 0.9270879999999999,
+            "integral_sum": 14.678619
+        }
+    },
+    "leetcode_3224_count-the-number-of-infection-sequences": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 12.25347,
+            "runtime_sum": 110.53376,
+            "memory": 6.004,
+            "integral_max": 56.450100000000006,
+            "integral_sum": 369.1179000000001
+        }
+    },
+    "leetcode_3225_length-of-longest-subarray-with-at-most-k-frequency": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 33.352566,
+            "runtime_sum": 99.59548500000001,
+            "memory": 9.48,
+            "integral_max": 231.86499999999998,
+            "integral_sum": 452.5462359999999
+        }
+    },
+    "leetcode_3226_minimum-number-game": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3227_find-missing-and-repeated-values": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.156362,
+            "runtime_sum": 22.67488,
+            "memory": 3.568,
+            "integral_max": 2.0700800000000004,
+            "integral_sum": 16.885915
+        }
+    },
+    "leetcode_3228_maximum-size-of-a-set-after-removals": {
+        "cpp": null
+    },
+    "leetcode_3229_minimum-cost-to-make-array-equalindromic": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3230_remove-adjacent-almost-equal-characters": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.95,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3231_minimum-number-of-coins-to-be-added": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.130527,
+            "runtime_sum": 28.185189,
+            "memory": 3.568,
+            "integral_max": 2.2081,
+            "integral_sum": 18.217259999999992
+        }
+    },
+    "leetcode_3233_maximize-the-number-of-partitions-after-operations": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.362776,
+            "runtime_sum": 31.204546,
+            "memory": 3.44,
+            "integral_max": 1.7094099999999999,
+            "integral_sum": 20.239417
+        }
+    },
+    "leetcode_3234_double-modular-exponentiation": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.55402,
+            "runtime_sum": 22.290554999999998,
+            "memory": 3.492,
+            "integral_max": 1.06993,
+            "integral_sum": 15.704671
+        }
+    },
+    "leetcode_3235_minimum-cost-to-convert-string-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.652708,
+            "runtime_sum": 25.243391999999997,
+            "memory": 1.92,
+            "integral_max": 1.16733,
+            "integral_sum": 17.908184
+        }
+    },
+    "leetcode_3236_smallest-missing-integer-greater-than-sequential-prefix-sum": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.552656,
+            "runtime_sum": 24.346106999999996,
+            "memory": 1.92,
+            "integral_max": 1.06037,
+            "integral_sum": 16.303052
+        }
+    },
+    "leetcode_3238_minimum-cost-to-convert-string-ii": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3239_minimum-number-of-operations-to-make-x-and-y-equal": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3240_maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3241_divide-array-into-arrays-with-max-difference": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.4531,
+            "runtime_sum": 23.514982,
+            "memory": 3.652,
+            "integral_max": 1.12448,
+            "integral_sum": 16.249498
+        }
+    },
+    "leetcode_3242_count-elements-with-maximum-frequency": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.263161,
+            "runtime_sum": 25.963770999999994,
+            "memory": 3.516,
+            "integral_max": 2.14656,
+            "integral_sum": 18.986532
+        }
+    },
+    "leetcode_3243_count-the-number-of-powerful-integers": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.775847,
+            "runtime_sum": 24.605966,
+            "memory": 1.916,
+            "integral_max": 1.0292000000000001,
+            "integral_sum": 15.648503999999999
+        }
+    },
+    "leetcode_3244_minimize-length-of-array-using-operations": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.138289,
+            "runtime_sum": 30.596281999999995,
+            "memory": 3.516,
+            "integral_max": 1.29126,
+            "integral_sum": 18.608908
+        }
+    },
+    "leetcode_3245_find-beautiful-indices-in-the-given-array-i": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.65,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3246_check-if-bitwise-or-has-trailing-zeros": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.453226,
+            "runtime_sum": 40.647242,
+            "memory": 3.628,
+            "integral_max": 2.01108,
+            "integral_sum": 24.622921
+        }
+    },
+    "leetcode_3248_count-the-number-of-incremovable-subarrays-ii": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.252509,
+            "runtime_sum": 28.007319000000003,
+            "memory": 1.908,
+            "integral_max": 4.40761,
+            "integral_sum": 21.711838
+        }
+    },
+    "leetcode_3250_maximum-square-area-by-removing-fences-from-a-field": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 14.452939,
+            "runtime_sum": 72.806963,
+            "memory": 6.568,
+            "integral_max": 69.6982,
+            "integral_sum": 214.18343500000003
+        }
+    },
+    "leetcode_3252_count-the-number-of-incremovable-subarrays-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.856841,
+            "runtime_sum": 25.257991,
+            "memory": 3.536,
+            "integral_max": 2.13604,
+            "integral_sum": 19.033758999999996
+        }
+    },
+    "leetcode_3262_find-polygon-with-the-largest-perimeter": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.752264,
+            "runtime_sum": 24.872743000000003,
+            "memory": 1.916,
+            "integral_max": 1.92103,
+            "integral_sum": 18.312128
+        }
+    },
+    "leetcode_3263_divide-an-array-into-subarrays-with-minimum-cost-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.960859,
+            "runtime_sum": 24.848118,
+            "memory": 1.916,
+            "integral_max": 1.83176,
+            "integral_sum": 18.036770000000008
+        }
+    },
+    "leetcode_3264_maximum-points-after-enemy-battles": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3265_maximum-good-subarray-sum": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.550405,
+            "runtime_sum": 24.287198,
+            "memory": 1.916,
+            "integral_max": 1.00422,
+            "integral_sum": 16.031897000000004
+        }
+    },
+    "leetcode_3266_find-longest-special-substring-that-occurs-thrice-ii": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.347036,
+            "runtime_sum": 23.523267,
+            "memory": 3.416,
+            "integral_max": 2.09225,
+            "integral_sum": 16.697981
+        }
+    },
+    "leetcode_3267_find-longest-special-substring-that-occurs-thrice-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.673276,
+            "runtime_sum": 21.788018000000005,
+            "memory": 3.56,
+            "integral_max": 0.9770110000000001,
+            "integral_sum": 14.747088999999999
+        }
+    },
+    "leetcode_3269_number-of-subarrays-that-match-a-pattern-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.850884,
+            "runtime_sum": 23.404673,
+            "memory": 3.576,
+            "integral_max": 1.2643000000000002,
+            "integral_sum": 16.947794000000002
+        }
+    },
+    "leetcode_3270_minimum-moves-to-capture-the-queen": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.285478,
+            "runtime_sum": 25.013297,
+            "memory": 3.58,
+            "integral_max": 2.04565,
+            "integral_sum": 18.845234
+        }
+    },
+    "leetcode_3271_count-the-number-of-houses-at-a-certain-distance-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.759858,
+            "runtime_sum": 23.184006,
+            "memory": 1.92,
+            "integral_max": 1.99262,
+            "integral_sum": 17.536919
+        }
+    },
+    "leetcode_3275_minimum-number-of-pushes-to-type-word-i": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3276_minimum-number-of-pushes-to-type-word-ii": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.432442,
+            "runtime_sum": 21.754001000000002,
+            "memory": 3.404,
+            "integral_max": 1.7357099999999999,
+            "integral_sum": 16.376923
+        }
+    },
+    "leetcode_3277_find-the-number-of-ways-to-place-people-ii": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.215624,
+            "runtime_sum": 23.495058,
+            "memory": 1.916,
+            "integral_max": 2.17627,
+            "integral_sum": 16.083972
+        }
+    },
+    "leetcode_3278_find-the-number-of-ways-to-place-people-i": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.25,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3279_alice-and-bob-playing-flower-game": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3289_earliest-second-to-mark-indices-ii": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.354917,
+            "runtime_sum": 22.788201,
+            "memory": 1.908,
+            "integral_max": 0.919049,
+            "integral_sum": 15.202568
+        }
+    },
+    "leetcode_3291_find-if-array-can-be-sorted": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.05939,
+            "runtime_sum": 23.083348999999995,
+            "memory": 3.656,
+            "integral_max": 0.892725,
+            "integral_sum": 14.973365000000001
+        }
+    },
+    "leetcode_3292_earliest-second-to-mark-indices-i": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.45,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3296_minimum-time-to-revert-word-to-initial-state-ii": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.163303,
+            "runtime_sum": 20.549970000000002,
+            "memory": 1.912,
+            "integral_max": 0.8282120000000001,
+            "integral_sum": 13.837944
+        }
+    },
+    "leetcode_3297_minimum-time-to-revert-word-to-initial-state-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.755558,
+            "runtime_sum": 22.676154000000004,
+            "memory": 1.912,
+            "integral_max": 1.8632799999999998,
+            "integral_sum": 16.076960999999997
+        }
+    },
+    "leetcode_3298_maximize-consecutive-elements-in-an-array-after-modification": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.289813,
+            "runtime_sum": 21.916155000000003,
+            "memory": 3.512,
+            "integral_max": 1.25531,
+            "integral_sum": 15.253173
+        }
+    },
+    "leetcode_3303_find-beautiful-indices-in-the-given-array-ii": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.7,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3305_count-prefix-and-suffix-pairs-ii": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.353447,
+            "runtime_sum": 22.835577,
+            "memory": 1.916,
+            "integral_max": 0.945594,
+            "integral_sum": 15.866077999999998
+        }
+    },
+    "leetcode_3306_mark-elements-on-array-by-performing-queries": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.457945,
+            "runtime_sum": 24.960080999999995,
+            "memory": 1.92,
+            "integral_max": 0.9673579999999999,
+            "integral_sum": 16.613245
+        }
+    },
+    "leetcode_3308_apply-operations-to-make-string-empty": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.355539,
+            "runtime_sum": 22.359178999999994,
+            "memory": 1.904,
+            "integral_max": 0.96225,
+            "integral_sum": 15.358582000000004
+        }
+    },
+    "leetcode_3309_count-prefix-and-suffix-pairs-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.019131,
+            "runtime_sum": 27.788602000000004,
+            "memory": 1.904,
+            "integral_max": 1.46478,
+            "integral_sum": 18.205550999999996
+        }
+    },
+    "leetcode_3310_count-the-number-of-houses-at-a-certain-distance-ii": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3311_ant-on-the-boundary": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.749081,
+            "runtime_sum": 24.046257000000004,
+            "memory": 1.908,
+            "integral_max": 1.48843,
+            "integral_sum": 15.543660000000001
+        }
+    },
+    "leetcode_3312_number-of-changing-keys": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.669243,
+            "runtime_sum": 25.440806,
+            "memory": 1.912,
+            "integral_max": 2.75863,
+            "integral_sum": 17.150027
+        }
+    },
+    "leetcode_3313_maximum-strength-of-k-disjoint-subarrays": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 4.153896,
+            "runtime_sum": 32.62342,
+            "memory": 1.92,
+            "integral_max": 6.65524,
+            "integral_sum": 27.266489999999997
+        }
+    },
+    "leetcode_3314_most-frequent-prime": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.269272,
+            "runtime_sum": 25.582648,
+            "memory": 1.932,
+            "integral_max": 2.53217,
+            "integral_sum": 17.885508
+        }
+    },
+    "leetcode_3316_find-the-sum-of-subsequence-powers": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.45,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3317_maximum-palindromes-after-operations": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.648698,
+            "runtime_sum": 27.521791999999998,
+            "memory": 1.916,
+            "integral_max": 1.89944,
+            "integral_sum": 18.40806
+        }
+    },
+    "leetcode_3318_maximum-number-of-operations-with-the-same-score-ii": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3320_maximum-number-of-operations-with-the-same-score-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.580677,
+            "runtime_sum": 25.893257,
+            "memory": 1.904,
+            "integral_max": 1.69045,
+            "integral_sum": 17.029459
+        }
+    },
+    "leetcode_3321_type-of-triangle": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.555593,
+            "runtime_sum": 24.726491000000003,
+            "memory": 1.92,
+            "integral_max": 2.50482,
+            "integral_sum": 17.193385000000003
+        }
+    },
+    "leetcode_3324_split-the-array": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3325_find-the-largest-area-of-square-inside-two-rectangles": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.05,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3326_count-pairs-of-connectable-servers-in-a-weighted-tree-network": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.833399,
+            "runtime_sum": 24.451392999999996,
+            "memory": 1.916,
+            "integral_max": 1.14157,
+            "integral_sum": 15.762238
+        }
+    },
+    "leetcode_3327_minimum-moves-to-pick-k-ones": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.446279,
+            "runtime_sum": 25.096832,
+            "memory": 1.916,
+            "integral_max": 1.1634,
+            "integral_sum": 15.965382000000002
+        }
+    },
+    "leetcode_3328_apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 9.85337,
+            "runtime_sum": 32.546621,
+            "memory": 3.396,
+            "integral_max": 17.0438,
+            "integral_sum": 30.964074
+        }
+    },
+    "leetcode_3330_modify-the-matrix": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.553581,
+            "runtime_sum": 23.059641000000003,
+            "memory": 1.912,
+            "integral_max": 0.9682729999999999,
+            "integral_sum": 15.813152
+        }
+    },
+    "leetcode_3331_minimum-operations-to-exceed-threshold-value-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.901614,
+            "runtime_sum": 24.022223000000004,
+            "memory": 3.684,
+            "integral_max": 1.8623800000000001,
+            "integral_sum": 16.669729
+        }
+    },
+    "leetcode_3334_apple-redistribution-into-boxes": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3335_minimum-operations-to-write-the-letter-y-on-a-grid": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.341407,
+            "runtime_sum": 24.262264000000002,
+            "memory": 1.916,
+            "integral_max": 1.4422599999999999,
+            "integral_sum": 17.448694999999997
+        }
+    },
+    "leetcode_3336_water-bottles-ii": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.8,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3337_count-substrings-starting-and-ending-with-given-character": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.95,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3338_count-submatrices-with-top-left-element-and-sum-less-than-k": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.650552,
+            "runtime_sum": 24.149743,
+            "memory": 3.468,
+            "integral_max": 1.21766,
+            "integral_sum": 16.090667
+        }
+    },
+    "leetcode_3344_minimize-manhattan-distances": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.4,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3345_find-the-sum-of-the-power-of-all-subsequences": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.552449,
+            "runtime_sum": 22.794903,
+            "memory": 1.916,
+            "integral_max": 0.92052,
+            "integral_sum": 15.520339999999997
+        }
+    },
+    "leetcode_3346_lexicographically-smallest-string-after-operations-with-constraint": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.312277,
+            "runtime_sum": 26.331469000000006,
+            "memory": 1.912,
+            "integral_max": 2.87454,
+            "integral_sum": 18.877036999999998
+        }
+    },
+    "leetcode_3347_distribute-elements-into-two-arrays-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 5.447905,
+            "runtime_sum": 27.223227000000005,
+            "memory": 1.92,
+            "integral_max": 5.58288,
+            "integral_sum": 20.395176000000003
+        }
+    },
+    "leetcode_3348_minimum-cost-walk-in-weighted-graph": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.9,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3349_maximum-length-substring-with-two-occurrences": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3350_distribute-elements-into-two-arrays-ii": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.616569,
+            "runtime_sum": 24.580753999999995,
+            "memory": 3.452,
+            "integral_max": 1.83266,
+            "integral_sum": 18.126363000000005
+        }
+    },
+    "leetcode_3353_existence-of-a-substring-in-a-string-and-its-reverse": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.95,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3354_replace-question-marks-in-string-to-minimize-its-value": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 16.737345,
+            "runtime_sum": 67.98433100000001,
+            "memory": 1.908,
+            "integral_max": 5.6032399999999996,
+            "integral_sum": 34.728496
+        }
+    },
+    "leetcode_3355_minimum-levels-to-gain-more-points": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 5.654441,
+            "runtime_sum": 32.24253100000001,
+            "memory": 4.176,
+            "integral_max": 18.5322,
+            "integral_sum": 46.489773
+        }
+    },
+    "leetcode_3356_shortest-uncommon-substring-in-an-array": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3360_minimum-deletions-to-make-string-k-special": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.44247,
+            "runtime_sum": 24.329657,
+            "memory": 1.912,
+            "integral_max": 2.40279,
+            "integral_sum": 17.619775999999998
+        }
+    },
+    "leetcode_3361_latest-time-you-can-obtain-after-replacing-characters": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3362_find-the-median-of-the-uniqueness-array": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.353876,
+            "runtime_sum": 28.343287,
+            "memory": 3.584,
+            "integral_max": 5.05613,
+            "integral_sum": 29.512349999999998
+        }
+    },
+    "leetcode_3363_most-frequent-ids": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.752164,
+            "runtime_sum": 22.875907000000005,
+            "memory": 3.572,
+            "integral_max": 1.31821,
+            "integral_sum": 16.127740999999997
+        }
+    },
+    "leetcode_3364_minimum-sum-of-values-by-dividing-array": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.149548,
+            "runtime_sum": 25.341513999999997,
+            "memory": 1.916,
+            "integral_max": 2.16392,
+            "integral_sum": 17.789610000000003
+        }
+    },
+    "leetcode_3367_find-the-sum-of-encrypted-integers": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.253394,
+            "runtime_sum": 25.672810999999996,
+            "memory": 1.908,
+            "integral_max": 2.0218599999999998,
+            "integral_sum": 17.831344
+        }
+    },
+    "leetcode_3371_harshad-number": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 7.552844,
+            "runtime_sum": 30.783493999999997,
+            "memory": 1.932,
+            "integral_max": 2.60304,
+            "integral_sum": 18.509753
+        }
+    },
+    "leetcode_3372_longest-strictly-increasing-or-strictly-decreasing-subarray": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.254353,
+            "runtime_sum": 21.969077999999996,
+            "memory": 1.912,
+            "integral_max": 0.933533,
+            "integral_sum": 15.830564
+        }
+    },
+    "leetcode_3373_maximum-prime-difference": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.2,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3374_count-alternating-subarrays": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 5.753171,
+            "runtime_sum": 31.234163999999993,
+            "memory": 3.816,
+            "integral_max": 14.7088,
+            "integral_sum": 39.085528999999994
+        }
+    },
+    "leetcode_3375_kth-smallest-amount-with-single-denomination-combination": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3376_longest-common-suffix-queries": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.1,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3379_score-of-a-string": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3380_shortest-subarray-with-or-at-least-k-ii": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.554742,
+            "runtime_sum": 24.604322999999994,
+            "memory": 1.92,
+            "integral_max": 0.930099,
+            "integral_sum": 15.053535
+        }
+    },
+    "leetcode_3381_shortest-subarray-with-or-at-least-k-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.055378,
+            "runtime_sum": 24.154067,
+            "memory": 1.908,
+            "integral_max": 1.61216,
+            "integral_sum": 16.87339
+        }
+    },
+    "leetcode_3382_find-the-number-of-subarrays-where-boundary-elements-are-maximum": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.353374,
+            "runtime_sum": 20.875262,
+            "memory": 3.576,
+            "integral_max": 1.06021,
+            "integral_sum": 14.921802999999999
+        }
+    },
+    "leetcode_3383_taking-maximum-energy-from-the-mystic-dungeon": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 7.953486,
+            "runtime_sum": 36.727396,
+            "memory": 3.6,
+            "integral_max": 4.75715,
+            "integral_sum": 22.992925
+        }
+    },
+    "leetcode_3384_minimum-number-of-operations-to-make-word-k-periodic": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.353194,
+            "runtime_sum": 21.670164999999997,
+            "memory": 1.912,
+            "integral_max": 0.9712609999999999,
+            "integral_sum": 14.994323
+        }
+    },
+    "leetcode_3387_minimum-operations-to-make-median-of-array-equal-to-k": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.272021,
+            "runtime_sum": 25.196263000000002,
+            "memory": 3.456,
+            "integral_max": 2.28262,
+            "integral_sum": 18.406760999999996
+        }
+    },
+    "leetcode_3388_right-triangles": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.252942,
+            "runtime_sum": 20.873515,
+            "memory": 3.504,
+            "integral_max": 0.922142,
+            "integral_sum": 14.343008999999999
+        }
+    },
+    "leetcode_3389_minimum-time-to-visit-disappearing-nodes": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.2,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3390_minimum-rectangles-to-cover-points": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.262008,
+            "runtime_sum": 21.288615,
+            "memory": 3.46,
+            "integral_max": 0.9207930000000001,
+            "integral_sum": 15.083832000000001
+        }
+    },
+    "leetcode_3391_maximum-difference-score-in-a-grid": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.6,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3394_minimum-array-end": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.252851,
+            "runtime_sum": 20.879420999999997,
+            "memory": 1.908,
+            "integral_max": 0.919349,
+            "integral_sum": 14.602840999999998
+        }
+    },
+    "leetcode_3395_minimum-length-of-anagram-concatenation": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.891563,
+            "runtime_sum": 22.990330000000007,
+            "memory": 1.912,
+            "integral_max": 1.46821,
+            "integral_sum": 15.766630000000001
+        }
+    },
+    "leetcode_3397_find-the-integer-added-to-array-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.833801,
+            "runtime_sum": 22.583518,
+            "memory": 1.916,
+            "integral_max": 1.32574,
+            "integral_sum": 16.179662
+        }
+    },
+    "leetcode_3398_make-a-square-with-the-same-color": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.5,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3399_find-the-integer-added-to-array-ii": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.95379,
+            "runtime_sum": 35.857939,
+            "memory": 3.564,
+            "integral_max": 2.34311,
+            "integral_sum": 22.898206
+        }
+    },
+    "leetcode_3402_minimum-cost-to-equalize-array": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.052493,
+            "runtime_sum": 24.179724999999998,
+            "memory": 3.568,
+            "integral_max": 4.27755,
+            "integral_sum": 19.282625000000003
+        }
+    },
+    "leetcode_3404_minimum-number-of-operations-to-satisfy-conditions": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.439439,
+            "runtime_sum": 23.65766,
+            "memory": 1.916,
+            "integral_max": 0.961557,
+            "integral_sum": 15.748551999999998
+        }
+    },
+    "leetcode_3405_count-the-number-of-special-characters-ii": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.053956,
+            "runtime_sum": 26.304638,
+            "memory": 1.912,
+            "integral_max": 1.9270800000000001,
+            "integral_sum": 19.192544
+        }
+    },
+    "leetcode_3406_find-all-possible-stable-binary-arrays-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.854689,
+            "runtime_sum": 25.382444000000003,
+            "memory": 3.696,
+            "integral_max": 2.34244,
+            "integral_sum": 23.662655999999995
+        }
+    },
+    "leetcode_3407_find-all-possible-stable-binary-arrays-ii": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 5.854095,
+            "runtime_sum": 44.618967,
+            "memory": 1.912,
+            "integral_max": 8.77199,
+            "integral_sum": 55.826142999999995
+        }
+    },
+    "leetcode_3408_count-the-number-of-special-characters-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.11556,
+            "runtime_sum": 24.292067,
+            "memory": 1.912,
+            "integral_max": 1.32778,
+            "integral_sum": 16.050359
+        }
+    },
+    "leetcode_3411_find-products-of-elements-of-big-array": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.404947,
+            "runtime_sum": 26.124737999999997,
+            "memory": 1.92,
+            "integral_max": 1.28855,
+            "integral_sum": 16.730566
+        }
+    },
+    "leetcode_3412_permutation-difference-between-two-strings": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3413_find-the-first-player-to-win-k-games-in-a-row": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 11.453118,
+            "runtime_sum": 43.94686300000001,
+            "memory": 6.008,
+            "integral_max": 54.6235,
+            "integral_sum": 124.06538599999999
+        }
+    },
+    "leetcode_3414_find-number-of-ways-to-reach-the-k-th-stair": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.356111,
+            "runtime_sum": 26.905165,
+            "memory": 3.412,
+            "integral_max": 3.50142,
+            "integral_sum": 18.947730999999997
+        }
+    },
+    "leetcode_3415_check-if-grid-satisfies-conditions": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.65423,
+            "runtime_sum": 25.125365000000002,
+            "memory": 1.916,
+            "integral_max": 1.61714,
+            "integral_sum": 17.765254
+        }
+    },
+    "leetcode_3416_sum-of-digit-differences-of-all-pairs": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.345826,
+            "runtime_sum": 27.794016,
+            "memory": 1.916,
+            "integral_max": 2.30194,
+            "integral_sum": 18.249948999999994
+        }
+    },
+    "leetcode_3418_count-pairs-that-form-a-complete-day-ii": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.053519,
+            "runtime_sum": 27.351180000000003,
+            "memory": 1.916,
+            "integral_max": 1.32945,
+            "integral_sum": 18.162458
+        }
+    },
+    "leetcode_3420_find-occurrences-of-an-element-in-an-array": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.253919,
+            "runtime_sum": 27.973422,
+            "memory": 1.916,
+            "integral_max": 2.13061,
+            "integral_sum": 19.376181000000003
+        }
+    },
+    "leetcode_3421_count-pairs-that-form-a-complete-day-i": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3422_find-the-n-th-value-after-k-seconds": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.731121,
+            "runtime_sum": 24.353023,
+            "memory": 1.904,
+            "integral_max": 1.7802,
+            "integral_sum": 17.657968999999998
+        }
+    },
+    "leetcode_3423_maximum-sum-of-subsequence-with-non-adjacent-elements": {
+        "cpp": null
+    },
+    "leetcode_3426_minimum-number-of-chairs-in-a-waiting-room": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3427_special-array-ii": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.465847,
+            "runtime_sum": 23.243266,
+            "memory": 1.92,
+            "integral_max": 0.9201199999999999,
+            "integral_sum": 16.051275
+        }
+    },
+    "leetcode_3428_find-the-xor-of-numbers-which-appear-twice": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3429_special-array-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.352527,
+            "runtime_sum": 28.460493,
+            "memory": 1.908,
+            "integral_max": 4.765140000000001,
+            "integral_sum": 20.602392000000005
+        }
+    },
+    "leetcode_3430_count-days-without-meetings": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.953525,
+            "runtime_sum": 24.686452999999997,
+            "memory": 1.916,
+            "integral_max": 1.32196,
+            "integral_sum": 16.272745
+        }
+    },
+    "leetcode_3431_find-the-minimum-cost-array-permutation": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3434_find-the-number-of-distinct-colors-among-the-balls": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.954496,
+            "runtime_sum": 24.575339000000003,
+            "memory": 1.908,
+            "integral_max": 1.2449,
+            "integral_sum": 16.569231000000002
+        }
+    },
+    "leetcode_3435_block-placement-queries": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3436_find-subarray-with-bitwise-or-closest-to-k": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3437_maximum-total-damage-with-spell-casting": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.253934,
+            "runtime_sum": 21.077428,
+            "memory": 1.904,
+            "integral_max": 0.761505,
+            "integral_sum": 14.102289999999998
+        }
+    },
+    "leetcode_3442_maximum-total-reward-using-operations-i": {
+        "cpp": null
+    },
+    "leetcode_3443_maximum-total-reward-using-operations-ii": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3444_find-the-number-of-good-pairs-ii": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.95,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3445_lexicographically-minimum-string-after-removing-stars": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.25,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3446_find-the-number-of-good-pairs-i": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.5,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3447_clear-digits": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.3535,
+            "runtime_sum": 23.056131,
+            "memory": 1.932,
+            "integral_max": 0.9948890000000001,
+            "integral_sum": 15.556442999999998
+        }
+    },
+    "leetcode_3450_find-the-child-who-has-the-ball-after-k-seconds": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3451_string-compression-iii": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3452_find-the-maximum-length-of-a-good-subsequence-ii": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.152612,
+            "runtime_sum": 27.641507999999998,
+            "memory": 3.476,
+            "integral_max": 2.21079,
+            "integral_sum": 20.539575999999997
+        }
+    },
+    "leetcode_3453_generate-binary-strings-without-adjacent-zeros": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3454_minimum-operations-to-make-array-equal-to-target": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 32.257287,
+            "runtime_sum": 70.459752,
+            "memory": 8.808,
+            "integral_max": 210.755,
+            "integral_sum": 234.465652
+        }
+    },
+    "leetcode_3455_minimum-length-of-string-after-operations": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 78.059922,
+            "runtime_sum": 98.361251,
+            "memory": 3.568,
+            "integral_max": 146.804,
+            "integral_sum": 160.27454500000005
+        }
+    },
+    "leetcode_3456_find-the-maximum-length-of-a-good-subsequence-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.453485,
+            "runtime_sum": 28.42792500000001,
+            "memory": 3.476,
+            "integral_max": 3.14657,
+            "integral_sum": 24.826174
+        }
+    },
+    "leetcode_3460_count-the-number-of-inversions": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.1,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3461_find-the-minimum-area-to-cover-all-ones-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 6.023684,
+            "runtime_sum": 31.619628000000002,
+            "memory": 1.916,
+            "integral_max": 3.83135,
+            "integral_sum": 21.973427
+        }
+    },
+    "leetcode_3462_vowels-game-in-a-string": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3463_alternating-groups-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.553497,
+            "runtime_sum": 23.472385,
+            "memory": 1.904,
+            "integral_max": 0.918382,
+            "integral_sum": 15.250500999999998
+        }
+    },
+    "leetcode_3464_maximize-total-cost-of-alternating-subarrays": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.1,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3466_number-of-subarrays-with-and-value-of-k": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.055736,
+            "runtime_sum": 25.050398,
+            "memory": 3.564,
+            "integral_max": 2.08469,
+            "integral_sum": 17.314498999999998
+        }
+    },
+    "leetcode_3468_find-the-encrypted-string": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.897623,
+            "runtime_sum": 24.215528,
+            "memory": 3.356,
+            "integral_max": 1.05573,
+            "integral_sum": 16.136158
+        }
+    },
+    "leetcode_3469_maximum-height-of-a-triangle": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.65,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3470_maximum-score-from-grid-operations": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.15,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3471_minimum-average-of-smallest-and-largest-elements": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.49668,
+            "runtime_sum": 26.379838000000003,
+            "memory": 3.692,
+            "integral_max": 1.13624,
+            "integral_sum": 17.631007
+        }
+    },
+    "leetcode_3475_minimum-operations-to-make-binary-array-elements-equal-to-one-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.008775,
+            "runtime_sum": 24.622664000000004,
+            "memory": 1.916,
+            "integral_max": 1.5377399999999999,
+            "integral_sum": 16.621491000000002
+        }
+    },
+    "leetcode_3476_find-minimum-operations-to-make-all-elements-divisible-by-three": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.154318,
+            "runtime_sum": 21.172082,
+            "memory": 3.572,
+            "integral_max": 1.1038000000000001,
+            "integral_sum": 14.774986999999998
+        }
+    },
+    "leetcode_3477_minimum-operations-to-make-binary-array-elements-equal-to-one-ii": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.951942,
+            "runtime_sum": 26.36158399999999,
+            "memory": 1.912,
+            "integral_max": 1.9640199999999999,
+            "integral_sum": 17.146738
+        }
+    },
+    "leetcode_3479_count-the-number-of-substrings-with-dominant-ones": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.152708,
+            "runtime_sum": 25.868991,
+            "memory": 1.9,
+            "integral_max": 1.90595,
+            "integral_sum": 17.047662000000003
+        }
+    },
+    "leetcode_3483_alternating-groups-ii": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.879558,
+            "runtime_sum": 24.553475,
+            "memory": 1.904,
+            "integral_max": 1.56773,
+            "integral_sum": 15.677171999999999
+        }
+    },
+    "leetcode_3484_lexicographically-smallest-string-after-a-swap": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.653206,
+            "runtime_sum": 24.625143,
+            "memory": 1.916,
+            "integral_max": 3.78676,
+            "integral_sum": 19.310256
+        }
+    },
+    "leetcode_3485_maximize-score-of-numbers-in-ranges": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.053385,
+            "runtime_sum": 25.909678999999997,
+            "memory": 1.916,
+            "integral_max": 1.2593299999999998,
+            "integral_sum": 16.323567
+        }
+    },
+    "leetcode_3490_find-the-maximum-length-of-valid-subsequence-i": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.75,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3491_find-the-maximum-length-of-valid-subsequence-ii": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.3,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3492_count-submatrices-with-equal-frequency-of-x-and-y": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.263763,
+            "runtime_sum": 26.513502000000003,
+            "memory": 1.916,
+            "integral_max": 1.9667999999999999,
+            "integral_sum": 20.087735
+        }
+    },
+    "leetcode_3493_maximum-number-of-operations-to-move-ones-to-the-end": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.767735,
+            "runtime_sum": 24.171472000000005,
+            "memory": 3.412,
+            "integral_max": 1.05942,
+            "integral_sum": 15.234196999999998
+        }
+    },
+    "leetcode_3494_minimum-cost-for-cutting-cake-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.17454,
+            "runtime_sum": 27.953722999999997,
+            "memory": 1.92,
+            "integral_max": 2.34168,
+            "integral_sum": 18.907885999999998
+        }
+    },
+    "leetcode_3495_k-th-nearest-obstacle-queries": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3496_minimum-number-of-seconds-to-make-mountain-height-zero": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.4549,
+            "runtime_sum": 25.353128999999996,
+            "memory": 1.908,
+            "integral_max": 1.51278,
+            "integral_sum": 16.308137
+        }
+    },
+    "leetcode_3498_minimum-array-changes-to-make-differences-equal": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.116444,
+            "runtime_sum": 24.979294,
+            "memory": 1.916,
+            "integral_max": 1.15512,
+            "integral_sum": 15.857322999999997
+        }
+    },
+    "leetcode_3500_minimum-cost-for-cutting-cake-ii": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.80386,
+            "runtime_sum": 22.84392,
+            "memory": 1.908,
+            "integral_max": 1.89822,
+            "integral_sum": 16.696886999999997
+        }
+    },
+    "leetcode_3502_count-substrings-with-k-frequency-characters-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.652253,
+            "runtime_sum": 24.978975,
+            "memory": 3.408,
+            "integral_max": 1.68121,
+            "integral_sum": 17.292422
+        }
+    },
+    "leetcode_3507_find-the-count-of-numbers-which-are-not-special": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.978606,
+            "runtime_sum": 30.495830999999995,
+            "memory": 3.74,
+            "integral_max": 1.92919,
+            "integral_sum": 27.094506999999997
+        }
+    },
+    "leetcode_3508_number-of-bit-changes-to-make-two-integers-equal": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 36.453113,
+            "runtime_sum": 61.096693,
+            "memory": 1.916,
+            "integral_max": 68.0837,
+            "integral_sum": 84.73328500000001
+        }
+    },
+    "leetcode_3509_k-th-largest-perfect-subtree-size-in-binary-tree": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.554309,
+            "runtime_sum": 33.661756999999994,
+            "memory": 3.448,
+            "integral_max": 2.03222,
+            "integral_sum": 20.279633
+        }
+    },
+    "leetcode_3510_maximize-the-total-height-of-unique-towers": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.853179,
+            "runtime_sum": 22.992037,
+            "memory": 3.492,
+            "integral_max": 2.02566,
+            "integral_sum": 16.576188
+        }
+    },
+    "leetcode_3511_find-the-winning-player-in-coin-game": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.952659,
+            "runtime_sum": 24.655869999999997,
+            "memory": 1.908,
+            "integral_max": 1.84619,
+            "integral_sum": 17.112451999999998
+        }
+    },
+    "leetcode_3514_shortest-distance-after-road-addition-queries-ii": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.05,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3515_find-if-digit-game-can-be-won": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.454435,
+            "runtime_sum": 26.517577,
+            "memory": 1.904,
+            "integral_max": 1.4867700000000001,
+            "integral_sum": 16.606852
+        }
+    },
+    "leetcode_3516_design-neighbor-sum-service": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.453143,
+            "runtime_sum": 22.407207,
+            "memory": 1.916,
+            "integral_max": 0.942963,
+            "integral_sum": 15.12932
+        }
+    },
+    "leetcode_3517_shortest-distance-after-road-addition-queries-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.161516,
+            "runtime_sum": 25.648267999999998,
+            "memory": 3.452,
+            "integral_max": 1.9890900000000002,
+            "integral_sum": 19.351311000000003
+        }
+    },
+    "leetcode_3518_maximum-multiplication-score": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.253777,
+            "runtime_sum": 21.673631,
+            "memory": 1.904,
+            "integral_max": 0.887442,
+            "integral_sum": 14.762884
+        }
+    },
+    "leetcode_3519_find-the-number-of-winning-players": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3522_find-the-power-of-k-size-subarrays-i": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3523_find-the-power-of-k-size-subarrays-ii": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.9,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3524_minimum-number-of-flips-to-make-binary-grid-palindromic-ii": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.85,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3525_maximum-energy-boost-from-two-drinks": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 23.977594,
+            "runtime_sum": 63.29492299999999,
+            "memory": 6.704,
+            "integral_max": 124.671,
+            "integral_sum": 216.80007200000003
+        }
+    },
+    "leetcode_3527_alternating-groups-iii": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.05,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3528_reach-end-of-array-with-max-score": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 11.853349,
+            "runtime_sum": 39.365975999999996,
+            "memory": 5.768,
+            "integral_max": 55.2009,
+            "integral_sum": 83.016475
+        }
+    },
+    "leetcode_3531_minimum-amount-of-damage-dealt-to-bob": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.05501,
+            "runtime_sum": 23.073553,
+            "memory": 1.904,
+            "integral_max": 1.34289,
+            "integral_sum": 15.643129000000002
+        }
+    },
+    "leetcode_3532_time-taken-to-mark-all-nodes": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 88.783411,
+            "runtime_sum": 220.666271,
+            "memory": 10.04,
+            "integral_max": 702.641,
+            "integral_sum": 1407.0336079999997
+        }
+    },
+    "leetcode_3533_snake-in-matrix": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.542806,
+            "runtime_sum": 22.963011,
+            "memory": 1.904,
+            "integral_max": 1.43253,
+            "integral_sum": 15.994554000000003
+        }
+    },
+    "leetcode_3534_count-almost-equal-pairs-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.457072,
+            "runtime_sum": 22.774126000000003,
+            "memory": 1.916,
+            "integral_max": 1.74068,
+            "integral_sum": 17.7208664
+        }
+    },
+    "leetcode_3535_find-the-count-of-monotonic-pairs-i": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3536_find-the-count-of-monotonic-pairs-ii": {
+        "cpp": null
+    },
+    "leetcode_3540_hash-divided-string": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3541_report-spam-message": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.455121,
+            "runtime_sum": 26.313796999999997,
+            "memory": 1.908,
+            "integral_max": 1.5737100000000002,
+            "integral_sum": 16.359757999999996
+        }
+    },
+    "leetcode_3542_maximum-value-sum-by-placing-three-rooks-ii": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3543_count-substrings-that-satisfy-k-constraint-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.553488,
+            "runtime_sum": 22.746752999999995,
+            "memory": 3.456,
+            "integral_max": 1.07775,
+            "integral_sum": 15.645465999999999
+        }
+    },
+    "leetcode_3548_find-the-count-of-good-integers": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 18.141463,
+            "runtime_sum": 63.16008500000001,
+            "memory": 3.336,
+            "integral_max": 47.9743,
+            "integral_sum": 107.346146
+        }
+    },
+    "leetcode_3550_maximum-value-sum-by-placing-three-rooks-i": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3552_find-the-largest-palindrome-divisible-by-k": {
+        "cpp": null
+    },
+    "leetcode_3553_check-if-two-chessboard-squares-have-the-same-color": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3555_final-array-state-after-k-multiplication-operations-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.352849,
+            "runtime_sum": 21.857827,
+            "memory": 3.564,
+            "integral_max": 0.970121,
+            "integral_sum": 15.447210000000002
+        }
+    },
+    "leetcode_3557_minimum-number-of-valid-strings-to-form-target-ii": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.55,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3558_find-a-safe-walk-through-a-grid": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.053705,
+            "runtime_sum": 27.866421000000006,
+            "memory": 1.904,
+            "integral_max": 1.83038,
+            "integral_sum": 21.640855000000002
+        }
+    },
+    "leetcode_3559_minimum-number-of-valid-strings-to-form-target-i": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3561_remove-methods-from-project": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.054412,
+            "runtime_sum": 24.342881000000002,
+            "memory": 3.504,
+            "integral_max": 1.48541,
+            "integral_sum": 16.204304
+        }
+    },
+    "leetcode_3562_maximum-score-of-non-overlapping-intervals": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.95,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3563_select-cells-in-grid-with-maximum-score": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3566_find-the-sequence-of-strings-appeared-on-the-screen": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.1,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3567_convert-date-to-binary": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.254142,
+            "runtime_sum": 22.174747000000004,
+            "memory": 1.912,
+            "integral_max": 0.9764520000000001,
+            "integral_sum": 14.977205
+        }
+    },
+    "leetcode_3568_find-the-key-of-the-numbers": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 4.943856,
+            "runtime_sum": 34.935311,
+            "memory": 3.492,
+            "integral_max": 2.13261,
+            "integral_sum": 21.519684
+        }
+    },
+    "leetcode_3569_count-of-substrings-containing-every-vowel-and-k-consonants-ii": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3570_count-of-substrings-containing-every-vowel-and-k-consonants-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.781164,
+            "runtime_sum": 29.323025999999995,
+            "memory": 3.672,
+            "integral_max": 3.46233,
+            "integral_sum": 21.135384000000002
+        }
+    },
+    "leetcode_3571_length-of-the-longest-increasing-path": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3573_count-substrings-that-can-be-rearranged-to-contain-a-string-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.755828,
+            "runtime_sum": 25.778335000000002,
+            "memory": 1.904,
+            "integral_max": 1.3240100000000001,
+            "integral_sum": 15.703757
+        }
+    },
+    "leetcode_3576_find-subtree-sizes-after-changes": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.847348,
+            "runtime_sum": 22.979637000000004,
+            "memory": 1.916,
+            "integral_max": 1.79882,
+            "integral_sum": 14.918258000000002
+        }
+    },
+    "leetcode_3579_maximum-possible-number-by-binary-concatenation": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3580_find-the-occurrence-of-first-almost-equal-substring": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 7.753385,
+            "runtime_sum": 34.335024999999995,
+            "memory": 1.912,
+            "integral_max": 12.7261,
+            "integral_sum": 30.728256
+        }
+    },
+    "leetcode_3581_the-two-sneaky-numbers-of-digitville": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3582_find-indices-of-stable-mountains": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 39.058666,
+            "runtime_sum": 73.04054799999999,
+            "memory": 3.644,
+            "integral_max": 71.4768,
+            "integral_sum": 95.48394999999998
+        }
+    },
+    "leetcode_3583_sorted-gcd-pair-queries": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.260053,
+            "runtime_sum": 28.944785999999997,
+            "memory": 1.92,
+            "integral_max": 1.59446,
+            "integral_sum": 17.80839
+        }
+    },
+    "leetcode_3584_find-the-lexicographically-smallest-valid-sequence": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.507014,
+            "runtime_sum": 23.135446,
+            "memory": 3.436,
+            "integral_max": 1.80229,
+            "integral_sum": 15.967246999999995
+        }
+    },
+    "leetcode_3588_count-the-number-of-winning-sequences": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.053506,
+            "runtime_sum": 27.120048999999998,
+            "memory": 3.584,
+            "integral_max": 2.07084,
+            "integral_sum": 19.255918
+        }
+    },
+    "leetcode_3591_shift-distance-between-two-strings": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 8.053425,
+            "runtime_sum": 34.59127699999999,
+            "memory": 3.556,
+            "integral_max": 13.4404,
+            "integral_sum": 30.668464999999998
+        }
+    },
+    "leetcode_3593_find-the-maximum-factor-score-of-array": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3594_identify-the-largest-outlier-in-an-array": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.735317,
+            "runtime_sum": 21.854786,
+            "memory": 3.568,
+            "integral_max": 1.82198,
+            "integral_sum": 15.196660999999999
+        }
+    },
+    "leetcode_3595_rearrange-k-substrings-to-form-target-string": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.555183,
+            "runtime_sum": 26.187860000000004,
+            "memory": 3.488,
+            "integral_max": 1.8048,
+            "integral_sum": 18.390048999999998
+        }
+    },
+    "leetcode_3600_find-the-k-th-character-in-string-game-i": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3601_find-the-k-th-character-in-string-game-ii": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3604_find-the-number-of-possible-ways-for-an-event": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.1,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3605_construct-the-minimum-bitwise-array-i": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3606_minimum-element-after-replacement-with-digit-sum": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.756231,
+            "runtime_sum": 25.384843,
+            "memory": 3.456,
+            "integral_max": 1.8248900000000001,
+            "integral_sum": 17.814576000000002
+        }
+    },
+    "leetcode_3607_minimum-division-operations-to-make-array-non-decreasing": {
+        "cpp": null
+    },
+    "leetcode_3610_find-x-sum-of-all-k-long-subarrays-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.436079,
+            "runtime_sum": 26.360517000000005,
+            "memory": 1.916,
+            "integral_max": 1.1235,
+            "integral_sum": 16.781582
+        }
+    },
+    "leetcode_3611_construct-the-minimum-bitwise-array-ii": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.155922,
+            "runtime_sum": 27.224806000000005,
+            "memory": 1.916,
+            "integral_max": 1.17234,
+            "integral_sum": 18.023057
+        }
+    },
+    "leetcode_3612_adjacent-increasing-subarrays-detection-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.104439,
+            "runtime_sum": 23.877845999999995,
+            "memory": 3.58,
+            "integral_max": 2.0339400000000003,
+            "integral_sum": 17.653837
+        }
+    },
+    "leetcode_3613_maximize-amount-after-two-days-of-conversions": {
+        "cpp": null
+    },
+    "leetcode_3616_make-array-elements-equal-to-zero": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.066578,
+            "runtime_sum": 38.549574,
+            "memory": 1.972,
+            "integral_max": 3.11015,
+            "integral_sum": 24.937343
+        }
+    },
+    "leetcode_3617_find-the-original-typed-string-i": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.35,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3618_find-the-original-typed-string-ii": {
+        "cpp": null
+    },
+    "leetcode_3619_adjacent-increasing-subarrays-detection-ii": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.856193,
+            "runtime_sum": 22.611780999999993,
+            "memory": 3.568,
+            "integral_max": 1.89248,
+            "integral_sum": 16.011749
+        }
+    },
+    "leetcode_3620_maximum-number-of-distinct-elements-after-operations": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.854557,
+            "runtime_sum": 24.648552,
+            "memory": 1.92,
+            "integral_max": 1.31619,
+            "integral_sum": 17.513043000000003
+        }
+    },
+    "leetcode_3621_minimum-operations-to-make-array-values-equal-to-k": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.453158,
+            "runtime_sum": 21.289568000000003,
+            "memory": 1.908,
+            "integral_max": 0.836913,
+            "integral_sum": 14.689829999999999
+        }
+    },
+    "leetcode_3622_maximum-frequency-of-an-element-after-performing-operations-i": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.6,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3625_stone-removal-game": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3626_smallest-divisible-digit-product-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.854452,
+            "runtime_sum": 27.674044999999996,
+            "memory": 1.9,
+            "integral_max": 6.00066,
+            "integral_sum": 21.511480000000002
+        }
+    },
+    "leetcode_3627_find-minimum-time-to-reach-last-room-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 13.153217,
+            "runtime_sum": 52.49765,
+            "memory": 3.632,
+            "integral_max": 23.1374,
+            "integral_sum": 57.78366999999999
+        }
+    },
+    "leetcode_3629_total-characters-in-string-after-transformations-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 93.65621,
+            "runtime_sum": 120.78861700000003,
+            "memory": 1.9,
+            "integral_max": 176.76,
+            "integral_sum": 194.00931299999996
+        }
+    },
+    "leetcode_3630_total-characters-in-string-after-transformations-ii": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3631_count-k-reducible-numbers-less-than-n": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 7.152281,
+            "runtime_sum": 94.44537799999999,
+            "memory": 7.136,
+            "integral_max": 27.9277,
+            "integral_sum": 353.1781
+        }
+    },
+    "leetcode_3632_button-with-longest-push-time": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.651436,
+            "runtime_sum": 29.049841999999998,
+            "memory": 3.572,
+            "integral_max": 2.05784,
+            "integral_sum": 19.329177
+        }
+    },
+    "leetcode_3633_maximize-the-number-of-target-nodes-after-connecting-trees-i": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3634_find-mirror-score-of-a-string": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3636_check-balanced-string": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.05,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3637_count-number-of-balanced-permutations": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 295.060537,
+            "runtime_sum": 2158.9268199999997,
+            "memory": 5.34,
+            "integral_max": 568.893,
+            "integral_sum": 4764.8316
+        }
+    },
+    "leetcode_3639_zero-array-transformation-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.052396,
+            "runtime_sum": 25.672972000000005,
+            "memory": 1.912,
+            "integral_max": 1.24467,
+            "integral_sum": 17.057681
+        }
+    },
+    "leetcode_3640_maximum-frequency-of-an-element-after-performing-operations-ii": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.552202,
+            "runtime_sum": 24.172235000000004,
+            "memory": 1.904,
+            "integral_max": 1.31244,
+            "integral_sum": 16.247169
+        }
+    },
+    "leetcode_3643_zero-array-transformation-ii": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 4.004941,
+            "runtime_sum": 26.606001000000003,
+            "memory": 3.476,
+            "integral_max": 4.48418,
+            "integral_sum": 19.425214999999998
+        }
+    },
+    "leetcode_3644_minimum-positive-sum-subarray": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.912869,
+            "runtime_sum": 27.985944999999997,
+            "memory": 1.932,
+            "integral_max": 3.22221,
+            "integral_sum": 20.422791999999998
+        }
+    },
+    "leetcode_3646_sum-of-good-subsequences": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 5.253145,
+            "runtime_sum": 77.308581,
+            "memory": 4.764,
+            "integral_max": 16.0395,
+            "integral_sum": 234.9598
+        }
+    },
+    "leetcode_3647_zero-array-transformation-iii": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.570362,
+            "runtime_sum": 28.790375000000004,
+            "memory": 3.576,
+            "integral_max": 2.64695,
+            "integral_sum": 19.437708999999998
+        }
+    },
+    "leetcode_3648_find-the-maximum-number-of-fruits-collected": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.312405,
+            "runtime_sum": 26.874448000000005,
+            "memory": 1.92,
+            "integral_max": 2.0477,
+            "integral_sum": 20.011125
+        }
+    },
+    "leetcode_3649_minimum-time-to-break-locks-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.052794,
+            "runtime_sum": 27.235586,
+            "memory": 3.476,
+            "integral_max": 2.36041,
+            "integral_sum": 20.594051
+        }
+    },
+    "leetcode_3651_transformed-array": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.756587,
+            "runtime_sum": 24.379606,
+            "memory": 1.916,
+            "integral_max": 1.6954500000000001,
+            "integral_sum": 16.884927000000005
+        }
+    },
+    "leetcode_3653_maximum-subarray-sum-with-length-divisible-by-k": {
+        "cpp": null
+    },
+    "leetcode_3654_minimum-array-sum": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 159.059941,
+            "runtime_sum": 188.07879799999998,
+            "memory": 1.904,
+            "integral_max": 33.846399999999996,
+            "integral_sum": 53.51928599999998
+        }
+    },
+    "leetcode_3656_minimum-number-of-operations-to-make-elements-in-array-distinct": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.652891,
+            "runtime_sum": 27.777197,
+            "memory": 1.916,
+            "integral_max": 1.4377,
+            "integral_sum": 18.084922000000002
+        }
+    },
+    "leetcode_3657_check-if-grid-can-be-cut-into-sections": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3659_count-paths-with-the-given-xor-value": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.248481,
+            "runtime_sum": 24.833677,
+            "memory": 3.34,
+            "integral_max": 1.80797,
+            "integral_sum": 17.559736
+        }
+    },
+    "leetcode_3675_maximize-sum-of-weights-after-edge-removals": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3676_smallest-number-with-all-set-bits": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3677_maximum-amount-of-money-robot-can-earn": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3680_count-connected-components-in-lcm-graph": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.108813,
+            "runtime_sum": 32.500067,
+            "memory": 3.98,
+            "integral_max": 2.84197,
+            "integral_sum": 28.936380000000003
+        }
+    },
+    "leetcode_3681_maximum-area-rectangle-with-point-constraints-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.112231,
+            "runtime_sum": 25.933118000000004,
+            "memory": 1.908,
+            "integral_max": 2.31501,
+            "integral_sum": 18.773903
+        }
+    },
+    "leetcode_3682_count-the-number-of-arrays-with-k-matching-adjacent-elements": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.05,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3683_find-the-lexicographically-largest-string-from-the-box-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.10447,
+            "runtime_sum": 24.638759000000004,
+            "memory": 1.92,
+            "integral_max": 2.09098,
+            "integral_sum": 16.977624
+        }
+    },
+    "leetcode_3684_substring-matching-pattern": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.05,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3685_count-subarrays-of-length-three-with-a-condition": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3687_longest-special-path": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.053606,
+            "runtime_sum": 30.334592,
+            "memory": 3.444,
+            "integral_max": 1.8747200000000002,
+            "integral_sum": 26.963540000000002
+        }
+    },
+    "leetcode_3689_maximum-area-rectangle-with-point-constraints-ii": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3690_smallest-substring-with-identical-characters-i": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.95,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3691_minimum-operations-to-make-columns-strictly-increasing": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.838196,
+            "runtime_sum": 24.306129,
+            "memory": 1.92,
+            "integral_max": 1.44866,
+            "integral_sum": 18.168425
+        }
+    },
+    "leetcode_3696_count-substrings-divisible-by-last-digit": {
+        "cpp": null
+    },
+    "leetcode_3702_maximum-subarray-with-equal-products": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.856878,
+            "runtime_sum": 25.38622399999999,
+            "memory": 3.428,
+            "integral_max": 1.8676599999999999,
+            "integral_sum": 19.04279
+        }
+    },
+    "leetcode_3704_count-partitions-with-even-sum-difference": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.766871,
+            "runtime_sum": 27.285515,
+            "memory": 3.56,
+            "integral_max": 1.96528,
+            "integral_sum": 17.954527000000002
+        }
+    },
+    "leetcode_3708_zigzag-grid-traversal-with-skip": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.4,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3709_find-special-substring-of-length-k": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.552636,
+            "runtime_sum": 21.977182,
+            "memory": 3.568,
+            "integral_max": 1.07722,
+            "integral_sum": 15.379100000000001
+        }
+    },
+    "leetcode_3712_minimum-cost-to-make-arrays-identical": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.076697,
+            "runtime_sum": 28.954581000000005,
+            "memory": 3.74,
+            "integral_max": 1.42019,
+            "integral_sum": 18.541706000000005
+        }
+    },
+    "leetcode_3721_count-mentions-per-user": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.15,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3723_sum-of-good-numbers": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3731_sum-of-variable-length-subarrays": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.240788,
+            "runtime_sum": 26.991151999999992,
+            "memory": 3.612,
+            "integral_max": 2.27697,
+            "integral_sum": 18.42103
+        }
+    },
+    "leetcode_3733_length-of-longest-v-shaped-diagonal-segment": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.95,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3736_find-valid-pair-of-adjacent-digits-in-string": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2.65199,
+            "runtime_sum": 25.800292,
+            "memory": 1.912,
+            "integral_max": 1.91425,
+            "integral_sum": 16.142601
+        }
+    },
+    "leetcode_3737_paint-house-iv": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3739_manhattan-distances-of-all-arrangements-of-pieces": {
+        "cpp": null
+    },
+    "leetcode_3741_reschedule-meetings-for-maximum-free-time-ii": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.05,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3743_reschedule-meetings-for-maximum-free-time-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 4.109149,
+            "runtime_sum": 24.927604000000002,
+            "memory": 1.912,
+            "integral_max": 1.49022,
+            "integral_sum": 15.157570999999999
+        }
+    },
+    "leetcode_3747_maximum-difference-between-adjacent-elements-in-a-circular-array": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3748_sort-matrix-by-diagonals": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1.854151,
+            "runtime_sum": 24.469209,
+            "memory": 3.612,
+            "integral_max": 1.51101,
+            "integral_sum": 16.582583699999997
+        }
+    },
+    "leetcode_3753_maximum-difference-between-even-and-odd-frequency-i": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.35,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3760_assign-elements-to-groups-with-constraints": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 13.253424,
+            "runtime_sum": 46.20109,
+            "memory": 3.444,
+            "integral_max": 23.7369,
+            "integral_sum": 58.52997700000001
+        }
+    },
+    "leetcode_3763_separate-squares-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 3.051829,
+            "runtime_sum": 26.847852000000003,
+            "memory": 1.916,
+            "integral_max": 2.1596699999999998,
+            "integral_sum": 18.811984
+        }
+    },
+    "leetcode_3768_check-if-digits-are-equal-in-string-after-operations-i": {
+        "cpp": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 6.147736,
+            "runtime_sum": 40.461836000000005,
+            "memory": 3.736,
+            "integral_max": 4.34343,
+            "integral_sum": 24.379191
+        }
+    },
+    "leetcode_3774_check-if-digits-are-equal-in-string-after-operations-ii": {
+        "cpp": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    }
+}

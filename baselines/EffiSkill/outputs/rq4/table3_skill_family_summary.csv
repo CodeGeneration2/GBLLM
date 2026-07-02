@@ -1,0 +1,6 @@
+Family,Representative transformations,Usage (%)
+Implementation & constant-factor,constant-factor cleanup; lighter data structures; cheaper arithmetic,54.2
+Algebraic / closed-form reformulation,loop elimination; parity / bitwise simplification; range counting,19.7
+DP / state compression,state reformulation; rolling-state compression,13.1
+Combinatorics & number theory,modular combinatorics; coprimality reasoning; binomial simplification,9.5
+Graph / data structure / set operations,graph restructuring; set-intersection reformulation; incremental search,3.5
