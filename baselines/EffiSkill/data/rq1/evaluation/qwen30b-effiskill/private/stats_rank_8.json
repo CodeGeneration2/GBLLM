@@ -1,0 +1,4975 @@
+{
+    "aizu_1444_yokohama-phenomena": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 47.357719,
+            "runtime_sum": 1650.4444480000006,
+            "memory": 8.144,
+            "integral_max": 324.595,
+            "integral_sum": 7438.856900000002
+        }
+    },
+    "aizu_1447_nested-repetition-compression": {
+        "python3": null
+    },
+    "aizu_1448_chayas": {
+        "python3": null
+    },
+    "aizu_1449_color-inversion-on-a-huge-chessboard": {
+        "python3": null
+    },
+    "aizu_1455_ribbon-on-the-christmas-present": {
+        "python3": null
+    },
+    "aizu_1456_the-sparsest-number-in-between": {
+        "python3": null
+    },
+    "aizu_1459_e-circuit-is-now-on-sale!": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "aizu_1460_the-farthest-point": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.425,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "aizu_1464_mixing-solutions": {
+        "python3": null
+    },
+    "aizu_1664_which-team-should-receive-the-sponsor-prize?": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.0125,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "aizu_1665_amidakuji": {
+        "python3": null
+    },
+    "aizu_1666_changing-the-sitting-arrangement": {
+        "python3": null
+    },
+    "aizu_1668_tampered-records": {
+        "python3": null
+    },
+    "aizu_1672_snacks-within-300-yen": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 58.688766,
+            "runtime_sum": 1677.1136519999998,
+            "memory": 7.572,
+            "integral_max": 368.152,
+            "integral_sum": 7656.468389999999
+        }
+    },
+    "aizu_1673_overtaking": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.9625,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "aizu_1674_honeycomb-distance": {
+        "python3": null
+    },
+    "aizu_1678_two-sets-of-cards": {
+        "python3": null
+    },
+    "aizu_3600_sum-of-product-of-binomial-coefficients": {
+        "python3": null
+    },
+    "aizu_3612_roller-coaster": {
+        "python3": null
+    },
+    "aizu_3613_break-a-prison": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1269.142384,
+            "runtime_sum": 3201.173372,
+            "memory": 34.168,
+            "integral_max": 40313.299999999996,
+            "integral_sum": 50175.08763
+        }
+    },
+    "aizu_3614_camp-room-assignment": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.0125,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "aizu_3616_gacha-101": {
+        "python3": null
+    },
+    "aizu_3619_lcp-queries": {
+        "python3": null
+    },
+    "aizu_3627_expression-sum": {
+        "python3": null
+    },
+    "aizu_3629_give-me-a-lot-of-triangles": {
+        "python3": null
+    },
+    "aizu_3630_half-plane-painting": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.6875,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "aizu_3631_i-love-square-number": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2538.076388,
+            "runtime_sum": 22056.151321000005,
+            "memory": 448.42,
+            "integral_max": 706853.0,
+            "integral_sum": 1602445.8599999994
+        }
+    },
+    "aizu_3636_noncoprime-subsequences": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 612.587208,
+            "runtime_sum": 13204.979392,
+            "memory": 21.556,
+            "integral_max": 12488.699999999999,
+            "integral_sum": 198678.36999999997
+        }
+    },
+    "aizu_3637_tower-defense": {
+        "python3": null
+    },
+    "aizu_3638_renovation": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.0625,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "aizu_3639_commutativity": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.2125,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "aizu_3640_paper-cut-game": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 54.729253,
+            "runtime_sum": 1615.2669839999999,
+            "memory": 7.98,
+            "integral_max": 339.282,
+            "integral_sum": 7417.426700000001
+        }
+    },
+    "aizu_3647_equal-or-not-equal": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 66.070212,
+            "runtime_sum": 2085.766716000001,
+            "memory": 10.12,
+            "integral_max": 425.891,
+            "integral_sum": 11383.173099999998
+        }
+    },
+    "atcoder_abc380a_123233": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 50.657257,
+            "runtime_sum": 1537.8714040000002,
+            "memory": 7.568,
+            "integral_max": 330.44800000000004,
+            "integral_sum": 6957.343900000002
+        }
+    },
+    "atcoder_abc380b_hurdle-parsing": {
+        "python3": null
+    },
+    "atcoder_abc380c_move-segment": {
+        "python3": null
+    },
+    "atcoder_abc380d_strange-mirroring": {
+        "python3": null
+    },
+    "atcoder_abc380e_1d-bucket-tool": {
+        "python3": null
+    },
+    "atcoder_abc380f_exchange-game": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 62.137571,
+            "runtime_sum": 2068.3676890000006,
+            "memory": 9.048,
+            "integral_max": 426.821,
+            "integral_sum": 11493.5928
+        }
+    },
+    "atcoder_abc381a_11-22-string": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 68.684158,
+            "runtime_sum": 1627.0304070000004,
+            "memory": 7.576,
+            "integral_max": 385.15,
+            "integral_sum": 6372.371730000002
+        }
+    },
+    "atcoder_abc381b_1122-string": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 65.420796,
+            "runtime_sum": 1561.230113,
+            "memory": 7.968,
+            "integral_max": 442.442,
+            "integral_sum": 7551.989119999999
+        }
+    },
+    "atcoder_abc381c_11-22-substring": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.3625,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc381d_1122-substring": {
+        "python3": null
+    },
+    "atcoder_abc382b_daily-cookie-2": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 76.258716,
+            "runtime_sum": 1689.0696290000003,
+            "memory": 7.556,
+            "integral_max": 343.081,
+            "integral_sum": 7645.0633
+        }
+    },
+    "atcoder_abc383a_humidifier-1": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 55.872007,
+            "runtime_sum": 1657.2743040000003,
+            "memory": 7.884,
+            "integral_max": 353.742,
+            "integral_sum": 7635.5772
+        }
+    },
+    "atcoder_abc383b_humidifier-2": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 81.573844,
+            "runtime_sum": 1660.00615,
+            "memory": 9.344,
+            "integral_max": 520.1700000000001,
+            "integral_sum": 8196.714099999997
+        }
+    },
+    "atcoder_abc383d_9-divisors": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.2375,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc383e_sum-of-max-matching": {
+        "python3": null
+    },
+    "atcoder_abc383f_diversity": {
+        "python3": null
+    },
+    "atcoder_abc384a_aaaadaa": {
+        "python3": null
+    },
+    "atcoder_abc384c_perfect-standings": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 47.941423,
+            "runtime_sum": 1693.5885819999999,
+            "memory": 7.576,
+            "integral_max": 303.80899999999997,
+            "integral_sum": 7436.73551
+        }
+    },
+    "atcoder_abc384d_repeated-sequence": {
+        "python3": null
+    },
+    "atcoder_abc384e_takahashi-is-slime-2": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 822.252014,
+            "runtime_sum": 3599.1168699999994,
+            "memory": 24.58,
+            "integral_max": 18070.2,
+            "integral_sum": 45200.00670000003
+        }
+    },
+    "atcoder_abc384f_double-sum-2": {
+        "python3": null
+    },
+    "atcoder_abc385a_equally": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.9375,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc385b_santa-claus-1": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 75.257209,
+            "runtime_sum": 1781.39336,
+            "memory": 8.236,
+            "integral_max": 405.706,
+            "integral_sum": 9059.68775
+        }
+    },
+    "atcoder_abc385e_snowflake-tree": {
+        "python3": null
+    },
+    "atcoder_abc385f_visible-buildings": {
+        "python3": null
+    },
+    "atcoder_abc386a_full-house-2": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.2,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc386b_calculator": {
+        "python3": null
+    },
+    "atcoder_abc386e_-maximize-xor": {
+        "python3": null
+    },
+    "atcoder_abc386f_operate-k": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.825,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc387a_happy-new-year-2025": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 62.857634,
+            "runtime_sum": 1781.2383939999997,
+            "memory": 7.572,
+            "integral_max": 374.307,
+            "integral_sum": 8433.0174
+        }
+    },
+    "atcoder_abc387b_9x9-sum": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 60.468774,
+            "runtime_sum": 1696.3751140000004,
+            "memory": 7.684,
+            "integral_max": 358.57,
+            "integral_sum": 7781.610810999998
+        }
+    },
+    "atcoder_abc387c_snake-numbers": {
+        "python3": null
+    },
+    "atcoder_abc387d_snaky-walk": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1467.419021,
+            "runtime_sum": 19029.573123,
+            "memory": 71.356,
+            "integral_max": 63845.6,
+            "integral_sum": 708853.6372
+        }
+    },
+    "atcoder_abc387e_digit-sum-divisible-2": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.8375,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc388a_?upc": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 54.857562,
+            "runtime_sum": 1550.808691,
+            "memory": 7.572,
+            "integral_max": 370.046,
+            "integral_sum": 7767.389549999999
+        }
+    },
+    "atcoder_abc388b_heavy-snake": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 57.511129,
+            "runtime_sum": 1586.5932510000002,
+            "memory": 7.688,
+            "integral_max": 349.47499999999997,
+            "integral_sum": 7202.1699
+        }
+    },
+    "atcoder_abc388c_various-kagamimochi": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 332.955264,
+            "runtime_sum": 16221.149911,
+            "memory": 65.744,
+            "integral_max": 12298.9,
+            "integral_sum": 499061.8350999999
+        }
+    },
+    "atcoder_abc388d_coming-of-age-celebration": {
+        "python3": null
+    },
+    "atcoder_abc388f_dangerous-sugoroku": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.7875,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc388g_simultaneous-kagamimochi-2": {
+        "python3": null
+    },
+    "atcoder_abc389a_9x9": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 52.235902,
+            "runtime_sum": 1618.8012329999997,
+            "memory": 7.576,
+            "integral_max": 295.21,
+            "integral_sum": 7354.943219999999
+        }
+    },
+    "atcoder_abc389b_tcaf": {
+        "python3": null
+    },
+    "atcoder_abc389c_snake-queue": {
+        "python3": null
+    },
+    "atcoder_abc389d_squares-in-circle": {
+        "python3": null
+    },
+    "atcoder_abc389e_square-price": {
+        "python3": null
+    },
+    "atcoder_abc389f_rated-range": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.025,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc390b_geometric-sequence": {
+        "python3": null
+    },
+    "atcoder_abc390c_paint-to-make-a-rectangle": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.75,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc390d_stone-xor": {
+        "python3": null
+    },
+    "atcoder_abc390f_double-sum-3": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc391a_lucky-direction": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 51.803704,
+            "runtime_sum": 1505.4156249999996,
+            "memory": 7.576,
+            "integral_max": 321.05,
+            "integral_sum": 6743.054230000002
+        }
+    },
+    "atcoder_abc391b_seek-grid": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 63.638088,
+            "runtime_sum": 1715.8815040000004,
+            "memory": 7.904,
+            "integral_max": 371.94,
+            "integral_sum": 7354.644899999998
+        }
+    },
+    "atcoder_abc391c_pigeonhole-query": {
+        "python3": null
+    },
+    "atcoder_abc391e_hierarchical-majority-vote": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.0625,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc391f_k-th-largest-triplet": {
+        "python3": null
+    },
+    "atcoder_abc391g_many-lcs": {
+        "python3": null
+    },
+    "atcoder_abc392a_shuffled-equation": {
+        "python3": null
+    },
+    "atcoder_abc392b_who-is-missing?": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 68.601518,
+            "runtime_sum": 1516.5990999999997,
+            "memory": 8.292,
+            "integral_max": 298.349,
+            "integral_sum": 6529.028799999997
+        }
+    },
+    "atcoder_abc392c_bib": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.2125,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc392e_cables-and-servers": {
+        "python3": null
+    },
+    "atcoder_abc392f_insert": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 6521.749942,
+            "runtime_sum": 61549.54560000001,
+            "memory": 78.46,
+            "integral_max": 420124.0,
+            "integral_sum": 3259608.3226200007
+        }
+    },
+    "atcoder_abc393a_poisonous-oyster": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 60.761116,
+            "runtime_sum": 1551.455013,
+            "memory": 7.572,
+            "integral_max": 367.784,
+            "integral_sum": 6888.908330000001
+        }
+    },
+    "atcoder_abc393c_make-it-simple": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 752.068468,
+            "runtime_sum": 27051.885985999998,
+            "memory": 87.004,
+            "integral_max": 40813.899999999994,
+            "integral_sum": 1004464.572
+        }
+    },
+    "atcoder_abc393e_gcd-of-subset": {
+        "python3": null
+    },
+    "atcoder_abc393f_prefix-lis-query": {
+        "python3": null
+    },
+    "atcoder_abc394a_22222": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 59.556242,
+            "runtime_sum": 1563.829733,
+            "memory": 7.656,
+            "integral_max": 339.69300000000004,
+            "integral_sum": 6890.605622
+        }
+    },
+    "atcoder_abc394b_cat": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 48.897261,
+            "runtime_sum": 1533.5279229999994,
+            "memory": 7.576,
+            "integral_max": 294.127,
+            "integral_sum": 6359.123200000004
+        }
+    },
+    "atcoder_abc394c_debug": {
+        "python3": null
+    },
+    "atcoder_abc394g_dense-buildings": {
+        "python3": null
+    },
+    "atcoder_abc395a_strictly-increasing?": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 57.078967,
+            "runtime_sum": 1522.5260449999996,
+            "memory": 8.084,
+            "integral_max": 417.412,
+            "integral_sum": 6489.162479999998
+        }
+    },
+    "atcoder_abc395c_shortest-duplicate-subarray": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 120.883562,
+            "runtime_sum": 2731.019142,
+            "memory": 38.976,
+            "integral_max": 2628.0299999999997,
+            "integral_sum": 32265.5816155
+        }
+    },
+    "atcoder_abc395d_pigeon-swap": {
+        "python3": null
+    },
+    "atcoder_abc396a_triple-four": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 49.459957,
+            "runtime_sum": 1312.7966579999998,
+            "memory": 7.944,
+            "integral_max": 334.704,
+            "integral_sum": 5987.6195591999995
+        }
+    },
+    "atcoder_abc396b_card-pile": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 45.457418,
+            "runtime_sum": 1517.7866470000001,
+            "memory": 7.916,
+            "integral_max": 296.164,
+            "integral_sum": 6251.961220000001
+        }
+    },
+    "atcoder_abc396d_minimum-xor-path": {
+        "python3": null
+    },
+    "atcoder_abc396g_flip-row-or-col": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc397a_thermometer": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 58.897025,
+            "runtime_sum": 1678.440428000001,
+            "memory": 7.572,
+            "integral_max": 373.637,
+            "integral_sum": 7518.064500000002
+        }
+    },
+    "atcoder_abc397b_ticket-gate-log": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 58.020547,
+            "runtime_sum": 1697.4483579999994,
+            "memory": 7.576,
+            "integral_max": 336.449,
+            "integral_sum": 7722.911430000003
+        }
+    },
+    "atcoder_abc397c_variety-split-easy": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.3375,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc397e_path-decomposition-of-a-tree": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 497.501814,
+            "runtime_sum": 11784.053919999998,
+            "memory": 78.26,
+            "integral_max": 28932.5,
+            "integral_sum": 544087.8785999999
+        }
+    },
+    "atcoder_abc398a_doors-in-the-center": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 62.590594,
+            "runtime_sum": 1662.1773450000005,
+            "memory": 7.872,
+            "integral_max": 303.72900000000004,
+            "integral_sum": 6998.494988
+        }
+    },
+    "atcoder_abc398b_full-house-3": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 50.052961,
+            "runtime_sum": 1389.817634,
+            "memory": 7.756,
+            "integral_max": 324.582,
+            "integral_sum": 6317.3441
+        }
+    },
+    "atcoder_abc398c_uniqueness": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 219.552459,
+            "runtime_sum": 2678.815633999999,
+            "memory": 42.068,
+            "integral_max": 6570.12,
+            "integral_sum": 30946.860800000002
+        }
+    },
+    "atcoder_abc399a_hamming-distance": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 54.006474,
+            "runtime_sum": 1568.1257559999997,
+            "memory": 7.572,
+            "integral_max": 360.485,
+            "integral_sum": 6870.224280400001
+        }
+    },
+    "atcoder_abc399b_ranking-with-ties": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 45.663702,
+            "runtime_sum": 1544.8078479999997,
+            "memory": 7.796,
+            "integral_max": 287.211,
+            "integral_sum": 6883.530170000001
+        }
+    },
+    "atcoder_abc400a_abc400-party": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 56.088266,
+            "runtime_sum": 1725.778048,
+            "memory": 7.896,
+            "integral_max": 330.81,
+            "integral_sum": 8344.415869999997
+        }
+    },
+    "atcoder_abc400b_sum-of-geometric-series": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 61.844487,
+            "runtime_sum": 1626.9312380000001,
+            "memory": 8.104,
+            "integral_max": 373.269,
+            "integral_sum": 8051.093100000001
+        }
+    },
+    "atcoder_abc400e_ringo's-favorite-numbers-3": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.275,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc400g_patisserie-abc-3": {
+        "python3": null
+    },
+    "atcoder_abc401a_status-code": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 58.396826,
+            "runtime_sum": 1486.306794,
+            "memory": 7.608,
+            "integral_max": 350.36400000000003,
+            "integral_sum": 6508.907100000001
+        }
+    },
+    "atcoder_abc401b_unauthorized": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 78.157063,
+            "runtime_sum": 1750.8904830000004,
+            "memory": 7.572,
+            "integral_max": 391.08700000000005,
+            "integral_sum": 8246.579680000003
+        }
+    },
+    "atcoder_abc402a_cbc": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 57.022038,
+            "runtime_sum": 1521.231454,
+            "memory": 7.692,
+            "integral_max": 308.645,
+            "integral_sum": 7133.780000000001
+        }
+    },
+    "atcoder_abc402b_restaurant-queue": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 48.052086,
+            "runtime_sum": 1537.1487480000008,
+            "memory": 7.692,
+            "integral_max": 323.766,
+            "integral_sum": 6596.591409999999
+        }
+    },
+    "atcoder_abc402c_dislike-foods": {
+        "python3": null
+    },
+    "atcoder_abc402d_line-crossing": {
+        "python3": null
+    },
+    "atcoder_abc402e_payment-required": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.0125,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_abc402f_path-to-integer": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1535.442848,
+            "runtime_sum": 14133.642783000007,
+            "memory": 78.58,
+            "integral_max": 103979.0,
+            "integral_sum": 522863.50839999976
+        }
+    },
+    "atcoder_abc403a_odd-position-sum": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 65.917124,
+            "runtime_sum": 1655.986235,
+            "memory": 7.728,
+            "integral_max": 380.898,
+            "integral_sum": 8037.887399999998
+        }
+    },
+    "atcoder_abc403b_four-hidden": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 780.706055,
+            "runtime_sum": 54936.62033100002,
+            "memory": 52.928,
+            "integral_max": 27744.6,
+            "integral_sum": 1881809.0999999999
+        }
+    },
+    "atcoder_abc403d_forbidden-difference": {
+        "python3": null
+    },
+    "atcoder_abc403e_forbidden-prefix": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.3625,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_arc168a_<inversion>": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 101.643194,
+            "runtime_sum": 2656.2623590000003,
+            "memory": 8.396,
+            "integral_max": 775.42,
+            "integral_sum": 15782.8661
+        }
+    },
+    "atcoder_arc168c_swap-characters": {
+        "python3": null
+    },
+    "atcoder_arc169a_please-sign": {
+        "python3": null
+    },
+    "atcoder_arc170a_yet-another-ab-problem": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.65,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_arc170b_arithmetic-progression-subsequence": {
+        "python3": null
+    },
+    "atcoder_arc170d_triangle-card-game": {
+        "python3": null
+    },
+    "atcoder_arc170e_bdfs": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_arc171a_no-attacking": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 58.52001,
+            "runtime_sum": 1540.1173639999997,
+            "memory": 7.852,
+            "integral_max": 341.997,
+            "integral_sum": 7202.196699999997
+        }
+    },
+    "atcoder_arc171b_chmax": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 322.053543,
+            "runtime_sum": 10845.834611999999,
+            "memory": 45.688,
+            "integral_max": 9164.18,
+            "integral_sum": 179523.17
+        }
+    },
+    "atcoder_arc172b_atcoder-language": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_arc172c_election": {
+        "python3": null
+    },
+    "atcoder_arc173a_neq-number": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 57.196429,
+            "runtime_sum": 1497.6645540000004,
+            "memory": 8.104,
+            "integral_max": 328.13100000000003,
+            "integral_sum": 7047.545330000001
+        }
+    },
+    "atcoder_arc173b_make-many-triangles": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.1875,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_arc174a_a-multiply": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.675,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_arc174d_digit-vs-square-root": {
+        "python3": null
+    },
+    "atcoder_arc175b_parenthesis-arrangement": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.45,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_arc177a_exchange": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 54.757533,
+            "runtime_sum": 1637.9700099999995,
+            "memory": 7.624,
+            "integral_max": 317.88899999999995,
+            "integral_sum": 7634.47388
+        }
+    },
+    "atcoder_arc177e_wrong-scoreboard": {
+        "python3": null
+    },
+    "atcoder_arc178a_good-permutation-2": {
+        "python3": null
+    },
+    "atcoder_arc178b_1-+-6-=-7": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 65.779229,
+            "runtime_sum": 1718.011184,
+            "memory": 8.22,
+            "integral_max": 409.895,
+            "integral_sum": 8028.651199999996
+        }
+    },
+    "atcoder_arc178c_sum-of-abs-2": {
+        "python3": null
+    },
+    "atcoder_arc179a_partition": {
+        "python3": null
+    },
+    "atcoder_arc180c_subsequence-and-prefix-sum": {
+        "python3": null
+    },
+    "atcoder_arc181a_sort-left-and-right": {
+        "python3": null
+    },
+    "atcoder_arc181b_annoying-string-problem": {
+        "python3": null
+    },
+    "atcoder_arc181d_prefix-bubble-sort": {
+        "python3": null
+    },
+    "atcoder_arc182a_chmax-rush!": {
+        "python3": null
+    },
+    "atcoder_arc183b_near-assignment": {
+        "python3": null
+    },
+    "atcoder_arc183c_not-argmax": {
+        "python3": null
+    },
+    "atcoder_arc184c_mountain-and-valley-folds": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 56.612597,
+            "runtime_sum": 1778.983992,
+            "memory": 9.236,
+            "integral_max": 365.188,
+            "integral_sum": 8814.3101
+        }
+    },
+    "atcoder_arc185a_mod-m-game-2": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.775,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_arc185b_+1-and--1": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 75.032537,
+            "runtime_sum": 1732.8817010000002,
+            "memory": 25.644,
+            "integral_max": 1021.89,
+            "integral_sum": 9630.535299999996
+        }
+    },
+    "atcoder_arc188b_symmetric-painting": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 60.588281,
+            "runtime_sum": 1667.0587899999994,
+            "memory": 8.244,
+            "integral_max": 360.983,
+            "integral_sum": 7999.2116300000025
+        }
+    },
+    "atcoder_arc189b_minimize-sum": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 169.812274,
+            "runtime_sum": 7184.151216999995,
+            "memory": 29.94,
+            "integral_max": 3314.7799999999997,
+            "integral_sum": 108444.12040000001
+        }
+    },
+    "atcoder_arc189c_balls-and-boxes": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.95,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_arc190a_inside-or-outside": {
+        "python3": null
+    },
+    "atcoder_arc192a_arc-arc": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 76.164753,
+            "runtime_sum": 2820.3211430000006,
+            "memory": 11.26,
+            "integral_max": 482.547,
+            "integral_sum": 18417.558399999998
+        }
+    },
+    "atcoder_arc192b_fennec-vs.-snuke-2": {
+        "python3": null
+    },
+    "atcoder_arc193a_complement-interval-graph": {
+        "python3": null
+    },
+    "atcoder_arc194a_operations-on-a-stack": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.15,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_arc194b_minimum-cost-sort": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.0375,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "atcoder_arc195a_twice-subsequence": {
+        "python3": null
+    },
+    "atcoder_arc195b_uniform-sum": {
+        "python3": null
+    },
+    "atcoder_arc195c_hamiltonian-pieces": {
+        "python3": null
+    },
+    "atcoder_arc195d_swap-and-erase": {
+        "python3": null
+    },
+    "atcoder_arc197a_union-of-grid-paths": {
+        "python3": null
+    },
+    "atcoder_arc197b_greater-than-average": {
+        "python3": null
+    },
+    "atcoder_arc197e_four-square-tiles": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codechef_ADJSUMLOST_adjacent-sum-array": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.875,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codechef_ADVITIYA_advitiya": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.1,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codechef_ALTUNI_alternate-universe": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.575,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codechef_ASSIGNSCORE_assignment-score": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 56.433718,
+            "runtime_sum": 1581.7903549999996,
+            "memory": 7.884,
+            "integral_max": 332.429,
+            "integral_sum": 7545.988699999995
+        }
+    },
+    "codechef_BDISC_bulk-discount": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 107.15083,
+            "runtime_sum": 2331.818942,
+            "memory": 31.348,
+            "integral_max": 2472.57,
+            "integral_sum": 19517.203719599995
+        }
+    },
+    "codechef_BINARYSUM_binary-sum": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 54.423976,
+            "runtime_sum": 1495.1390619999993,
+            "memory": 7.572,
+            "integral_max": 329.577,
+            "integral_sum": 6990.3877
+        }
+    },
+    "codechef_BINREM_binary-removals": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 61.064287,
+            "runtime_sum": 1658.1809119999996,
+            "memory": 8.164,
+            "integral_max": 359.165,
+            "integral_sum": 7386.030659999998
+        }
+    },
+    "codechef_BOX2_2-boxes": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 58.747374,
+            "runtime_sum": 1757.0452780000003,
+            "memory": 8.196,
+            "integral_max": 335.764,
+            "integral_sum": 8277.76812
+        }
+    },
+    "codechef_BRKSTICK_breaking-sticks": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 64.987274,
+            "runtime_sum": 1540.9795229999997,
+            "memory": 7.88,
+            "integral_max": 361.646,
+            "integral_sum": 6639.61112
+        }
+    },
+    "codechef_CALINTAKE_calorie-intake": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 37.664356,
+            "runtime_sum": 992.1876199999998,
+            "memory": 7.516,
+            "integral_max": 258.078,
+            "integral_sum": 5393.345599999998
+        }
+    },
+    "codechef_CARDGAME1_card-game": {
+        "python3": null
+    },
+    "codechef_CDMT_codemat": {
+        "python3": null
+    },
+    "codechef_CHEFSOCKS_chef-and-socks": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 59.65757,
+            "runtime_sum": 1509.668178999999,
+            "memory": 7.612,
+            "integral_max": 361.43199999999996,
+            "integral_sum": 6874.982200000001
+        }
+    },
+    "codechef_CHESSCOLOUR_chess-colouring": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.1125,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codechef_CLSI_conquer-the-fest!!": {
+        "python3": null
+    },
+    "codechef_CNTDISJOINT_count-disjoint-arrays": {
+        "python3": null
+    },
+    "codechef_COUNT0110_counting-01-and-10": {
+        "python3": null
+    },
+    "codechef_CPYD_no-two-alike": {
+        "python3": null
+    },
+    "codechef_CRCK_christmas-cake": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 53.767115,
+            "runtime_sum": 1597.9000509999992,
+            "memory": 7.572,
+            "integral_max": 316.228,
+            "integral_sum": 6583.937399999998
+        }
+    },
+    "codechef_DELDIF_deletion-and-difference": {
+        "python3": null
+    },
+    "codechef_DONUTSELL_selling-donuts": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 46.258038,
+            "runtime_sum": 1385.9715169999995,
+            "memory": 7.988,
+            "integral_max": 308.64399999999995,
+            "integral_sum": 6676.2082199999995
+        }
+    },
+    "codechef_DPOWER_distinct-power": {
+        "python3": null
+    },
+    "codechef_FLIPPRE_flip-prefix": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 51.409936,
+            "runtime_sum": 1684.3213289999994,
+            "memory": 7.572,
+            "integral_max": 300.536,
+            "integral_sum": 7451.9326
+        }
+    },
+    "codechef_FOODBAL_food-balance": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 70.503573,
+            "runtime_sum": 1531.7626690000002,
+            "memory": 7.612,
+            "integral_max": 320.916,
+            "integral_sum": 6908.031650000001
+        }
+    },
+    "codechef_GGMM_short-piles": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 64.882691,
+            "runtime_sum": 1600.542322,
+            "memory": 7.864,
+            "integral_max": 334.435,
+            "integral_sum": 7152.888416000002
+        }
+    },
+    "codechef_GOODMATRIX_the-best-matrix": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.7875,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codechef_HJJ_can-you-bench": {
+        "python3": null
+    },
+    "codechef_HWFIN_too-much-homework!": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 52.368463,
+            "runtime_sum": 1532.1939490000002,
+            "memory": 7.62,
+            "integral_max": 268.743,
+            "integral_sum": 6437.327100000001
+        }
+    },
+    "codechef_ICECONE_icecream-and-cone": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 53.057935,
+            "runtime_sum": 1670.3159030000002,
+            "memory": 7.62,
+            "integral_max": 317.322,
+            "integral_sum": 7309.257580000002
+        }
+    },
+    "codechef_INPL_ipl": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 73.122699,
+            "runtime_sum": 1765.5413490000005,
+            "memory": 7.876,
+            "integral_max": 469.954,
+            "integral_sum": 8431.616349999997
+        }
+    },
+    "codechef_KOMON_monster-monster": {
+        "python3": null
+    },
+    "codechef_LARGSMALL_larger-smaller": {
+        "python3": null
+    },
+    "codechef_LOTTERYTICK_lottery-tickets": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.4875,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codechef_LSU_costly-summit": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 59.492193,
+            "runtime_sum": 1706.0878580000003,
+            "memory": 8.168,
+            "integral_max": 379.124,
+            "integral_sum": 7346.882629999999
+        }
+    },
+    "codechef_MAX6_max-sixers": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.7875,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codechef_MDGT_lost-in-the-fest!!": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codechef_MINA2B_a-to-b": {
+        "python3": null
+    },
+    "codechef_MINBOTTLES_minimum-bottles": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 59.514715,
+            "runtime_sum": 1541.752706,
+            "memory": 7.836,
+            "integral_max": 362.057,
+            "integral_sum": 6691.28429
+        }
+    },
+    "codechef_MINCOL_minimum-colours-(easy)": {
+        "python3": null
+    },
+    "codechef_MINMAXSUB_min-max-game": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codechef_MODINDROME_modindrome": {
+        "python3": null
+    },
+    "codechef_MOVEMENT_move-grid": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 39.958347,
+            "runtime_sum": 1065.685935,
+            "memory": 7.832,
+            "integral_max": 269.401,
+            "integral_sum": 5853.3249000000005
+        }
+    },
+    "codechef_MOVPR_movie-snacks": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 69.871557,
+            "runtime_sum": 1614.3804900000002,
+            "memory": 7.82,
+            "integral_max": 388.12600000000003,
+            "integral_sum": 7417.50724
+        }
+    },
+    "codechef_MSATP_friendly-binary-strings": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.825,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codechef_MXFREQ_multiplexer": {
+        "python3": null
+    },
+    "codechef_MXON_maximum-ones": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 60.038932,
+            "runtime_sum": 1593.6238820000003,
+            "memory": 7.768,
+            "integral_max": 312.72299999999996,
+            "integral_sum": 7411.1705
+        }
+    },
+    "codechef_NEWYEAR_happy-new-year!": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.95,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codechef_NUGGET_moneymaking": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 58.649355,
+            "runtime_sum": 1683.4165129999997,
+            "memory": 7.672,
+            "integral_max": 314.771,
+            "integral_sum": 7945.2869
+        }
+    },
+    "codechef_ORANGES_too-many-oranges": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 67.558895,
+            "runtime_sum": 1645.3266300000005,
+            "memory": 7.576,
+            "integral_max": 366.862,
+            "integral_sum": 8077.7208
+        }
+    },
+    "codechef_P1169_entry-check": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 51.861689,
+            "runtime_sum": 1380.2382149999999,
+            "memory": 7.932,
+            "integral_max": 328.077,
+            "integral_sum": 6270.250535499999
+        }
+    },
+    "codechef_P1175_assignment-due": {
+        "python3": null
+    },
+    "codechef_P2169_opposite-attract": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 53.598847,
+            "runtime_sum": 1755.2371589999998,
+            "memory": 7.992,
+            "integral_max": 346.813,
+            "integral_sum": 8303.073799999998
+        }
+    },
+    "codechef_P2175_technex-tickets": {
+        "python3": null
+    },
+    "codechef_P2P_make-odd": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 58.48339,
+            "runtime_sum": 1622.8620089999997,
+            "memory": 7.532,
+            "integral_max": 356.56300000000005,
+            "integral_sum": 6659.926200000003
+        }
+    },
+    "codechef_P3169_make-k-most-frequent": {
+        "python3": null
+    },
+    "codechef_P3175_make-same": {
+        "python3": null
+    },
+    "codechef_P4169_hamming-equivalent": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.9875,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codechef_P4172_transform-string": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.5125,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codechef_P4175_alternate-it!": {
+        "python3": null
+    },
+    "codechef_P5169_constant-subsequence": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 78.956257,
+            "runtime_sum": 3048.808228,
+            "memory": 10.836,
+            "integral_max": 629.832,
+            "integral_sum": 21379.0116
+        }
+    },
+    "codechef_PERMCON_permutation-construct": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 64.834109,
+            "runtime_sum": 1545.8837829999998,
+            "memory": 8.144,
+            "integral_max": 386.10499999999996,
+            "integral_sum": 6789.1587
+        }
+    },
+    "codechef_PERMMODK_permutation-mod-k": {
+        "python3": null
+    },
+    "codechef_PERMUTATION2_permutation-pair": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.875,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codechef_PIVOTALREV_pivotal-reversal": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 2434.308492,
+            "runtime_sum": 29879.823403,
+            "memory": 237.844,
+            "integral_max": 360177.0,
+            "integral_sum": 2502329.5224435
+        }
+    },
+    "codechef_PLACE0110_placing-01-and-10": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 59.663188,
+            "runtime_sum": 1740.3143389999993,
+            "memory": 9.388,
+            "integral_max": 365.96099999999996,
+            "integral_sum": 7402.515500000001
+        }
+    },
+    "codechef_POSTPERI_poster-perimeter": {
+        "python3": null
+    },
+    "codechef_QUICKEXIT0_quick-exit": {
+        "python3": null
+    },
+    "codechef_RBGM_red-blue-sort": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 65.139559,
+            "runtime_sum": 1911.077381,
+            "memory": 16.552,
+            "integral_max": 738.815,
+            "integral_sum": 9934.149899999999
+        }
+    },
+    "codechef_RURT_run-for-fun": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 67.397892,
+            "runtime_sum": 1868.9516179999998,
+            "memory": 7.728,
+            "integral_max": 344.917,
+            "integral_sum": 9458.151100000005
+        }
+    },
+    "codechef_SAMEAND_same-and": {
+        "python3": null
+    },
+    "codechef_SMOOTHINC_smoothly-increasing": {
+        "python3": null
+    },
+    "codechef_SORTTHEM_sort-them": {
+        "python3": null
+    },
+    "codechef_SPC2025_new-pro-coder": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 49.160778,
+            "runtime_sum": 1507.2170829999998,
+            "memory": 7.576,
+            "integral_max": 302.834,
+            "integral_sum": 5976.185700000001
+        }
+    },
+    "codechef_SPC2025Q2_itz-simple": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 57.687263,
+            "runtime_sum": 1747.5250739999994,
+            "memory": 7.532,
+            "integral_max": 364.396,
+            "integral_sum": 8383.527649999998
+        }
+    },
+    "codechef_SPC2025Q5_halloween-array": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 49.121855,
+            "runtime_sum": 1596.6502309999996,
+            "memory": 8.2,
+            "integral_max": 308.223,
+            "integral_sum": 7267.024899999998
+        }
+    },
+    "codechef_SPC2025Q6_connecting-wells": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.975,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codechef_SQUIDBANK_squid-game---piggy-bank": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 71.865272,
+            "runtime_sum": 1791.5570369999998,
+            "memory": 7.576,
+            "integral_max": 373.01800000000003,
+            "integral_sum": 8405.739099999999
+        }
+    },
+    "codechef_STKSTR_streak-star": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.975,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codechef_STOT_s-to-t": {
+        "python3": null
+    },
+    "codechef_STRANGENIM_strange-nim-game": {
+        "python3": null
+    },
+    "codechef_SUMBYOR_sum-by-or": {
+        "python3": null
+    },
+    "codechef_SWPG_shall-we-play-a-game": {
+        "python3": null
+    },
+    "codechef_TEMPBAL_temperature-balance": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 134.567986,
+            "runtime_sum": 3479.419112,
+            "memory": 39.628,
+            "integral_max": 3373.84,
+            "integral_sum": 49734.629510000006
+        }
+    },
+    "codechef_TIMA_time-machine": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 53.652321,
+            "runtime_sum": 1578.051524,
+            "memory": 7.596,
+            "integral_max": 327.449,
+            "integral_sum": 7258.361599999998
+        }
+    },
+    "codechef_TMPTMP_temporary-temperature": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 62.252271,
+            "runtime_sum": 1631.2526810000008,
+            "memory": 8.164,
+            "integral_max": 324.14,
+            "integral_sum": 8101.6749999999965
+        }
+    },
+    "codechef_TRICHECK_triangle-checking": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 47.622212,
+            "runtime_sum": 1562.895174,
+            "memory": 7.572,
+            "integral_max": 319.87399999999997,
+            "integral_sum": 7057.612680000002
+        }
+    },
+    "codechef_USELEC_elections": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 51.157177,
+            "runtime_sum": 1161.5652039999998,
+            "memory": 8.168,
+            "integral_max": 359.842,
+            "integral_sum": 6405.146599999999
+        }
+    },
+    "codechef_VOLCANO_volcanic-eruption": {
+        "python3": null
+    },
+    "codechef_WAPEN_time-penalty": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 52.580948,
+            "runtime_sum": 1312.3780309999995,
+            "memory": 7.648,
+            "integral_max": 327.476,
+            "integral_sum": 5985.755800000003
+        }
+    },
+    "codechef_WECNITK_access-code-equality": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 57.49017,
+            "runtime_sum": 1748.4509030000004,
+            "memory": 7.888,
+            "integral_max": 383.646,
+            "integral_sum": 8407.856670000001
+        }
+    },
+    "codechef_WHITEWALL_white-wall": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codechef_WRAPGIFTS_christmas-gifts": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 45.357279,
+            "runtime_sum": 1068.489911,
+            "memory": 7.804,
+            "integral_max": 306.911,
+            "integral_sum": 5873.7406999999985
+        }
+    },
+    "codechef_XLSL_clothing-store": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.6625,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codeforces_2093A_ideal-generator": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 53.618239,
+            "runtime_sum": 1563.9136150000004,
+            "memory": 7.996,
+            "integral_max": 325.911,
+            "integral_sum": 6730.094830000001
+        }
+    },
+    "codeforces_2095C_would-it-be-unrated?": {
+        "python3": null
+    },
+    "codeforces_2095D_where-am-i?": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 53.855844,
+            "runtime_sum": 1579.9985190000002,
+            "memory": 7.884,
+            "integral_max": 361.851,
+            "integral_sum": 7183.800579999999
+        }
+    },
+    "codeforces_2095F_\u2153-\u043ef-\u0430-\u0440r\u043ebl\u0435m": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.9375,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codeforces_2095I_mysterious-script": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.2125,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codeforces_2098A_vadim's-collection": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codeforces_2103A_common-multiple": {
+        "python3": null
+    },
+    "codeforces_2104A_three-decks": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.225,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codeforces_2106A_dr.-tc": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.175,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "codeforces_2108A_permutation-warm-up": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 5662.81004,
+            "runtime_sum": 33359.70704,
+            "memory": 8.092,
+            "integral_max": 41887.700000000004,
+            "integral_sum": 243027.50653999994
+        }
+    },
+    "leetcode_3188_find-champion-i": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 73.590856,
+            "runtime_sum": 3431.9973919999998,
+            "memory": 11.724,
+            "integral_max": 653.433,
+            "integral_sum": 26636.916000000005
+        }
+    },
+    "leetcode_3190_minimum-operations-to-maximize-last-elements-in-arrays": {
+        "python3": null
+    },
+    "leetcode_3191_maximum-score-after-applying-operations-on-a-tree": {
+        "python3": null
+    },
+    "leetcode_3192_maximum-xor-product": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.3875,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3193_maximum-strong-pair-xor-i": {
+        "python3": null
+    },
+    "leetcode_3194_find-words-containing-character": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 76.562453,
+            "runtime_sum": 3563.4238410000003,
+            "memory": 11.58,
+            "integral_max": 668.714,
+            "integral_sum": 27554.446
+        }
+    },
+    "leetcode_3195_separate-black-and-white-balls": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 86.457934,
+            "runtime_sum": 3605.330129,
+            "memory": 11.684,
+            "integral_max": 780.289,
+            "integral_sum": 27346.043
+        }
+    },
+    "leetcode_3197_maximum-strong-pair-xor-ii": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.9125,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3199_distribute-candies-among-children-i": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 81.68825,
+            "runtime_sum": 3587.9126690000007,
+            "memory": 11.664,
+            "integral_max": 615.8679999999999,
+            "integral_sum": 26978.185
+        }
+    },
+    "leetcode_3200_number-of-strings-which-can-be-rearranged-to-contain-substring": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 78.08596,
+            "runtime_sum": 3573.247554999999,
+            "memory": 11.764,
+            "integral_max": 767.312,
+            "integral_sum": 27740.318999999996
+        }
+    },
+    "leetcode_3201_distribute-candies-among-children-ii": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 83.636385,
+            "runtime_sum": 3584.1569450000006,
+            "memory": 11.712,
+            "integral_max": 720.505,
+            "integral_sum": 27193.13299999999
+        }
+    },
+    "leetcode_3202_high-access-employees": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 70.855489,
+            "runtime_sum": 3273.419148999999,
+            "memory": 11.728,
+            "integral_max": 722.093,
+            "integral_sum": 28173.380000000012
+        }
+    },
+    "leetcode_3203_palindrome-rearrangement-queries": {
+        "python3": null
+    },
+    "leetcode_3207_make-three-strings-equal": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 84.033672,
+            "runtime_sum": 3527.324487999999,
+            "memory": 11.596,
+            "integral_max": 693.4979999999999,
+            "integral_sum": 26615.33399999999
+        }
+    },
+    "leetcode_3208_count-beautiful-substrings-ii": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 71.916712,
+            "runtime_sum": 3565.734055,
+            "memory": 18.404,
+            "integral_max": 678.8199999999999,
+            "integral_sum": 28888.019000000008
+        }
+    },
+    "leetcode_3209_minimum-number-of-coins-for-fruits": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 85.160842,
+            "runtime_sum": 3593.411029000001,
+            "memory": 11.752,
+            "integral_max": 864.795,
+            "integral_sum": 27884.339000000007
+        }
+    },
+    "leetcode_3210_count-beautiful-substrings-i": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.9875,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3211_find-maximum-non-decreasing-array-length": {
+        "python3": null
+    },
+    "leetcode_3212_count-the-number-of-good-partitions": {
+        "python3": null
+    },
+    "leetcode_3213_count-subarrays-where-max-element-appears-at-least-k-times": {
+        "python3": null
+    },
+    "leetcode_3214_maximize-area-of-square-hole-in-grid": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 73.30092,
+            "runtime_sum": 3665.2108980000003,
+            "memory": 11.756,
+            "integral_max": 611.3629999999999,
+            "integral_sum": 27207.827999999998
+        }
+    },
+    "leetcode_3215_matrix-similarity-after-cyclic-shifts": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 80.699495,
+            "runtime_sum": 3408.9213999999993,
+            "memory": 11.728,
+            "integral_max": 803.378,
+            "integral_sum": 26945.050999999992
+        }
+    },
+    "leetcode_3218_find-number-of-coins-to-place-in-tree-nodes": {
+        "python3": null
+    },
+    "leetcode_3219_make-lexicographically-smallest-array-by-swapping-elements": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 110.312715,
+            "runtime_sum": 3530.7976700000013,
+            "memory": 11.74,
+            "integral_max": 990.8639999999999,
+            "integral_sum": 28161.610999999994
+        }
+    },
+    "leetcode_3220_count-tested-devices-after-test-operations": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 85.055323,
+            "runtime_sum": 3553.579506999999,
+            "memory": 11.688,
+            "integral_max": 703.8820000000001,
+            "integral_sum": 29338.693000000007
+        }
+    },
+    "leetcode_3221_find-the-peaks": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 85.877058,
+            "runtime_sum": 3530.685201000001,
+            "memory": 11.708,
+            "integral_max": 613.4159999999999,
+            "integral_sum": 26876.333999999995
+        }
+    },
+    "leetcode_3223_count-complete-substrings": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 69.938104,
+            "runtime_sum": 3239.5945910000005,
+            "memory": 11.776,
+            "integral_max": 706.767,
+            "integral_sum": 26033.324999999997
+        }
+    },
+    "leetcode_3224_count-the-number-of-infection-sequences": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 121.954323,
+            "runtime_sum": 4202.011339999999,
+            "memory": 24.936,
+            "integral_max": 1856.28,
+            "integral_sum": 37227.885999999984
+        }
+    },
+    "leetcode_3225_length-of-longest-subarray-with-at-most-k-frequency": {
+        "python3": null
+    },
+    "leetcode_3226_minimum-number-game": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 90.357431,
+            "runtime_sum": 3473.603263000001,
+            "memory": 11.7,
+            "integral_max": 838.393,
+            "integral_sum": 26203.105999999996
+        }
+    },
+    "leetcode_3227_find-missing-and-repeated-values": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 84.489526,
+            "runtime_sum": 3514.3825649999994,
+            "memory": 11.724,
+            "integral_max": 685.496,
+            "integral_sum": 26927.754000000004
+        }
+    },
+    "leetcode_3228_maximum-size-of-a-set-after-removals": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 85.066777,
+            "runtime_sum": 3685.305525000001,
+            "memory": 15.708,
+            "integral_max": 769.995,
+            "integral_sum": 29942.569000000003
+        }
+    },
+    "leetcode_3229_minimum-cost-to-make-array-equalindromic": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 82.41093,
+            "runtime_sum": 3427.833413000001,
+            "memory": 11.784,
+            "integral_max": 794.142,
+            "integral_sum": 26257.86499999999
+        }
+    },
+    "leetcode_3230_remove-adjacent-almost-equal-characters": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 67.85749,
+            "runtime_sum": 2881.8320769999987,
+            "memory": 11.664,
+            "integral_max": 665.9920000000001,
+            "integral_sum": 25104.113000000005
+        }
+    },
+    "leetcode_3231_minimum-number-of-coins-to-be-added": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 82.456889,
+            "runtime_sum": 3477.495871,
+            "memory": 11.712,
+            "integral_max": 788.1270000000001,
+            "integral_sum": 26798.754100000006
+        }
+    },
+    "leetcode_3233_maximize-the-number-of-partitions-after-operations": {
+        "python3": null
+    },
+    "leetcode_3234_double-modular-exponentiation": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.0125,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3235_minimum-cost-to-convert-string-i": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 66.957498,
+            "runtime_sum": 3032.272278000001,
+            "memory": 12.024,
+            "integral_max": 684.314,
+            "integral_sum": 26776.315
+        }
+    },
+    "leetcode_3236_smallest-missing-integer-greater-than-sequential-prefix-sum": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.9875,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3238_minimum-cost-to-convert-string-ii": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.9375,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3239_minimum-number-of-operations-to-make-x-and-y-equal": {
+        "python3": null
+    },
+    "leetcode_3240_maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k": {
+        "python3": null
+    },
+    "leetcode_3241_divide-array-into-arrays-with-max-difference": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 91.840625,
+            "runtime_sum": 3531.737147000001,
+            "memory": 11.736,
+            "integral_max": 666.234,
+            "integral_sum": 26432.942000000003
+        }
+    },
+    "leetcode_3242_count-elements-with-maximum-frequency": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 71.581212,
+            "runtime_sum": 3411.256091000001,
+            "memory": 11.708,
+            "integral_max": 627.3760000000001,
+            "integral_sum": 26033.846
+        }
+    },
+    "leetcode_3243_count-the-number-of-powerful-integers": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.925,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3244_minimize-length-of-array-using-operations": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 82.819204,
+            "runtime_sum": 3384.9725969999995,
+            "memory": 11.696,
+            "integral_max": 743.031,
+            "integral_sum": 26154.871
+        }
+    },
+    "leetcode_3245_find-beautiful-indices-in-the-given-array-i": {
+        "python3": null
+    },
+    "leetcode_3246_check-if-bitwise-or-has-trailing-zeros": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 69.301292,
+            "runtime_sum": 3449.816671000001,
+            "memory": 11.588,
+            "integral_max": 586.005,
+            "integral_sum": 25561.593
+        }
+    },
+    "leetcode_3248_count-the-number-of-incremovable-subarrays-ii": {
+        "python3": null
+    },
+    "leetcode_3250_maximum-square-area-by-removing-fences-from-a-field": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 108.653916,
+            "runtime_sum": 4023.8264559999993,
+            "memory": 29.072,
+            "integral_max": 1293.19,
+            "integral_sum": 33890.62899999999
+        }
+    },
+    "leetcode_3252_count-the-number-of-incremovable-subarrays-i": {
+        "python3": null
+    },
+    "leetcode_3262_find-polygon-with-the-largest-perimeter": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 80.169218,
+            "runtime_sum": 3387.5959709999993,
+            "memory": 11.712,
+            "integral_max": 739.032,
+            "integral_sum": 27208.760100000003
+        }
+    },
+    "leetcode_3263_divide-an-array-into-subarrays-with-minimum-cost-i": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 85.501334,
+            "runtime_sum": 3301.8356269999995,
+            "memory": 11.708,
+            "integral_max": 539.493,
+            "integral_sum": 24699.307000000004
+        }
+    },
+    "leetcode_3264_maximum-points-after-enemy-battles": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 73.443174,
+            "runtime_sum": 3391.8925660000004,
+            "memory": 11.752,
+            "integral_max": 732.45,
+            "integral_sum": 27330.813999999995
+        }
+    },
+    "leetcode_3265_maximum-good-subarray-sum": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 89.799309,
+            "runtime_sum": 3517.7244090000004,
+            "memory": 11.732,
+            "integral_max": 847.2800000000001,
+            "integral_sum": 26532.26599999999
+        }
+    },
+    "leetcode_3266_find-longest-special-substring-that-occurs-thrice-ii": {
+        "python3": null
+    },
+    "leetcode_3267_find-longest-special-substring-that-occurs-thrice-i": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 80.264769,
+            "runtime_sum": 3521.355269000001,
+            "memory": 11.704,
+            "integral_max": 691.592,
+            "integral_sum": 27346.711
+        }
+    },
+    "leetcode_3269_number-of-subarrays-that-match-a-pattern-i": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 67.152927,
+            "runtime_sum": 3625.46664,
+            "memory": 11.736,
+            "integral_max": 639.4250000000001,
+            "integral_sum": 27568.747999999996
+        }
+    },
+    "leetcode_3270_minimum-moves-to-capture-the-queen": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 75.040576,
+            "runtime_sum": 3547.6086370000003,
+            "memory": 11.772,
+            "integral_max": 631.155,
+            "integral_sum": 26208.377999999997
+        }
+    },
+    "leetcode_3271_count-the-number-of-houses-at-a-certain-distance-i": {
+        "python3": null
+    },
+    "leetcode_3275_minimum-number-of-pushes-to-type-word-i": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 79.724104,
+            "runtime_sum": 3529.414973000001,
+            "memory": 11.684,
+            "integral_max": 636.107,
+            "integral_sum": 26552.83
+        }
+    },
+    "leetcode_3276_minimum-number-of-pushes-to-type-word-ii": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 91.892744,
+            "runtime_sum": 3535.7298619999992,
+            "memory": 11.84,
+            "integral_max": 778.325,
+            "integral_sum": 27474.292999999998
+        }
+    },
+    "leetcode_3277_find-the-number-of-ways-to-place-people-ii": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 80.658136,
+            "runtime_sum": 3390.300843,
+            "memory": 11.752,
+            "integral_max": 716.799,
+            "integral_sum": 25793.19899999999
+        }
+    },
+    "leetcode_3278_find-the-number-of-ways-to-place-people-i": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 106.558388,
+            "runtime_sum": 3589.220692000001,
+            "memory": 11.744,
+            "integral_max": 988.865,
+            "integral_sum": 27069.733000000015
+        }
+    },
+    "leetcode_3279_alice-and-bob-playing-flower-game": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.4625,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3289_earliest-second-to-mark-indices-ii": {
+        "python3": null
+    },
+    "leetcode_3291_find-if-array-can-be-sorted": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 86.255089,
+            "runtime_sum": 2812.328642,
+            "memory": 11.78,
+            "integral_max": 888.2600000000001,
+            "integral_sum": 24878.577
+        }
+    },
+    "leetcode_3292_earliest-second-to-mark-indices-i": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.5625,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3296_minimum-time-to-revert-word-to-initial-state-ii": {
+        "python3": null
+    },
+    "leetcode_3297_minimum-time-to-revert-word-to-initial-state-i": {
+        "python3": null
+    },
+    "leetcode_3298_maximize-consecutive-elements-in-an-array-after-modification": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.7375,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3303_find-beautiful-indices-in-the-given-array-ii": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 83.746999,
+            "runtime_sum": 3705.650095,
+            "memory": 11.788,
+            "integral_max": 759.899,
+            "integral_sum": 28868.752999999993
+        }
+    },
+    "leetcode_3305_count-prefix-and-suffix-pairs-ii": {
+        "python3": null
+    },
+    "leetcode_3306_mark-elements-on-array-by-performing-queries": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 97.756978,
+            "runtime_sum": 3712.924738,
+            "memory": 11.756,
+            "integral_max": 749.88,
+            "integral_sum": 27637.92400000001
+        }
+    },
+    "leetcode_3308_apply-operations-to-make-string-empty": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 99.243468,
+            "runtime_sum": 3688.819697,
+            "memory": 11.7,
+            "integral_max": 765.573,
+            "integral_sum": 27908.364000000005
+        }
+    },
+    "leetcode_3309_count-prefix-and-suffix-pairs-i": {
+        "python3": null
+    },
+    "leetcode_3310_count-the-number-of-houses-at-a-certain-distance-ii": {
+        "python3": null
+    },
+    "leetcode_3311_ant-on-the-boundary": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.1,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3312_number-of-changing-keys": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 95.152906,
+            "runtime_sum": 3449.524023,
+            "memory": 11.592,
+            "integral_max": 865.681,
+            "integral_sum": 26210.25000000001
+        }
+    },
+    "leetcode_3313_maximum-strength-of-k-disjoint-subarrays": {
+        "python3": null
+    },
+    "leetcode_3314_most-frequent-prime": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 84.676798,
+            "runtime_sum": 3633.449333999999,
+            "memory": 11.816,
+            "integral_max": 646.738,
+            "integral_sum": 27471.933999999994
+        }
+    },
+    "leetcode_3316_find-the-sum-of-subsequence-powers": {
+        "python3": null
+    },
+    "leetcode_3317_maximum-palindromes-after-operations": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.875,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3318_maximum-number-of-operations-with-the-same-score-ii": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 114.853152,
+            "runtime_sum": 3605.573655,
+            "memory": 11.8,
+            "integral_max": 896.203,
+            "integral_sum": 27989.59000000001
+        }
+    },
+    "leetcode_3320_maximum-number-of-operations-with-the-same-score-i": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 101.665955,
+            "runtime_sum": 3402.9463279999995,
+            "memory": 11.692,
+            "integral_max": 877.577,
+            "integral_sum": 26240.806000000004
+        }
+    },
+    "leetcode_3321_type-of-triangle": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 72.146755,
+            "runtime_sum": 3505.035909,
+            "memory": 11.7,
+            "integral_max": 675.9810000000001,
+            "integral_sum": 27510.587
+        }
+    },
+    "leetcode_3324_split-the-array": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 78.7586,
+            "runtime_sum": 3551.783133999999,
+            "memory": 11.704,
+            "integral_max": 794.004,
+            "integral_sum": 27823.093999999997
+        }
+    },
+    "leetcode_3325_find-the-largest-area-of-square-inside-two-rectangles": {
+        "python3": null
+    },
+    "leetcode_3326_count-pairs-of-connectable-servers-in-a-weighted-tree-network": {
+        "python3": null
+    },
+    "leetcode_3327_minimum-moves-to-pick-k-ones": {
+        "python3": null
+    },
+    "leetcode_3328_apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k": {
+        "python3": null
+    },
+    "leetcode_3330_modify-the-matrix": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 84.5152,
+            "runtime_sum": 3727.2786329999994,
+            "memory": 11.728,
+            "integral_max": 810.697,
+            "integral_sum": 29295.807000000008
+        }
+    },
+    "leetcode_3331_minimum-operations-to-exceed-threshold-value-i": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 93.651562,
+            "runtime_sum": 3521.9112950000017,
+            "memory": 11.696,
+            "integral_max": 762.5189999999999,
+            "integral_sum": 26873.775999999998
+        }
+    },
+    "leetcode_3334_apple-redistribution-into-boxes": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 69.957569,
+            "runtime_sum": 3307.8093279999994,
+            "memory": 11.72,
+            "integral_max": 701.407,
+            "integral_sum": 29030.742
+        }
+    },
+    "leetcode_3335_minimum-operations-to-write-the-letter-y-on-a-grid": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 77.281334,
+            "runtime_sum": 3663.7821320000007,
+            "memory": 11.82,
+            "integral_max": 737.171,
+            "integral_sum": 28968.715999999997
+        }
+    },
+    "leetcode_3336_water-bottles-ii": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 85.457275,
+            "runtime_sum": 3512.3199999999997,
+            "memory": 11.712,
+            "integral_max": 788.5219999999999,
+            "integral_sum": 26985.811999999994
+        }
+    },
+    "leetcode_3337_count-substrings-starting-and-ending-with-given-character": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 75.355695,
+            "runtime_sum": 3545.704088,
+            "memory": 11.944,
+            "integral_max": 624.852,
+            "integral_sum": 27196.237999999983
+        }
+    },
+    "leetcode_3338_count-submatrices-with-top-left-element-and-sum-less-than-k": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.35,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3344_minimize-manhattan-distances": {
+        "python3": null
+    },
+    "leetcode_3345_find-the-sum-of-the-power-of-all-subsequences": {
+        "python3": null
+    },
+    "leetcode_3346_lexicographically-smallest-string-after-operations-with-constraint": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 74.285862,
+            "runtime_sum": 3453.5650859999996,
+            "memory": 11.72,
+            "integral_max": 640.783,
+            "integral_sum": 27259.371999999996
+        }
+    },
+    "leetcode_3347_distribute-elements-into-two-arrays-i": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 78.368709,
+            "runtime_sum": 3565.451996,
+            "memory": 11.708,
+            "integral_max": 713.602,
+            "integral_sum": 27303.495
+        }
+    },
+    "leetcode_3348_minimum-cost-walk-in-weighted-graph": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 83.955688,
+            "runtime_sum": 3391.557869000002,
+            "memory": 11.792,
+            "integral_max": 858.487,
+            "integral_sum": 26779.846000000005
+        }
+    },
+    "leetcode_3349_maximum-length-substring-with-two-occurrences": {
+        "python3": null
+    },
+    "leetcode_3350_distribute-elements-into-two-arrays-ii": {
+        "python3": null
+    },
+    "leetcode_3353_existence-of-a-substring-in-a-string-and-its-reverse": {
+        "python3": null
+    },
+    "leetcode_3354_replace-question-marks-in-string-to-minimize-its-value": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.9625,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3355_minimum-levels-to-gain-more-points": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 68.356124,
+            "runtime_sum": 3245.250275,
+            "memory": 13.648,
+            "integral_max": 738.58,
+            "integral_sum": 28930.341999999997
+        }
+    },
+    "leetcode_3356_shortest-uncommon-substring-in-an-array": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 75.657776,
+            "runtime_sum": 3727.0984330000006,
+            "memory": 14.104,
+            "integral_max": 703.177,
+            "integral_sum": 30644.26899999999
+        }
+    },
+    "leetcode_3360_minimum-deletions-to-make-string-k-special": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 78.65728,
+            "runtime_sum": 3515.2910929999994,
+            "memory": 11.74,
+            "integral_max": 672.427,
+            "integral_sum": 26227.959000000006
+        }
+    },
+    "leetcode_3361_latest-time-you-can-obtain-after-replacing-characters": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 84.856612,
+            "runtime_sum": 3504.3223170000006,
+            "memory": 11.616,
+            "integral_max": 737.7249999999999,
+            "integral_sum": 27395.805000000004
+        }
+    },
+    "leetcode_3362_find-the-median-of-the-uniqueness-array": {
+        "python3": null
+    },
+    "leetcode_3363_most-frequent-ids": {
+        "python3": null
+    },
+    "leetcode_3364_minimum-sum-of-values-by-dividing-array": {
+        "python3": null
+    },
+    "leetcode_3367_find-the-sum-of-encrypted-integers": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 82.262009,
+            "runtime_sum": 3456.587290000001,
+            "memory": 11.716,
+            "integral_max": 773.082,
+            "integral_sum": 27002.423
+        }
+    },
+    "leetcode_3371_harshad-number": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 77.656556,
+            "runtime_sum": 3601.02057,
+            "memory": 11.696,
+            "integral_max": 683.372,
+            "integral_sum": 27612.293999999994
+        }
+    },
+    "leetcode_3372_longest-strictly-increasing-or-strictly-decreasing-subarray": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 77.556364,
+            "runtime_sum": 3560.3954310000013,
+            "memory": 11.712,
+            "integral_max": 674.948,
+            "integral_sum": 26598.406999999992
+        }
+    },
+    "leetcode_3373_maximum-prime-difference": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 112.553674,
+            "runtime_sum": 3698.120385999999,
+            "memory": 28.252,
+            "integral_max": 1673.88,
+            "integral_sum": 30666.46300000001
+        }
+    },
+    "leetcode_3374_count-alternating-subarrays": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 86.285602,
+            "runtime_sum": 3589.8579080000013,
+            "memory": 13.22,
+            "integral_max": 738.8639999999999,
+            "integral_sum": 28312.59900000001
+        }
+    },
+    "leetcode_3375_kth-smallest-amount-with-single-denomination-combination": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.3625,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3376_longest-common-suffix-queries": {
+        "python3": null
+    },
+    "leetcode_3379_score-of-a-string": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 68.098315,
+            "runtime_sum": 3136.2696220000003,
+            "memory": 11.688,
+            "integral_max": 689.648,
+            "integral_sum": 26940.521999999994
+        }
+    },
+    "leetcode_3380_shortest-subarray-with-or-at-least-k-ii": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 71.857953,
+            "runtime_sum": 3305.219775999999,
+            "memory": 11.724,
+            "integral_max": 708.087,
+            "integral_sum": 27073.848999999995
+        }
+    },
+    "leetcode_3381_shortest-subarray-with-or-at-least-k-i": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 38.152878,
+            "runtime_sum": 2651.0209459999996,
+            "memory": 11.76,
+            "integral_max": 319.90000000000003,
+            "integral_sum": 22805.916
+        }
+    },
+    "leetcode_3382_find-the-number-of-subarrays-where-boundary-elements-are-maximum": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 77.595599,
+            "runtime_sum": 3524.2255699999987,
+            "memory": 11.708,
+            "integral_max": 681.126,
+            "integral_sum": 27272.817999999996
+        }
+    },
+    "leetcode_3383_taking-maximum-energy-from-the-mystic-dungeon": {
+        "python3": null
+    },
+    "leetcode_3384_minimum-number-of-operations-to-make-word-k-periodic": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 68.395205,
+            "runtime_sum": 3375.8832329999996,
+            "memory": 11.692,
+            "integral_max": 566.233,
+            "integral_sum": 25659.297
+        }
+    },
+    "leetcode_3387_minimum-operations-to-make-median-of-array-equal-to-k": {
+        "python3": null
+    },
+    "leetcode_3388_right-triangles": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 71.55639,
+            "runtime_sum": 3252.782886,
+            "memory": 11.736,
+            "integral_max": 714.0640000000001,
+            "integral_sum": 28370.926999999996
+        }
+    },
+    "leetcode_3389_minimum-time-to-visit-disappearing-nodes": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 96.387288,
+            "runtime_sum": 3516.3204230000006,
+            "memory": 11.776,
+            "integral_max": 648.162,
+            "integral_sum": 26363.417000000005
+        }
+    },
+    "leetcode_3390_minimum-rectangles-to-cover-points": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 96.250078,
+            "runtime_sum": 3629.7543690000007,
+            "memory": 11.72,
+            "integral_max": 792.263,
+            "integral_sum": 28735.17300000001
+        }
+    },
+    "leetcode_3391_maximum-difference-score-in-a-grid": {
+        "python3": null
+    },
+    "leetcode_3394_minimum-array-end": {
+        "python3": null
+    },
+    "leetcode_3395_minimum-length-of-anagram-concatenation": {
+        "python3": null
+    },
+    "leetcode_3397_find-the-integer-added-to-array-i": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.4875,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3398_make-a-square-with-the-same-color": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 71.645393,
+            "runtime_sum": 3554.492180999999,
+            "memory": 11.736,
+            "integral_max": 671.551,
+            "integral_sum": 27629.243999999995
+        }
+    },
+    "leetcode_3399_find-the-integer-added-to-array-ii": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.025,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3402_minimum-cost-to-equalize-array": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.975,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3404_minimum-number-of-operations-to-satisfy-conditions": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 81.336787,
+            "runtime_sum": 3534.060958000002,
+            "memory": 11.788,
+            "integral_max": 641.0649999999999,
+            "integral_sum": 26508.795000000006
+        }
+    },
+    "leetcode_3405_count-the-number-of-special-characters-ii": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.1625,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3406_find-all-possible-stable-binary-arrays-i": {
+        "python3": null
+    },
+    "leetcode_3407_find-all-possible-stable-binary-arrays-ii": {
+        "python3": null
+    },
+    "leetcode_3408_count-the-number-of-special-characters-i": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 78.957454,
+            "runtime_sum": 3441.083378,
+            "memory": 11.6,
+            "integral_max": 792.107,
+            "integral_sum": 25843.683000000008
+        }
+    },
+    "leetcode_3411_find-products-of-elements-of-big-array": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.025,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3412_permutation-difference-between-two-strings": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.0125,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3413_find-the-first-player-to-win-k-games-in-a-row": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 97.569493,
+            "runtime_sum": 3701.537786,
+            "memory": 24.648,
+            "integral_max": 1499.64,
+            "integral_sum": 31647.972000000005
+        }
+    },
+    "leetcode_3414_find-number-of-ways-to-reach-the-k-th-stair": {
+        "python3": null
+    },
+    "leetcode_3415_check-if-grid-satisfies-conditions": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 76.755989,
+            "runtime_sum": 3369.7844519999994,
+            "memory": 11.724,
+            "integral_max": 732.9440000000001,
+            "integral_sum": 26419.066999999992
+        }
+    },
+    "leetcode_3416_sum-of-digit-differences-of-all-pairs": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 91.261573,
+            "runtime_sum": 3486.135055999999,
+            "memory": 11.708,
+            "integral_max": 868.0759999999999,
+            "integral_sum": 27626.507000000005
+        }
+    },
+    "leetcode_3418_count-pairs-that-form-a-complete-day-ii": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 76.855907,
+            "runtime_sum": 3440.601749,
+            "memory": 11.7,
+            "integral_max": 751.0329999999999,
+            "integral_sum": 26671.879999999997
+        }
+    },
+    "leetcode_3420_find-occurrences-of-an-element-in-an-array": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 82.361663,
+            "runtime_sum": 3442.5344690000015,
+            "memory": 11.752,
+            "integral_max": 827.549,
+            "integral_sum": 27020.68
+        }
+    },
+    "leetcode_3421_count-pairs-that-form-a-complete-day-i": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 114.506504,
+            "runtime_sum": 3640.0258230000013,
+            "memory": 11.704,
+            "integral_max": 882.006,
+            "integral_sum": 27496.216999999993
+        }
+    },
+    "leetcode_3422_find-the-n-th-value-after-k-seconds": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 128.952369,
+            "runtime_sum": 4482.969337000001,
+            "memory": 11.696,
+            "integral_max": 1372.0900000000001,
+            "integral_sum": 43965.878
+        }
+    },
+    "leetcode_3423_maximum-sum-of-subsequence-with-non-adjacent-elements": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 81.471516,
+            "runtime_sum": 3544.062882999999,
+            "memory": 11.74,
+            "integral_max": 707.947,
+            "integral_sum": 27761.019999999993
+        }
+    },
+    "leetcode_3426_minimum-number-of-chairs-in-a-waiting-room": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3427_special-array-ii": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 68.840132,
+            "runtime_sum": 3459.4030229999994,
+            "memory": 11.772,
+            "integral_max": 565.0509999999999,
+            "integral_sum": 26389.735999999997
+        }
+    },
+    "leetcode_3428_find-the-xor-of-numbers-which-appear-twice": {
+        "python3": null
+    },
+    "leetcode_3429_special-array-i": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 78.833735,
+            "runtime_sum": 3437.268522000001,
+            "memory": 11.704,
+            "integral_max": 594.746,
+            "integral_sum": 25557.907999999992
+        }
+    },
+    "leetcode_3430_count-days-without-meetings": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 68.554034,
+            "runtime_sum": 3436.9020149999997,
+            "memory": 11.728,
+            "integral_max": 601.928,
+            "integral_sum": 26721.089999999997
+        }
+    },
+    "leetcode_3431_find-the-minimum-cost-array-permutation": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 72.659787,
+            "runtime_sum": 3546.0211950000003,
+            "memory": 11.792,
+            "integral_max": 730.666,
+            "integral_sum": 28551.057
+        }
+    },
+    "leetcode_3434_find-the-number-of-distinct-colors-among-the-balls": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 86.22624,
+            "runtime_sum": 3554.6199420000003,
+            "memory": 11.748,
+            "integral_max": 789.1590000000001,
+            "integral_sum": 28154.862
+        }
+    },
+    "leetcode_3435_block-placement-queries": {
+        "python3": null
+    },
+    "leetcode_3436_find-subarray-with-bitwise-or-closest-to-k": {
+        "python3": null
+    },
+    "leetcode_3437_maximum-total-damage-with-spell-casting": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 74.858903,
+            "runtime_sum": 3461.283311000003,
+            "memory": 11.752,
+            "integral_max": 753.78,
+            "integral_sum": 26034.650500000003
+        }
+    },
+    "leetcode_3442_maximum-total-reward-using-operations-i": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.175,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3443_maximum-total-reward-using-operations-ii": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.025,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3444_find-the-number-of-good-pairs-ii": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 72.359326,
+            "runtime_sum": 3396.816059999999,
+            "memory": 11.74,
+            "integral_max": 721.828,
+            "integral_sum": 26514.681999999993
+        }
+    },
+    "leetcode_3445_lexicographically-minimum-string-after-removing-stars": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.85,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3446_find-the-number-of-good-pairs-i": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 68.457251,
+            "runtime_sum": 2860.052935,
+            "memory": 11.724,
+            "integral_max": 685.643,
+            "integral_sum": 24854.388000000003
+        }
+    },
+    "leetcode_3447_clear-digits": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 68.156807,
+            "runtime_sum": 3390.8429319999987,
+            "memory": 11.58,
+            "integral_max": 645.683,
+            "integral_sum": 26117.512000000013
+        }
+    },
+    "leetcode_3450_find-the-child-who-has-the-ball-after-k-seconds": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 71.356109,
+            "runtime_sum": 3049.1743409999995,
+            "memory": 11.696,
+            "integral_max": 714.5200000000001,
+            "integral_sum": 26614.861999999997
+        }
+    },
+    "leetcode_3451_string-compression-iii": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3452_find-the-maximum-length-of-a-good-subsequence-ii": {
+        "python3": null
+    },
+    "leetcode_3453_generate-binary-strings-without-adjacent-zeros": {
+        "python3": null
+    },
+    "leetcode_3454_minimum-operations-to-make-array-equal-to-target": {
+        "python3": null
+    },
+    "leetcode_3455_minimum-length-of-string-after-operations": {
+        "python3": null
+    },
+    "leetcode_3456_find-the-maximum-length-of-a-good-subsequence-i": {
+        "python3": null
+    },
+    "leetcode_3460_count-the-number-of-inversions": {
+        "python3": null
+    },
+    "leetcode_3461_find-the-minimum-area-to-cover-all-ones-i": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 77.258961,
+            "runtime_sum": 3602.3921660000015,
+            "memory": 11.812,
+            "integral_max": 749.922,
+            "integral_sum": 28701.93499999999
+        }
+    },
+    "leetcode_3462_vowels-game-in-a-string": {
+        "python3": null
+    },
+    "leetcode_3463_alternating-groups-i": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 77.537451,
+            "runtime_sum": 3664.181465000001,
+            "memory": 11.696,
+            "integral_max": 634.6899999999999,
+            "integral_sum": 27508.546000000002
+        }
+    },
+    "leetcode_3464_maximize-total-cost-of-alternating-subarrays": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 61.356377,
+            "runtime_sum": 2800.548741,
+            "memory": 11.7,
+            "integral_max": 608.052,
+            "integral_sum": 24223.25099999999
+        }
+    },
+    "leetcode_3466_number-of-subarrays-with-and-value-of-k": {
+        "python3": null
+    },
+    "leetcode_3468_find-the-encrypted-string": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 74.156615,
+            "runtime_sum": 3324.5768970000004,
+            "memory": 11.612,
+            "integral_max": 733.7810000000001,
+            "integral_sum": 27532.09899999999
+        }
+    },
+    "leetcode_3469_maximum-height-of-a-triangle": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 133.065778,
+            "runtime_sum": 4781.273732000002,
+            "memory": 12.832,
+            "integral_max": 1483.7,
+            "integral_sum": 44173.24400000003
+        }
+    },
+    "leetcode_3470_maximum-score-from-grid-operations": {
+        "python3": null
+    },
+    "leetcode_3471_minimum-average-of-smallest-and-largest-elements": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 75.456027,
+            "runtime_sum": 3242.381318999999,
+            "memory": 11.708,
+            "integral_max": 772.1,
+            "integral_sum": 27245.524000000005
+        }
+    },
+    "leetcode_3475_minimum-operations-to-make-binary-array-elements-equal-to-one-i": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.5875,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3476_find-minimum-operations-to-make-all-elements-divisible-by-three": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 130.283628,
+            "runtime_sum": 3523.011869,
+            "memory": 11.684,
+            "integral_max": 1091.01,
+            "integral_sum": 27502.223000000013
+        }
+    },
+    "leetcode_3477_minimum-operations-to-make-binary-array-elements-equal-to-one-ii": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3479_count-the-number-of-substrings-with-dominant-ones": {
+        "python3": null
+    },
+    "leetcode_3483_alternating-groups-ii": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.5375,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3484_lexicographically-smallest-string-after-a-swap": {
+        "python3": null
+    },
+    "leetcode_3485_maximize-score-of-numbers-in-ranges": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 94.174354,
+            "runtime_sum": 3544.480549,
+            "memory": 11.816,
+            "integral_max": 731.9879999999999,
+            "integral_sum": 27730.810000000012
+        }
+    },
+    "leetcode_3490_find-the-maximum-length-of-valid-subsequence-i": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.4125,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3491_find-the-maximum-length-of-valid-subsequence-ii": {
+        "python3": null
+    },
+    "leetcode_3492_count-submatrices-with-equal-frequency-of-x-and-y": {
+        "python3": null
+    },
+    "leetcode_3493_maximum-number-of-operations-to-move-ones-to-the-end": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.1,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3494_minimum-cost-for-cutting-cake-i": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 79.56704,
+            "runtime_sum": 3451.846951,
+            "memory": 11.74,
+            "integral_max": 803.945,
+            "integral_sum": 27571.893999999997
+        }
+    },
+    "leetcode_3495_k-th-nearest-obstacle-queries": {
+        "python3": null
+    },
+    "leetcode_3496_minimum-number-of-seconds-to-make-mountain-height-zero": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 75.456217,
+            "runtime_sum": 3301.369095,
+            "memory": 11.748,
+            "integral_max": 751.405,
+            "integral_sum": 28199.73700000001
+        }
+    },
+    "leetcode_3498_minimum-array-changes-to-make-differences-equal": {
+        "python3": null
+    },
+    "leetcode_3500_minimum-cost-for-cutting-cake-ii": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.0125,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3502_count-substrings-with-k-frequency-characters-i": {
+        "python3": null
+    },
+    "leetcode_3507_find-the-count-of-numbers-which-are-not-special": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 91.555054,
+            "runtime_sum": 3831.8108140000004,
+            "memory": 11.988,
+            "integral_max": 813.663,
+            "integral_sum": 30372.81900000001
+        }
+    },
+    "leetcode_3508_number-of-bit-changes-to-make-two-integers-equal": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 73.763217,
+            "runtime_sum": 3401.7055929999988,
+            "memory": 11.696,
+            "integral_max": 726.869,
+            "integral_sum": 25195.539
+        }
+    },
+    "leetcode_3509_k-th-largest-perfect-subtree-size-in-binary-tree": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3510_maximize-the-total-height-of-unique-towers": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 67.156349,
+            "runtime_sum": 2926.051005000001,
+            "memory": 11.712,
+            "integral_max": 674.924,
+            "integral_sum": 25127.067999999992
+        }
+    },
+    "leetcode_3511_find-the-winning-player-in-coin-game": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 77.924874,
+            "runtime_sum": 3442.2222380000003,
+            "memory": 11.692,
+            "integral_max": 763.9789999999999,
+            "integral_sum": 27305.720000000005
+        }
+    },
+    "leetcode_3514_shortest-distance-after-road-addition-queries-ii": {
+        "python3": null
+    },
+    "leetcode_3515_find-if-digit-game-can-be-won": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 38.3533,
+            "runtime_sum": 2617.123791,
+            "memory": 11.596,
+            "integral_max": 302.426,
+            "integral_sum": 22393.109
+        }
+    },
+    "leetcode_3516_design-neighbor-sum-service": {
+        "python3": null
+    },
+    "leetcode_3517_shortest-distance-after-road-addition-queries-i": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 114.058963,
+            "runtime_sum": 3500.579761,
+            "memory": 11.756,
+            "integral_max": 962.806,
+            "integral_sum": 27119.308199999996
+        }
+    },
+    "leetcode_3518_maximum-multiplication-score": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 81.581227,
+            "runtime_sum": 3436.8303,
+            "memory": 11.74,
+            "integral_max": 719.187,
+            "integral_sum": 26845.843
+        }
+    },
+    "leetcode_3519_find-the-number-of-winning-players": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3522_find-the-power-of-k-size-subarrays-i": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.725,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3523_find-the-power-of-k-size-subarrays-ii": {
+        "python3": null
+    },
+    "leetcode_3524_minimum-number-of-flips-to-make-binary-grid-palindromic-ii": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.85,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3525_maximum-energy-boost-from-two-drinks": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.1,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3527_alternating-groups-iii": {
+        "python3": null
+    },
+    "leetcode_3528_reach-end-of-array-with-max-score": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 104.254874,
+            "runtime_sum": 3732.4610650000004,
+            "memory": 24.064,
+            "integral_max": 1447.44,
+            "integral_sum": 31922.510000000002
+        }
+    },
+    "leetcode_3531_minimum-amount-of-damage-dealt-to-bob": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.525,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3532_time-taken-to-mark-all-nodes": {
+        "python3": null
+    },
+    "leetcode_3533_snake-in-matrix": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 71.82204,
+            "runtime_sum": 3401.8124649999986,
+            "memory": 11.728,
+            "integral_max": 601.3439999999999,
+            "integral_sum": 26723.32000000001
+        }
+    },
+    "leetcode_3534_count-almost-equal-pairs-i": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.9875,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3535_find-the-count-of-monotonic-pairs-i": {
+        "python3": null
+    },
+    "leetcode_3536_find-the-count-of-monotonic-pairs-ii": {
+        "python3": null
+    },
+    "leetcode_3540_hash-divided-string": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 80.448353,
+            "runtime_sum": 3274.803572,
+            "memory": 11.724,
+            "integral_max": 802.2850000000001,
+            "integral_sum": 26452.332000000002
+        }
+    },
+    "leetcode_3541_report-spam-message": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 66.857348,
+            "runtime_sum": 3205.6751039999995,
+            "memory": 11.708,
+            "integral_max": 668.283,
+            "integral_sum": 25120.385999999995
+        }
+    },
+    "leetcode_3542_maximum-value-sum-by-placing-three-rooks-ii": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3543_count-substrings-that-satisfy-k-constraint-i": {
+        "python3": null
+    },
+    "leetcode_3548_find-the-count-of-good-integers": {
+        "python3": null
+    },
+    "leetcode_3550_maximum-value-sum-by-placing-three-rooks-i": {
+        "python3": null
+    },
+    "leetcode_3552_find-the-largest-palindrome-divisible-by-k": {
+        "python3": null
+    },
+    "leetcode_3553_check-if-two-chessboard-squares-have-the-same-color": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 88.958798,
+            "runtime_sum": 3483.508585999999,
+            "memory": 11.696,
+            "integral_max": 777.3149999999999,
+            "integral_sum": 27070.182000000004
+        }
+    },
+    "leetcode_3555_final-array-state-after-k-multiplication-operations-i": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 69.455829,
+            "runtime_sum": 3481.14354,
+            "memory": 11.728,
+            "integral_max": 667.9000000000001,
+            "integral_sum": 26473.484000000004
+        }
+    },
+    "leetcode_3557_minimum-number-of-valid-strings-to-form-target-ii": {
+        "python3": null
+    },
+    "leetcode_3558_find-a-safe-walk-through-a-grid": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.85,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3559_minimum-number-of-valid-strings-to-form-target-i": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 36.852037,
+            "runtime_sum": 2624.3461789999997,
+            "memory": 11.772,
+            "integral_max": 314.907,
+            "integral_sum": 22813.947000000004
+        }
+    },
+    "leetcode_3561_remove-methods-from-project": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.5625,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3562_maximum-score-of-non-overlapping-intervals": {
+        "python3": null
+    },
+    "leetcode_3563_select-cells-in-grid-with-maximum-score": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.8125,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3566_find-the-sequence-of-strings-appeared-on-the-screen": {
+        "python3": null
+    },
+    "leetcode_3567_convert-date-to-binary": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 95.037436,
+            "runtime_sum": 3407.1112519999997,
+            "memory": 11.728,
+            "integral_max": 855.249,
+            "integral_sum": 26314.101000000002
+        }
+    },
+    "leetcode_3568_find-the-key-of-the-numbers": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 74.357266,
+            "runtime_sum": 3360.6012789999995,
+            "memory": 11.716,
+            "integral_max": 735.458,
+            "integral_sum": 26730.268000000007
+        }
+    },
+    "leetcode_3569_count-of-substrings-containing-every-vowel-and-k-consonants-ii": {
+        "python3": null
+    },
+    "leetcode_3570_count-of-substrings-containing-every-vowel-and-k-consonants-i": {
+        "python3": null
+    },
+    "leetcode_3571_length-of-the-longest-increasing-path": {
+        "python3": null
+    },
+    "leetcode_3573_count-substrings-that-can-be-rearranged-to-contain-a-string-i": {
+        "python3": null
+    },
+    "leetcode_3576_find-subtree-sizes-after-changes": {
+        "python3": null
+    },
+    "leetcode_3579_maximum-possible-number-by-binary-concatenation": {
+        "python3": null
+    },
+    "leetcode_3580_find-the-occurrence-of-first-almost-equal-substring": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 92.360848,
+            "runtime_sum": 3544.413438,
+            "memory": 11.72,
+            "integral_max": 803.154,
+            "integral_sum": 28378.52500000001
+        }
+    },
+    "leetcode_3581_the-two-sneaky-numbers-of-digitville": {
+        "python3": null
+    },
+    "leetcode_3582_find-indices-of-stable-mountains": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 65.656875,
+            "runtime_sum": 3034.9682380000017,
+            "memory": 11.704,
+            "integral_max": 618.8240000000001,
+            "integral_sum": 26388.544000000005
+        }
+    },
+    "leetcode_3583_sorted-gcd-pair-queries": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 185.209453,
+            "runtime_sum": 11738.789097000003,
+            "memory": 21.68,
+            "integral_max": 2942.71,
+            "integral_sum": 186203.51000000004
+        }
+    },
+    "leetcode_3584_find-the-lexicographically-smallest-valid-sequence": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.7875,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3588_count-the-number-of-winning-sequences": {
+        "python3": null
+    },
+    "leetcode_3591_shift-distance-between-two-strings": {
+        "python3": null
+    },
+    "leetcode_3593_find-the-maximum-factor-score-of-array": {
+        "python3": null
+    },
+    "leetcode_3594_identify-the-largest-outlier-in-an-array": {
+        "python3": null
+    },
+    "leetcode_3595_rearrange-k-substrings-to-form-target-string": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 103.897913,
+            "runtime_sum": 3658.935925,
+            "memory": 11.736,
+            "integral_max": 765.0630000000001,
+            "integral_sum": 28211.471999999987
+        }
+    },
+    "leetcode_3600_find-the-k-th-character-in-string-game-i": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 81.559935,
+            "runtime_sum": 3638.8623589999997,
+            "memory": 11.592,
+            "integral_max": 728.611,
+            "integral_sum": 27688.631999999998
+        }
+    },
+    "leetcode_3601_find-the-k-th-character-in-string-game-ii": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 96.557397,
+            "runtime_sum": 3588.6103979999993,
+            "memory": 11.712,
+            "integral_max": 830.1129999999999,
+            "integral_sum": 26418.861400000016
+        }
+    },
+    "leetcode_3604_find-the-number-of-possible-ways-for-an-event": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 1084.551904,
+            "runtime_sum": 14990.638321999999,
+            "memory": 11.792,
+            "integral_max": 12658.0,
+            "integral_sum": 167046.56799999994
+        }
+    },
+    "leetcode_3605_construct-the-minimum-bitwise-array-i": {
+        "python3": null
+    },
+    "leetcode_3606_minimum-element-after-replacement-with-digit-sum": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 119.826945,
+            "runtime_sum": 3758.8602089999995,
+            "memory": 11.704,
+            "integral_max": 979.2180000000001,
+            "integral_sum": 28575.889
+        }
+    },
+    "leetcode_3607_minimum-division-operations-to-make-array-non-decreasing": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.7375,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3610_find-x-sum-of-all-k-long-subarrays-i": {
+        "python3": null
+    },
+    "leetcode_3611_construct-the-minimum-bitwise-array-ii": {
+        "python3": null
+    },
+    "leetcode_3612_adjacent-increasing-subarrays-detection-i": {
+        "python3": null
+    },
+    "leetcode_3613_maximize-amount-after-two-days-of-conversions": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.3625,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3616_make-array-elements-equal-to-zero": {
+        "python3": null
+    },
+    "leetcode_3617_find-the-original-typed-string-i": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.5125,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3618_find-the-original-typed-string-ii": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.4375,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3619_adjacent-increasing-subarrays-detection-ii": {
+        "python3": null
+    },
+    "leetcode_3620_maximum-number-of-distinct-elements-after-operations": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 115.560898,
+            "runtime_sum": 3592.0660629999993,
+            "memory": 11.748,
+            "integral_max": 984.135,
+            "integral_sum": 27387.759000000002
+        }
+    },
+    "leetcode_3621_minimum-operations-to-make-array-values-equal-to-k": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 89.492059,
+            "runtime_sum": 3490.5257459999993,
+            "memory": 11.7,
+            "integral_max": 719.27,
+            "integral_sum": 26695.737
+        }
+    },
+    "leetcode_3622_maximum-frequency-of-an-element-after-performing-operations-i": {
+        "python3": null
+    },
+    "leetcode_3625_stone-removal-game": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 68.357364,
+            "runtime_sum": 3118.6720729999993,
+            "memory": 11.7,
+            "integral_max": 673.461,
+            "integral_sum": 27593.708999999995
+        }
+    },
+    "leetcode_3626_smallest-divisible-digit-product-i": {
+        "python3": null
+    },
+    "leetcode_3627_find-minimum-time-to-reach-last-room-i": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 70.707022,
+            "runtime_sum": 3245.0454409999998,
+            "memory": 11.78,
+            "integral_max": 716.751,
+            "integral_sum": 27328.148999999994
+        }
+    },
+    "leetcode_3629_total-characters-in-string-after-transformations-i": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 75.945841,
+            "runtime_sum": 3509.9681690000025,
+            "memory": 11.724,
+            "integral_max": 731.1,
+            "integral_sum": 27781.751999999997
+        }
+    },
+    "leetcode_3630_total-characters-in-string-after-transformations-ii": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3631_count-k-reducible-numbers-less-than-n": {
+        "python3": null
+    },
+    "leetcode_3632_button-with-longest-push-time": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 81.186332,
+            "runtime_sum": 3474.1721929999994,
+            "memory": 11.728,
+            "integral_max": 733.1990000000001,
+            "integral_sum": 26869.970999999994
+        }
+    },
+    "leetcode_3633_maximize-the-number-of-target-nodes-after-connecting-trees-i": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.0,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3634_find-mirror-score-of-a-string": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 80.99151,
+            "runtime_sum": 3442.249775,
+            "memory": 11.656,
+            "integral_max": 558.798,
+            "integral_sum": 26181.675999999996
+        }
+    },
+    "leetcode_3636_check-balanced-string": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 81.056963,
+            "runtime_sum": 3597.3246390000013,
+            "memory": 11.68,
+            "integral_max": 819.422,
+            "integral_sum": 28668.12
+        }
+    },
+    "leetcode_3637_count-number-of-balanced-permutations": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 101.756203,
+            "runtime_sum": 3723.8775749999986,
+            "memory": 12.904,
+            "integral_max": 927.461,
+            "integral_sum": 30210.434
+        }
+    },
+    "leetcode_3639_zero-array-transformation-i": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 76.036262,
+            "runtime_sum": 3327.241523999999,
+            "memory": 11.744,
+            "integral_max": 740.3380000000001,
+            "integral_sum": 25988.94199999999
+        }
+    },
+    "leetcode_3640_maximum-frequency-of-an-element-after-performing-operations-ii": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.375,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3643_zero-array-transformation-ii": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 49.25581,
+            "runtime_sum": 2723.095985999999,
+            "memory": 11.78,
+            "integral_max": 453.974,
+            "integral_sum": 23614.544000000013
+        }
+    },
+    "leetcode_3644_minimum-positive-sum-subarray": {
+        "python3": null
+    },
+    "leetcode_3646_sum-of-good-subsequences": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 69.908537,
+            "runtime_sum": 3457.6897989999993,
+            "memory": 11.704,
+            "integral_max": 522.4250000000001,
+            "integral_sum": 26067.489
+        }
+    },
+    "leetcode_3647_zero-array-transformation-iii": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.975,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3648_find-the-maximum-number-of-fruits-collected": {
+        "python3": null
+    },
+    "leetcode_3649_minimum-time-to-break-locks-i": {
+        "python3": null
+    },
+    "leetcode_3651_transformed-array": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 89.856925,
+            "runtime_sum": 3421.307229000002,
+            "memory": 11.736,
+            "integral_max": 790.061,
+            "integral_sum": 25965.863
+        }
+    },
+    "leetcode_3653_maximum-subarray-sum-with-length-divisible-by-k": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 129.254552,
+            "runtime_sum": 3590.2298950000004,
+            "memory": 11.732,
+            "integral_max": 1218.57,
+            "integral_sum": 26831.226000000002
+        }
+    },
+    "leetcode_3654_minimum-array-sum": {
+        "python3": null
+    },
+    "leetcode_3656_minimum-number-of-operations-to-make-elements-in-array-distinct": {
+        "python3": null
+    },
+    "leetcode_3657_check-if-grid-can-be-cut-into-sections": {
+        "python3": null
+    },
+    "leetcode_3659_count-paths-with-the-given-xor-value": {
+        "python3": null
+    },
+    "leetcode_3675_maximize-sum-of-weights-after-edge-removals": {
+        "python3": null
+    },
+    "leetcode_3676_smallest-number-with-all-set-bits": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 96.227142,
+            "runtime_sum": 3558.501804999998,
+            "memory": 11.596,
+            "integral_max": 750.7629999999999,
+            "integral_sum": 27032.694000000007
+        }
+    },
+    "leetcode_3677_maximum-amount-of-money-robot-can-earn": {
+        "python3": null
+    },
+    "leetcode_3680_count-connected-components-in-lcm-graph": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.9625,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3681_maximum-area-rectangle-with-point-constraints-i": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 70.456491,
+            "runtime_sum": 3208.412368000001,
+            "memory": 11.808,
+            "integral_max": 711.152,
+            "integral_sum": 27186.752000000008
+        }
+    },
+    "leetcode_3682_count-the-number-of-arrays-with-k-matching-adjacent-elements": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 98.651875,
+            "runtime_sum": 5610.408548999997,
+            "memory": 12.568,
+            "integral_max": 972.972,
+            "integral_sum": 52108.36299999999
+        }
+    },
+    "leetcode_3683_find-the-lexicographically-largest-string-from-the-box-i": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.7375,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3684_substring-matching-pattern": {
+        "python3": null
+    },
+    "leetcode_3685_count-subarrays-of-length-three-with-a-condition": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 78.355485,
+            "runtime_sum": 3224.739442,
+            "memory": 11.708,
+            "integral_max": 784.595,
+            "integral_sum": 28403.444999999992
+        }
+    },
+    "leetcode_3687_longest-special-path": {
+        "python3": null
+    },
+    "leetcode_3689_maximum-area-rectangle-with-point-constraints-ii": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.975,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3690_smallest-substring-with-identical-characters-i": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.975,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3691_minimum-operations-to-make-columns-strictly-increasing": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 66.12774,
+            "runtime_sum": 3214.652608,
+            "memory": 11.728,
+            "integral_max": 637.926,
+            "integral_sum": 26005.073999999993
+        }
+    },
+    "leetcode_3696_count-substrings-divisible-by-last-digit": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.0125,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3702_maximum-subarray-with-equal-products": {
+        "python3": null
+    },
+    "leetcode_3704_count-partitions-with-even-sum-difference": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 80.16986,
+            "runtime_sum": 3318.9212329999996,
+            "memory": 11.704,
+            "integral_max": 739.947,
+            "integral_sum": 27199.225999999995
+        }
+    },
+    "leetcode_3708_zigzag-grid-traversal-with-skip": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.0125,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3709_find-special-substring-of-length-k": {
+        "python3": null
+    },
+    "leetcode_3712_minimum-cost-to-make-arrays-identical": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 82.036629,
+            "runtime_sum": 3316.682191,
+            "memory": 11.732,
+            "integral_max": 695.5369999999999,
+            "integral_sum": 26021.919999999987
+        }
+    },
+    "leetcode_3721_count-mentions-per-user": {
+        "python3": null
+    },
+    "leetcode_3723_sum-of-good-numbers": {
+        "python3": null
+    },
+    "leetcode_3731_sum-of-variable-length-subarrays": {
+        "python3": null
+    },
+    "leetcode_3733_length-of-longest-v-shaped-diagonal-segment": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.425,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3736_find-valid-pair-of-adjacent-digits-in-string": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 67.55498,
+            "runtime_sum": 2966.0674939999994,
+            "memory": 11.616,
+            "integral_max": 650.606,
+            "integral_sum": 25781.324000000004
+        }
+    },
+    "leetcode_3737_paint-house-iv": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 73.656409,
+            "runtime_sum": 3298.384382000001,
+            "memory": 11.732,
+            "integral_max": 643.3729999999999,
+            "integral_sum": 25643.244
+        }
+    },
+    "leetcode_3739_manhattan-distances-of-all-arrangements-of-pieces": {
+        "python3": null
+    },
+    "leetcode_3741_reschedule-meetings-for-maximum-free-time-ii": {
+        "python3": null
+    },
+    "leetcode_3743_reschedule-meetings-for-maximum-free-time-i": {
+        "python3": {
+            "passed": false,
+            "pass_rate": 0.475,
+            "runtime_max": null,
+            "runtime_sum": null,
+            "memory": null,
+            "integral_max": null,
+            "integral_sum": null
+        }
+    },
+    "leetcode_3747_maximum-difference-between-adjacent-elements-in-a-circular-array": {
+        "python3": null
+    },
+    "leetcode_3748_sort-matrix-by-diagonals": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 73.455384,
+            "runtime_sum": 3220.9409379999997,
+            "memory": 11.768,
+            "integral_max": 717.596,
+            "integral_sum": 28049.587999999996
+        }
+    },
+    "leetcode_3753_maximum-difference-between-even-and-odd-frequency-i": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 74.358507,
+            "runtime_sum": 3446.1160450000016,
+            "memory": 11.7,
+            "integral_max": 745.471,
+            "integral_sum": 27266.13099999999
+        }
+    },
+    "leetcode_3760_assign-elements-to-groups-with-constraints": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 71.057412,
+            "runtime_sum": 3525.8321499999997,
+            "memory": 11.752,
+            "integral_max": 641.207,
+            "integral_sum": 26913.299
+        }
+    },
+    "leetcode_3763_separate-squares-i": {
+        "python3": null
+    },
+    "leetcode_3768_check-if-digits-are-equal-in-string-after-operations-i": {
+        "python3": null
+    },
+    "leetcode_3774_check-if-digits-are-equal-in-string-after-operations-ii": {
+        "python3": {
+            "passed": true,
+            "pass_rate": 1.0,
+            "runtime_max": 95.971516,
+            "runtime_sum": 3574.0141710000003,
+            "memory": 11.784,
+            "integral_max": 708.86,
+            "integral_sum": 27338.252999999997
+        }
+    }
+}

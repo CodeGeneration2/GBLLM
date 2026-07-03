@@ -1,0 +1,5 @@
+provider:
+  base_url: ${EFFISKILL_BASE_URL}
+  api_key: ${EFFISKILL_API_KEY}
+  model: ${EFFISKILL_MODEL}
+  timeout_sec: ${EFFISKILL_LLM_TIMEOUT_SEC:180}
