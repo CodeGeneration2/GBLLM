@@ -1,6 +1,0 @@
-line_profiler
-memory_profiler
-transformers
-datasets
-numpy
-torch

@@ -1,8 +1,0 @@
-claim,value
-operator_skill_count,29.0
-candidate_skill_pairs,16412.0
-problem_bundle_observations,3134.0
-effective_skills_gpt5mini,12.5
-top5_share_gpt5mini,68.3
-effective_skills_qwen30b,10.78
-top5_share_qwen30b,70.0
